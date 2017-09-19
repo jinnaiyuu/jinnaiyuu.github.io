@@ -1,0 +1,178 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{aeronautiques1998pddl}
+Aeronautiques, C., Howe, A., Knoblock, C., McDermott, I.D., Ram, A., Veloso,
+  M., Weld, D., SRI, D.W., Barrett, A., Christianson, D., et~al.: Pddl—the
+  planning domain definition language version 1.2  (1998)
+
+\bibitem{algfoor2015comprehensive}
+Algfoor, Z.A., Sunar, M.S., Kolivand, H.: A comprehensive study on pathfinding
+  techniques for robotics and video games.
+\newblock International Journal of Computer Games Technology \textbf{2015}, 7
+  (2015)
+
+\bibitem{applegate2006traveling}
+Applegate, D.L.: The traveling salesman problem: a computational study.
+\newblock Princeton University Press (2006)
+
+\bibitem{asai2014fully}
+Asai, M., Fukunaga, A.: Fully automated cyclic planning for large-scale
+  manufacturing domains.
+\newblock In: {Proc. ICAPS} (2014)
+
+\bibitem{burnslrz10}
+Burns, E., Lemons, S., Ruml, W., Zhou, R.: Best-first heuristic search for
+  multicore machines.
+\newblock Journal of Artificial Intelligence Research (JAIR) \textbf{39},
+  689--743 (2010)
+
+\bibitem{culberson1997sokoban}
+Culberson, J.: Sokoban is pspace-complete  (1997)
+
+\bibitem{dijkstra1959note}
+Dijkstra, E.W.: A note on two problems in connexion with graphs.
+\newblock Numerische mathematik \textbf{1}(1), 269--271 (1959)
+
+\bibitem{edelkamp:2010:hst:1875144}
+Edelkamp, S., Schroedl, S.: Heuristic Search: Theory and Applications.
+\newblock Morgan Kaufmann Publishers Inc., San Francisco, CA, USA (2010)
+
+\bibitem{edgar2006multiple}
+Edgar, R.C., Batzoglou, S.: Multiple sequence alignment.
+\newblock Current opinion in structural biology \textbf{16}(3), 368--373 (2006)
+
+\bibitem{erdem2005genome}
+Erdem, E., Tillier, E.: Genome rearrangement and planning.
+\newblock In: {Proc. AAAI}, pp. 1139--1144 (2005)
+
+\bibitem{fikes:71}
+Fikes, R.E., Nilsson, N.: {STRIPS}: {A} {N}ew {A}pproach to the {A}pplication
+  of {T}heorem {P}roving to {P}roblem {S}olving.
+\newblock Artificial Intelligence \textbf{5}(2), 189--208 (1971)
+
+\bibitem{held1970traveling}
+Held, M., Karp, R.M.: The traveling-salesman problem and minimum spanning
+  trees.
+\newblock Operations Research \textbf{18}(6), 1138--1162 (1970)
+
+\bibitem{helmert2010scanalyzer}
+Helmert, M., Lasinger, H.: The scanalyzer domain: Greenhouse logistics as a
+  planning problem.
+\newblock In: {Proc. ICAPS} (2010)
+
+\bibitem{helmert:08}
+Helmert, M., Roger, G.: How good is almost perfect?
+\newblock In: Proceedings of the 23rd National Conference on Artificial
+  Intelligence AAAI-08, pp. 944--949 (2008)
+
+\bibitem{jinnai2016structured}
+Jinnai, Y., Fukunaga, A.: Abstract {Z}obrist hash: An efficient work
+  distribution method for parallel best-first search.
+\newblock In: {Proc. AAAI}, pp. 717--723 (2016)
+
+\bibitem{jinnai2016automated}
+Jinnai, Y., Fukunaga, A.: Automated creation of efficient work distribution
+  functions for parallel best-first search.
+\newblock In: {Proc. ICAPS} (2016)
+
+\bibitem{jinnai2017work}
+Jinnai, Y., Fukunaga, A.: On work distribution functions for parallel
+  best-first search.
+\newblock {Journal of Artificial Intelligence Research (JAIR)}  (2017).
+\newblock (to appear)
+
+\bibitem{johnson1879notes}
+Johnson, W.W., Story, W.E., et~al.: Notes on the” 15” puzzle.
+\newblock American Journal of Mathematics \textbf{2}(4), 397--404 (1879)
+
+\bibitem{kautz:92}
+Kautz, H., Selman, B.: {Planning as Satisfiability}.
+\newblock In: ECAI, pp. 359--363 (1992)
+
+\bibitem{kishimotofb13}
+Kishimoto, A., Fukunaga, A., Botea, A.: Evaluation of a simple, scalable,
+  parallel best-first search strategy.
+\newblock Artificial Intelligence \textbf{195}, 222--248 (2013).
+\newblock \doi{10.1016/j.artint.2012.10.007}.
+\newblock
+  \urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0004370212001294}
+
+\bibitem{korf:85a}
+Korf, R.: Depth-first iterative deepening: An optimal admissible tree search.
+\newblock Artificial Intelligence \textbf{97}, 97--109 (1985)
+
+\bibitem{korf:2000}
+Korf, R.E., Zhang, W.: Divide-and-conquer frontier search applied to optimal
+  sequence alignment.
+\newblock In: Proceedings of the 17th National Conference on Artificial
+  Intelligence AAAI-00, pp. 910--916 (2000)
+
+\bibitem{lipovetzky2015a}
+Lipovetzky, N., Ramirez, M., Geffner, H.: Classical planning with simulators:
+  Results on the {A}tari video games.
+\newblock In: {Proc. IJCAI}, pp. 1610--1616 (2015)
+
+\bibitem{mcdowell2011cracking}
+McDowell, G.L.: Cracking the coding interview.
+\newblock CarrerCup (2011)
+
+\bibitem{mcquillan1980new}
+McQuillan, J., Richer, I., Rosen, E.: The new routing algorithm for the
+  arpanet.
+\newblock IEEE Transactions on Communications \textbf{28}(5), 711--719 (1980)
+
+\bibitem{nash2007theta}
+Nash, A., Daniel, K., Koenig, S., Felner, A.: Theta\^{}*: Any-angle path
+  planning on grids.
+\newblock In: {Proc. AAAI}, pp. 1177--1183 (2007)
+
+\bibitem{pearl84}
+Pearl, J.: Heuristics - Intelligent Search Strategies for Computer Problem
+  Solving.
+\newblock Addison--Wesley (1984)
+
+\bibitem{pearson1990}
+Pearson, W.R.: Rapid and sensitive sequence comparison with {FASTP} and
+  {FASTA}.
+\newblock Methods in enzymology \textbf{183}, 63--98 (1990).
+\newblock Matrix score is available at
+  http://prowl.rockefeller.edu/aainfo/pam250.htm
+
+\bibitem{russelln03}
+Russell, S., Norvig, P.: Artificial Intelligence: A Modern Approach, 2nd
+  edition edn.
+\newblock Prentice-Hall, Englewood Cliffs, NJ (2003)
+
+\bibitem{skiena2006programming}
+Skiena, S.S., Revilla, M.A.: Programming challenges: The programming contest
+  training manual.
+\newblock Springer Science \& Business Media (2006)
+
+\bibitem{sousa2013toward}
+Sousa, A., Tavares, J.: Toward automated planning algorithms applied to
+  production and logistics.
+\newblock IFAC Proceedings Volumes \textbf{46}(24), 165--170 (2013)
+
+\bibitem{sturtevant2012benchmarks}
+Sturtevant, N.R.: Benchmarks for grid-based pathfinding.
+\newblock IEEE Transactions on Computational Intelligence and AI in Games
+  \textbf{4}(2), 144--148 (2012)
+
+\bibitem{yap2002grid}
+Yap, P.: Grid-based path-finding.
+\newblock In: Conference of the Canadian Society for Computational Studies of
+  Intelligence, pp. 44--55. Springer (2002)
+
+\bibitem{zobrist:70}
+Zobrist, A.L.: A new hashing method with applications for game playing.
+\newblock Tech. rep., Dept of {CS}, Univ. of Wisconsin, Madison (1970).
+\newblock Reprinted in {\it International Computer Chess Association Journal},
+  13(2):169-173, 1990
+
+\end{thebibliography}

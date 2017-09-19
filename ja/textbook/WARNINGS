@@ -1,0 +1,13 @@
+No implementation found for style `subfig'
+No implementation found for style `graphicx'
+No implementation found for style `enumitem'
+No implementation found for style `url'
+No implementation found for style `listings'
+No implementation found for style `lstlang0'
+No implementation found for style `algorithm2e'
+
+textbook.tex is newer than textbook.aux: Please rerun latex.
+
+? brace missing for \
+
+textbook.tex is newer than textbook.bbl: Please rerun latex and bibtex.
