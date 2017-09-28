@@ -8,7 +8,7 @@ The major challenges which need to be addressed when designing parallel search a
 
 We developed **Abstract Zobrist hashing**, a new work distribution method for paralel best-first search. Abstract Zobrist hashing reduces communication overhead while maintaining search overhead reasonably low. We evaluated parallel best-first search algorithms on sliding-tiles, grid path-finding, multiple sequence alignment, and classical planning in a **48 cores** bare-metal cluster as well as **a cloud cluster in EC2 with 128 cores**, and showed that Abstract Zobrist hashing significantly outperforms other methods.
 
-[The video of my presentation at ICAPS-16 is avaliable at YouTube.](https://youtu.be/x2mjIOkLQxw?t=42m57s) <!-- Embed? -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x2mjIOkLQxw?start=2552" frameborder="0" allowfullscreen></iframe>
 
 ## Code
 
@@ -27,3 +27,11 @@ Many questions are yet unanswered including:
 - Parallelizing non-classical planning (MDP, POMDP, etc.)
 - Abstract Zobrist hashing applied to two player games (MCTS etc.)
 
+
+## Publications
+
+- Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296
+- Jinnai Y, Fukunaga A. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Journal of Artificial Intelligence Research (JAIR). To appear.
+- Jinnai Y, Fukunaga A. 2017. A Graph-Partitioning Based Approach for Parallel Best-First Search. ICAPS 2017 Workshop on Heuristic and Search for Domain-Independent Planning (HSDIP). This paper summarizes work which will appear in a JAIR article.
+- Jinnai Y, Fukunaga A. 2016. Automated Creation of Efficient Work Distribution Functions for Parallel Best-First Search. Proc. 19th International Conference on Automated Planning and Scheduling (ICAPS-16)
+- Jinnai Y, Fukunaga A. 2016. Abstract Zobrist Hashing: An Efficient Work Distribution Method for Parallel Best-First Search. Proc. 30th AAAI Conference on Artificial Intelligence (AAAI-16)

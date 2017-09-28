@@ -38,8 +38,8 @@
 
 ## 学会活動 
 
-2017年度　第31回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2017/student/)
-2016年度　第30回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2016/student/)
+- 2017年度　第31回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2017/student/)
+- 2016年度　第30回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2016/student/)
 
 ## 研究助成
 
@@ -57,36 +57,42 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 陣内 佑, マルチコアマシンにおける並列A*探索の探索オーバーヘッドの解析とアルゴリズムの再評価 (2014) (指導教官: 福永Alex)
 
 
-## ティーチングアシスタント
+## ティーチング
+- 日本語版Open Data Structures  
+[Open Data Structures](http://opendatastructures.org/)はデータ構造とアルゴリズムの入門教科書であり、オープンソースで公開されております。私は[この教科書を日本語に翻訳し、無料で誰でも読めるようにするプロジェクト](https://sites.google.com/view/open-data-structures-ja/home)に参加しております。[翻訳中のドラフトはGithubで公開されております](https://github.com/spinute/ods)。プロジェクトの趣旨にご賛同いただける方には、ぜひご参加いただけましたらと思います。　[PDF](../pdf/ods-java.pdf)
+
+- [ヒューリスティック探索](./textbook)  
+日本語では教科書のないヒューリスティック探索という人工知能の一分野を扱った本を書いています。
+
 - 2016年度冬学期  
-寺子屋　(学際科学科に進学する文科出身の２年生の数学のフォローアップをするプログラム)
+TA: 寺子屋 (学際科学科に進学する文科出身の２年生の数学のフォローアップをするプログラム)
 
 - 2016年度夏学期  
-情報工学実験
+TA: 情報工学実験
 
 - 2015年度冬学期  
-寺子屋
+TA: 寺子屋 (学際科学科に進学する文科出身の２年生の数学のフォローアップをするプログラム)
 
 - 2015年度夏学期  
-理科生のための初年次ゼミナール  
-情報工学実験
+TA: 理科生のための初年次ゼミナール  
+TA: 情報工学実験
 
 
 ## 受賞など
 
-- 2017年3月    一高記念賞
+- 2017年3月    [一高記念賞](https://ja.wikipedia.org/wiki/%E4%B8%80%E9%AB%98%E8%A8%98%E5%BF%B5%E8%B3%9E)
 
 ## セミナー
 
 - 2017年2月 Graph search algorithms for classical planning. 北海道大学[離散構造処理系プロジェクト](https://www-erato.ist.hokudai.ac.jp/index.php)
 
 ## 略歴
-- 2017年6月~                  Ph.D. program, Department of Computer Science, Brown University
+- 2017年6月~ Ph.D. program, Department of Computer Science, Brown University
 - 2017年3月~2017年5月 テクニカルスタッフ、理化学研究所革新知能統合研究センター
 - 2015年4月~2017年3月 東京大学大学院総合文化研究科広域科学専攻修士課程
 - 2011年4月~2015年3月 東京大学教養学部学際科学科地球システム・エネルギーコース
-- 2013年8月~2013年12月 The University of British Columbiaへ交換留学
-- ~2011年3月                   筑波大学附属駒場高等学校
+- 2013年8月~2013年12月 The University of British Columbiaへ交換留学 ([先頭の報告書が私のものです](http://www.u-tokyo.ac.jp/content/400007080.pdf))
+- ~2011年3月 筑波大学附属駒場高等学校
 
 ## その他
 - 2013年9月~2016年8月             Resident assistant for international students at University of Tokyo International lodge, Komaba lodge
