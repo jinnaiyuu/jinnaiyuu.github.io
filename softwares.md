@@ -1,7 +1,7 @@
 # Softwares
 
 Please let me know if you have questions.
-Email: yuu_jinnai [at] brown [dot] edu
+Email: ddyuudd [at] gmail [dot] com
 
 - Parallel Best-First Search
     - Hash Distributed A* for a classical planner built on top of fast-downward planner (MPI) [CODE](https://github.com/jinnaiyuu/distributed-fast-downward)
