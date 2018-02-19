@@ -3,24 +3,24 @@
 
 ## Affiliation
 
-- Jun. 2017- Ph.D. student at the Department of Computer Science at Brown University.
+- Ph.D. student at the Department of Computer Science at Brown University.
 - Email: ddyuudd [at] gmail [dot] com, yuu_jinnai [at] brown [dot] edu
-
 
 ## Biography
 
+- Jun. 2017- Ph.D. student at the Department of Computer Science at Brown University.
 - Mar. 2017-May. 2017 Technical staff at RIKEN Center for Advanced Intelligence Project (AIP)
 - Mar. 2017  M.A. from Graduate School of Arts and Sciences, the University of Tokyo. Adviser: Dr. Alex Fukunaga
 - Mar. 2015   B. S. degree from the University of Tokyo
 
 ## Research Interests
 
-Artificial Intelligence, Heuristic Search, Parallel Search, Reinforcement Learning
+Artificial Intelligence, Classical Planning, Heuristic Search, Parallel Search, Reinforcement Learning
 
 ## Journal Articles
 
-- Jinnai Y, Fukunaga A. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Journal of Artificial Intelligence Research (JAIR). To appear.
-[PAPER](https://arxiv.org/abs/1706.03254)
+- Jinnai Y, Fukunaga A. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Journal of Artificial Intelligence Research (JAIR). 
+[PAPER](http://www.jair.org/papers/paper5225.html)
 
 ## Peer Reviewed Conference Papers
 
