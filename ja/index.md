@@ -12,7 +12,7 @@
 
 ## ジャーナル論文
 
-- Jinnai Y, Fukunaga A. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Journal of Artificial Intelligence Research (JAIR). To appear.
+- Jinnai Y, Fukunaga A. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Journal of Artificial Intelligence Research (JAIR).
 [PAPER](https://arxiv.org/abs/1706.03254)
 
 ## 国際会議論文
