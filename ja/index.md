@@ -12,23 +12,32 @@
 
 ## ジャーナル論文
 
-- Jinnai Y, Fukunaga A. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Journal of Artificial Intelligence Research (JAIR).
+- Jinnai Y, Fukunaga A. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Journal of Artificial Intelligence Research (JAIR).  
 [PAPER](https://arxiv.org/abs/1706.03254)
 
 ## 国際会議論文
 
-- Jinnai Y, Fukunaga A. 2017. Learning to Prune Dominated Action Sequences in Online Black-box Planning. Proc. 31st AAAI Conference on Artificial Intelligence (AAAI-17) 
+- Jinnai Y, Fukunaga A. 2017. Learning to Prune Dominated Action Sequences in Online Black-box Planning. Proc. 31st AAAI Conference on Artificial Intelligence (AAAI-17)  
 [PAPER](../pdf/papers/AAAI-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf)
-- Jinnai Y, Fukunaga A. 2016. Automated Creation of Efficient Work Distribution Functions for Parallel Best-First Search. Proc. 19th International Conference on Automated Planning and Scheduling (ICAPS-16) [PAPER](../pdf/papers/ICAPS-16 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/ICAPS-16 slides.pdf) [VIDEO](https://youtu.be/x2mjIOkLQxw?t=42m57s)
-- Jinnai Y, Fukunaga A. 2016. Abstract Zobrist Hashing: An Efficient Work Distribution Method for Parallel Best-First Search. Proc. 30th AAAI Conference on Artificial Intelligence (AAAI-16) [PAPER](../pdf/papers/AAAI-16 Jinnai-Fukunaga.pdf) [POSTER](../pdf/slides/AAAI-16 poster.pdf)
+- Jinnai Y, Fukunaga A. 2016. Automated Creation of Efficient Work Distribution Functions for Parallel Best-First Search. Proc. 19th International Conference on Automated Planning and Scheduling (ICAPS-16)  
+[PAPER](../pdf/papers/ICAPS-16 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/ICAPS-16 slides.pdf) [VIDEO](https://youtu.be/x2mjIOkLQxw?t=42m57s)
+- Jinnai Y, Fukunaga A. 2016. Abstract Zobrist Hashing: An Efficient Work Distribution Method for Parallel Best-First Search. Proc. 30th AAAI Conference on Artificial Intelligence (AAAI-16)  
+[PAPER](../pdf/papers/AAAI-16 Jinnai-Fukunaga.pdf) [POSTER](../pdf/slides/AAAI-16 poster.pdf)
 
 ## 国際会議ワークショップ論文
 
-- Jinnai Y, Fukunaga A. 2017. A Graph-Partitioning Based Approach for Parallel Best-First Search. ICAPS 2017 Workshop on Heuristic and Search for Domain-Independent Planning (HSDIP). This paper summarizes work which will appear in a JAIR article. [PAPER](../pdf/papers/HSDIP-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [POSTER](../pdf/slides/ICAPS-17 poster.pdf)
+- Jinnai Y, Fukunaga A. 2017. A Graph-Partitioning Based Approach for Parallel Best-First Search. ICAPS 2017 Workshop on Heuristic and Search for Domain-Independent Planning (HSDIP). This paper summarizes work which will appear in a JAIR article.  
+[PAPER](../pdf/papers/HSDIP-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [POSTER](../pdf/slides/ICAPS-17 poster.pdf)
+
+## ブックチャプター
+
+- Fukunaga A, Botea A, Jinnai Y, Kishimoto A. 2018. Parallel A* for State-Space Search. Handbook of Parallel Constraint Reasoning, Youssef Hamadi, Lakhdar Sais (eds.), Springer. ISBN 978-3-319-63515-6.  
+[BOOK](https://www.springer.com/us/book/9783319635156).
 
 ## プリプリント
 
-- Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296 [PAPER](https://arxiv.org/abs/1708.05296)
+- Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
+[PAPER](https://arxiv.org/abs/1708.05296)
 
 ## 国内研究発表(査読無し)
 
@@ -62,8 +71,9 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 - 日本語版Open Data Structures  
 [Open Data Structures](http://opendatastructures.org/)はデータ構造とアルゴリズムの入門教科書であり、オープンソースで公開されております。私は[この教科書を日本語に翻訳し、無料で誰でも読めるようにするプロジェクト](https://sites.google.com/view/open-data-structures-ja/home)に参加しております。[翻訳中のドラフトはGithubで公開されております](https://github.com/spinute/ods)。プロジェクトの趣旨にご賛同いただける方には、ぜひご参加いただけましたらと思います。　[PDF](../pdf/ods-java.pdf)
 
-- [ヒューリスティック探索](./textbook)  
-日本語では教科書のないヒューリスティック探索という人工知能の一分野を扱った本を書いています。
+- [ヒューリスティック探索](./pdf/textbook.pdf)  
+私の研究分野であるヒューリスティック探索は日本で扱っている人が少ないため、日本語のドキュメントが非常に少ないです。
+おそらく唯一となる日本語のヒューリスティック探索の教科書を目指して書いております。
 
 - 2016年度冬学期  
 TA: 寺子屋 (学際科学科に進学する文科出身の２年生の数学のフォローアップをするプログラム)
