@@ -17,25 +17,35 @@
 
 Artificial Intelligence, Classical Planning, Heuristic Search, Parallel Search, Reinforcement Learning
 
-## Journal Articles
+## Publications
 
-- Jinnai Y, Fukunaga A. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Journal of Artificial Intelligence Research (JAIR). 
+### 2018
+
+- Fukunaga A, Botea A, Jinnai Y, Kishimoto A. 2018. Parallel A* for State-Space Search. Handbook of Parallel Constraint Reasoning, Youssef Hamadi, Lakhdar Sais (eds.), Springer. ISBN 978-3-319-63515-6.  
+[BOOK](https://www.springer.com/us/book/9783319635156).
+
+### 2017
+
+- Jinnai Y, Fukunaga A. 2017. A Graph-Partitioning Based Approach for Parallel Best-First Search. ICAPS 2017 Workshop on Heuristic and Search for Domain-Independent Planning (HSDIP).  
+[PAPER](../pdf/papers/HSDIP-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [POSTER](../pdf/slides/ICAPS-17 poster.pdf) [CODE](https://github.com/jinnaiyuu/distributed-fast-downward)
+
+- Jinnai Y, Fukunaga A. 2017. Learning to Prune Dominated Action Sequences in Online Black-box Planning. Proc. 31st AAAI Conference on Artificial Intelligence (AAAI-17)  
+[PAPER](../pdf/papers/AAAI-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [CODE](https://github.com/jinnaiyuu/Atari-iterative-width)
+
+- Jinnai Y, Fukunaga A. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Journal of Artificial Intelligence Research (JAIR).   
 [PAPER](http://www.jair.org/papers/paper5225.html) [CODE](https://github.com/jinnaiyuu/distributed-fast-downward)
 
-## Peer Reviewed Conference Papers
+- Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
+[PAPER](https://arxiv.org/abs/1708.05296)
 
-- Jinnai Y, Fukunaga A. 2017. Learning to Prune Dominated Action Sequences in Online Black-box Planning. Proc. 31st AAAI Conference on Artificial Intelligence (AAAI-17) 
-[PAPER](../pdf/papers/AAAI-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [CODE](https://github.com/jinnaiyuu/Atari-iterative-width)
-- Jinnai Y, Fukunaga A. 2016. Automated Creation of Efficient Work Distribution Functions for Parallel Best-First Search. Proc. 19th International Conference on Automated Planning and Scheduling (ICAPS-16) [PAPER](../pdf/papers/ICAPS-16 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/ICAPS-16 slides.pdf) [VIDEO](https://youtu.be/x2mjIOkLQxw?t=42m57s) [CODE](https://github.com/jinnaiyuu/distributed-fast-downward)
-- Jinnai Y, Fukunaga A. 2016. Abstract Zobrist Hashing: An Efficient Work Distribution Method for Parallel Best-First Search. Proc. 30th AAAI Conference on Artificial Intelligence (AAAI-16) [PAPER](../pdf/papers/AAAI-16 Jinnai-Fukunaga.pdf) [POSTER](../pdf/slides/AAAI-16 poster.pdf) [CODE (PDDL)](https://github.com/jinnaiyuu/distributed-fast-downward) [CODE (sliding-tile, path-finding, MSA)](https://github.com/jinnaiyuu/Parallel-Best-First-Searches)
+### 2016
 
-## Workshop Papers
+- Jinnai Y, Fukunaga A. 2016. Automated Creation of Efficient Work Distribution Functions for Parallel Best-First Search. Proc. 19th International Conference on Automated Planning and Scheduling (ICAPS-16)  
+[PAPER](../pdf/papers/ICAPS-16 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/ICAPS-16 slides.pdf) [VIDEO](https://youtu.be/x2mjIOkLQxw?t=42m57s) [CODE](https://github.com/jinnaiyuu/distributed-fast-downward)
 
-- Jinnai Y, Fukunaga A. 2017. A Graph-Partitioning Based Approach for Parallel Best-First Search. ICAPS 2017 Workshop on Heuristic and Search for Domain-Independent Planning (HSDIP). This paper summarizes work which will appear in a JAIR article. [PAPER](../pdf/papers/HSDIP-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [POSTER](../pdf/slides/ICAPS-17 poster.pdf) [CODE](https://github.com/jinnaiyuu/distributed-fast-downward)
+- Jinnai Y, Fukunaga A. 2016. Abstract Zobrist Hashing: An Efficient Work Distribution Method for Parallel Best-First Search. Proc. 30th AAAI Conference on Artificial Intelligence (AAAI-16)  
+[PAPER](../pdf/papers/AAAI-16 Jinnai-Fukunaga.pdf) [POSTER](../pdf/slides/AAAI-16 poster.pdf) [CODE (PDDL)](https://github.com/jinnaiyuu/distributed-fast-downward) [CODE (sliding-tile, path-finding, MSA)](https://github.com/jinnaiyuu/Parallel-Best-First-Searches)
 
-## Preprints
-
-- Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296 [PAPER](https://arxiv.org/abs/1708.05296)
 
 ## Grants/Scholarships
 
