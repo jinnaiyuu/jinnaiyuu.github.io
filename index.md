@@ -21,6 +21,8 @@ Artificial Intelligence, Classical Planning, Heuristic Search, Parallel Search, 
 
 ### 2018
 
+- Abel D\*, Jinnai Y\*, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. To appear. \*These authors contributed equally to this work.
+
 - Fukunaga A, Botea A, Jinnai Y, Kishimoto A. 2018. Parallel A* for State-Space Search. Handbook of Parallel Constraint Reasoning, Youssef Hamadi, Lakhdar Sais (eds.), Springer. ISBN 978-3-319-63515-6.  
 [BOOK](https://www.springer.com/us/book/9783319635156).
 
@@ -33,7 +35,7 @@ Artificial Intelligence, Classical Planning, Heuristic Search, Parallel Search, 
 [PAPER](../pdf/papers/AAAI-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [CODE](https://github.com/jinnaiyuu/Atari-iterative-width)
 
 - Jinnai Y, Fukunaga A. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Journal of Artificial Intelligence Research (JAIR).   
-[PAPER](http://www.jair.org/papers/paper5225.html) [CODE](https://github.com/jinnaiyuu/distributed-fast-downward)
+[PAPER](https://doi.org/10.1613/jair.5225) [CODE](https://github.com/jinnaiyuu/distributed-fast-downward)
 
 - Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
 [PAPER](https://arxiv.org/abs/1708.05296)
