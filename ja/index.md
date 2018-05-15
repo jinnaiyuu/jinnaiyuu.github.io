@@ -8,7 +8,12 @@
 
 ## 研究分野
 
-人工知能、グラフ探索、並列探索アルゴリズム、強化学習
+人工知能、強化学習、プランニング、グラフ探索、並列探索アルゴリズム
+
+## ブックチャプター
+
+- Fukunaga A, Botea A, Jinnai Y, Kishimoto A. 2018. Parallel A* for State-Space Search. Handbook of Parallel Constraint Reasoning, Youssef Hamadi, Lakhdar Sais (eds.), Springer. ISBN 978-3-319-63515-6.  
+[BOOK](https://www.springer.com/us/book/9783319635156).
 
 ## ジャーナル論文
 
@@ -18,7 +23,7 @@
 ## 国際会議論文
 - Abel D\*, Jinnai Y\*, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. To appear. \*These authors contributed equally to this work.
 - Jinnai Y, Fukunaga A. 2017. Learning to Prune Dominated Action Sequences in Online Black-box Planning. Proc. 31st AAAI Conference on Artificial Intelligence (AAAI-17)  
-[PAPER](../pdf/papers/AAAI-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf)
+[PAPER](../pdf/papers/AAAI-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [CODE](https://github.com/jinnaiyuu/Atari-iterative-width)
 - Jinnai Y, Fukunaga A. 2016. Automated Creation of Efficient Work Distribution Functions for Parallel Best-First Search. Proc. 19th International Conference on Automated Planning and Scheduling (ICAPS-16)  
 [PAPER](../pdf/papers/ICAPS-16 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/ICAPS-16 slides.pdf) [VIDEO](https://youtu.be/x2mjIOkLQxw?t=42m57s)
 - Jinnai Y, Fukunaga A. 2016. Abstract Zobrist Hashing: An Efficient Work Distribution Method for Parallel Best-First Search. Proc. 30th AAAI Conference on Artificial Intelligence (AAAI-16)  
@@ -28,11 +33,6 @@
 
 - Jinnai Y, Fukunaga A. 2017. A Graph-Partitioning Based Approach for Parallel Best-First Search. ICAPS 2017 Workshop on Heuristic and Search for Domain-Independent Planning (HSDIP). This paper summarizes work which will appear in a JAIR article.  
 [PAPER](../pdf/papers/HSDIP-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [POSTER](../pdf/slides/ICAPS-17 poster.pdf)
-
-## ブックチャプター
-
-- Fukunaga A, Botea A, Jinnai Y, Kishimoto A. 2018. Parallel A* for State-Space Search. Handbook of Parallel Constraint Reasoning, Youssef Hamadi, Lakhdar Sais (eds.), Springer. ISBN 978-3-319-63515-6.  
-[BOOK](https://www.springer.com/us/book/9783319635156).
 
 ## プリプリント
 
@@ -69,7 +69,7 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 
 ## ティーチング
 - 日本語版Open Data Structures  
-[Open Data Structures](http://opendatastructures.org/)はデータ構造とアルゴリズムの入門教科書であり、オープンソースで公開されております。私は[この教科書を日本語に翻訳し、無料で誰でも読めるようにするプロジェクト](https://sites.google.com/view/open-data-structures-ja/home)に参加しております。[翻訳中のドラフトはGithubで公開されております](https://github.com/spinute/ods)。プロジェクトの趣旨にご賛同いただける方には、ぜひご参加いただけましたらと思います。　[PDF](../pdf/ods-java.pdf)
+[Open Data Structures](http://opendatastructures.org/)はデータ構造とアルゴリズムの入門教科書であり、オープンソースで公開されております。私は[この教科書を日本語に翻訳し、無料で誰でも読めるようにするプロジェクト](https://sites.google.com/view/open-data-structures-ja/home)に参加しております。[翻訳中のドラフトはGithubで公開されております](https://github.com/spinute/ods)。2018年夏頃に校了予定です。
 
 - [ヒューリスティック探索](../pdf/textbook.pdf)  
 私の研究分野であるヒューリスティック探索は日本で扱っている人が少ないため、日本語のドキュメントが非常に少ないです。

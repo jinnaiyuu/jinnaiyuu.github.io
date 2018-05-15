@@ -15,7 +15,7 @@
 
 ## Research Interests
 
-Artificial Intelligence, Classical Planning, Heuristic Search, Parallel Search, Reinforcement Learning
+Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic Search, Parallel Search
 
 ## Publications
 
