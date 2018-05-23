@@ -21,7 +21,7 @@ Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic S
 
 ### 2018
 
-- Wang L\*, Zhao Y\*, Jinnai Y\*. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. (Preprint) arXiv 1805.07440. \*These authors contributed equally to this work.  
+- (Preprint) Wang L\*, Zhao Y\*, Jinnai Y\*. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. arXiv 1805.07440. \*These authors contributed equally to this work.  
 [PAPER](https://arxiv.org/abs/1805.07440)
 
 - Abel D\*, Jinnai Y\*, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. To appear. \*These authors contributed equally to this work.
@@ -40,7 +40,7 @@ Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic S
 - Jinnai Y, Fukunaga A. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Journal of Artificial Intelligence Research (JAIR).   
 [PAPER](https://doi.org/10.1613/jair.5225) [CODE](https://github.com/jinnaiyuu/distributed-fast-downward)
 
-- Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. (Preprint) arXiv 1708.05296  
+- (Preprint) Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
 [PAPER](https://arxiv.org/abs/1708.05296)
 
 ### 2016
