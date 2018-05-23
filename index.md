@@ -22,7 +22,7 @@ Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic S
 ### 2018
 
 - Wang L\*, Zhao Y\*, Jinnai Y\*. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. (Preprint) arXiv 1805.07440. \*These authors contributed equally to this work.  
-[PAPER] (https://arxiv.org/abs/1805.07440)
+[PAPER](https://arxiv.org/abs/1805.07440)
 
 - Abel D\*, Jinnai Y\*, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. To appear. \*These authors contributed equally to this work.
 
