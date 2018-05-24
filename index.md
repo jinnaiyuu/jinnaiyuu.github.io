@@ -24,10 +24,11 @@ Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic S
 - (Preprint) Wang L\*, Zhao Y\*, Jinnai Y\*. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. arXiv 1805.07440. \*These authors contributed equally to this work.  
 [PAPER](https://arxiv.org/abs/1805.07440)
 
-- Abel D\*, Jinnai Y\*, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. To appear. \*These authors contributed equally to this work.
+- Abel D\*, Jinnai Y\*, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. To appear. \*These authors contributed equally to this work.  
+[POSTER](../pdf/slides/NEML-18 poster.pdf)
 
 - Fukunaga A, Botea A, Jinnai Y, Kishimoto A. 2018. Parallel A* for State-Space Search. Handbook of Parallel Constraint Reasoning, Youssef Hamadi, Lakhdar Sais (eds.), Springer. ISBN 978-3-319-63515-6.  
-[BOOK](https://www.springer.com/us/book/9783319635156).
+[BOOK](https://www.springer.com/us/book/9783319635156)
 
 ### 2017
 
