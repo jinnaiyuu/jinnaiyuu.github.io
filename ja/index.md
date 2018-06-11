@@ -22,7 +22,7 @@
 
 ## 国際会議論文
 - Abel D\*, Jinnai Y\*, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. To appear. \*These authors contributed equally to this work.  
-[POSTER](../pdf/slides/NEML-18 poster.pdf)
+[PAPER](../pdf/papers/ICML-18.pdf) [POSTER](../pdf/slides/NEML-18 poster.pdf)
 - Jinnai Y, Fukunaga A. 2017. Learning to Prune Dominated Action Sequences in Online Black-box Planning. Proc. 31st AAAI Conference on Artificial Intelligence (AAAI-17)  
 [PAPER](../pdf/papers/AAAI-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [CODE](https://github.com/jinnaiyuu/Atari-iterative-width)
 - Jinnai Y, Fukunaga A. 2016. Automated Creation of Efficient Work Distribution Functions for Parallel Best-First Search. Proc. 19th International Conference on Automated Planning and Scheduling (ICAPS-16)  
@@ -109,6 +109,7 @@ TA: 情報工学実験
 - ~2011年3月 筑波大学附属駒場高等学校
 
 ## その他
+- Reviewer, Journal of Artificial Intelligence Research
 - 2013年9月~2016年8月             Resident assistant for international students at University of Tokyo International lodge, Komaba lodge
 
 

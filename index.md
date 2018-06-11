@@ -25,7 +25,7 @@ Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic S
 [PAPER](https://arxiv.org/abs/1805.07440)
 
 - Abel D\*, Jinnai Y\*, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. To appear. \*These authors contributed equally to this work.  
-[POSTER](../pdf/slides/NEML-18 poster.pdf)
+[PAPER](../pdf/papers/ICML-18.pdf) [POSTER](../pdf/slides/NEML-18 poster.pdf)
 
 - Fukunaga A, Botea A, Jinnai Y, Kishimoto A. 2018. Parallel A* for State-Space Search. Handbook of Parallel Constraint Reasoning, Youssef Hamadi, Lakhdar Sais (eds.), Springer. ISBN 978-3-319-63515-6.  
 [BOOK](https://www.springer.com/us/book/9783319635156)
@@ -55,7 +55,7 @@ Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic S
 
 ## Grants/Scholarships
 
-- 2015-2017 JASSO scholarship with particularly outstanding academic achievements
+- 2015-2017 JASSO scholarship with particularly outstanding academic achievements (approx. $21,000)
 - 2017 Department of System Sciences: Grants for Doctoral Students Attending International Conferences (ja) (AAAI-17)
 - 2016 Initiative on Promotion of Supercomputing for Young or Women Researchers,Supercomputing Division,Information Technology Center,The University of Tokyo
 - 2016 NEC C&C Foundation: Grants for Researchers Attending International Conferences  (ICAPS-16)
@@ -87,6 +87,7 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 
 ## Others
 
+- Reviewer, Journal of Artificial Intelligence Research
 - 2017 Ichiko Memorial Award (ja), Graduate School of Arts and Sciences, University of Tokyo (2017) (summa cum laude)
 - Sep. 2013~Aug. 2016 Resident assistant for international students at Univeristy of Tokyo International lodge, Komaba lodge
 
