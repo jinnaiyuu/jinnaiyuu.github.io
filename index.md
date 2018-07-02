@@ -10,8 +10,8 @@
 
 - Jun. 2017- Ph.D. student at the Department of Computer Science at Brown University.
 - Mar. 2017-May. 2017 Technical staff at RIKEN Center for Advanced Intelligence Project (AIP)
-- Mar. 2017  M.A. from Graduate School of Arts and Sciences, the University of Tokyo. Adviser: Dr. Alex Fukunaga
-- Mar. 2015   B. S. degree from the University of Tokyo
+- Mar. 2017 M.A. from Graduate School of Arts and Sciences, the University of Tokyo. Adviser: Dr. Alex Fukunaga
+- Mar. 2015 B.S. degree from the University of Tokyo
 
 ## Research Interests
 
@@ -23,7 +23,6 @@ Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic S
 
 - (Preprint) Wang L\*, Zhao Y\*, Jinnai Y\*. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. arXiv 1805.07440. \*These authors contributed equally to this work.  
 [PAPER](https://arxiv.org/abs/1805.07440)
-
 
 - Abel D\*, Jinnai Y\*, Konidaris G, Guo Y, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. To appear. \*These authors contributed equally to this work.  
 [PAPER](../pdf/papers/ICML-18.pdf) [POSTER](../pdf/posters/NEML-18 poster.pdf)
@@ -65,13 +64,13 @@ Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic S
 ## Teaching
 
 - 2016 Winter Semester  
-Teaching assistant of Terakoya program at the University of Tokyo. Terakoya is a program for undergraduate students with little background on mathematics or computer science. (Terakoya is named after the private elementary schools in the Edo period in Japan.)
+Teaching assistant for *Terakoya* program, which is a program to walk through introductory level math and computer science for undergraduates at the University of Tokyo.
 
 - 2016 Summer Semester  
 I was working as a teaching assistant (TA) for information engineering at the University of Tokyo.
 
 - 2015 Winter Semester  
-I was teaching graph theory with flip-teaching style in Terakoya program. 
+I was teaching introductory graph theory with flip-teaching style for Terakoya program at the University of Tokyo.
 
 - 2015 Summer Semester  
 I was a teaching assistant (TA) for first year seminar for science student at the University of Tokyo.

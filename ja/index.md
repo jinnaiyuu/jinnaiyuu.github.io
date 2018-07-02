@@ -74,6 +74,8 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 - 日本語版Open Data Structures  
 [Open Data Structures](http://opendatastructures.org/)はデータ構造とアルゴリズムの入門教科書であり、オープンソースで公開されております。私は[この教科書を日本語に翻訳し、無料で誰でも読めるようにするプロジェクト](https://sites.google.com/view/open-data-structures-ja/home)に参加しております。[翻訳中のドラフトはGithubで公開されております](https://github.com/spinute/ods)。2018年夏頃に校了予定です。
 
+[BOOK](../pdf/ods-cpp.pdf)
+
 - [ヒューリスティック探索](../pdf/textbook.pdf)  
 私の研究分野であるヒューリスティック探索は日本で扱っている人が少ないため、日本語のドキュメントが非常に少ないです。
 おそらく唯一となる日本語のヒューリスティック探索の教科書を目指して書いております。
