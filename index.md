@@ -83,7 +83,8 @@ I was a teaching assistant (TA) for information engineering at the University of
 ## Thesis
 
 - Master Thesis  
-Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Thesis Advisor: Alex Fukunaga. University of Tokyo. [PAPER](../pdf/papers/MasterThesis.pdf)
+Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Thesis Advisor: Alex Fukunaga. University of Tokyo.  
+[PAPER](../pdf/papers/MasterThesis.pdf)
 
 ## Others
 
