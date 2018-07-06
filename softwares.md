@@ -12,6 +12,5 @@ Email: ddyuudd [at] gmail [dot] com
 - Dominated Action Sequence Detection (Atari)
     - Dominated action sequence detection implemented to blind search for Arcade Learning Environment (Atari) [CODE](https://github.com/jinnaiyuu/Atari-iterative-width)
 
-- Parallel Pattern Mining
-    - Parallel significant pattern mining (under construction)
-
+- Transfer in Lifelong Reinforcement Learning
+    - Q-learning, RMax, Delayed Q-learning with transfer in Lifelong Reinforcement Learning  [CODE](https://github.com/david-abel/transfer_rl_icml_2018)
