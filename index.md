@@ -25,7 +25,7 @@ Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic S
 [PAPER](https://arxiv.org/abs/1805.07440)
 
 - Abel D\*, Jinnai Y\*, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. To appear. \*These authors contributed equally to this work.  
-[PAPER](../pdf/papers/ICML-18.pdf) [POSTER](../pdf/posters/NEML-18 poster.pdf) [CODE](https://github.com/david-abel/transfer_rl_icml_2018)
+[PAPER](../pdf/papers/ICML-18.pdf) [POSTER](../pdf/posters/NEML-18 poster.pdf) [CODE](https://github.com/david-abel/transfer_rl_icml_2018) [TALK by D. Abel](https://youtu.be/x98LGXidIYA?t=46m32s)
 
 - Fukunaga A, Botea A, Jinnai Y, Kishimoto A. 2018. Parallel A* for State-Space Search. Handbook of Parallel Constraint Reasoning, Youssef Hamadi, Lakhdar Sais (eds.), Springer. ISBN 978-3-319-63515-6.  
 [BOOK](https://www.springer.com/us/book/9783319635156)
