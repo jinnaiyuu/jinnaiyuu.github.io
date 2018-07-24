@@ -103,7 +103,8 @@ TA: 情報工学実験
 
 ## セミナー
 
-1- 2017年2月 Graph search algorithms for classical planning. 北海道大学[離散構造処理系プロジェクト](https://www-erato.ist.hokudai.ac.jp/index.php)
+- 2018年7月 Automated Deep Learning by Neural Architecture Search. NICT.
+- 2017年2月 Graph search algorithms for classical planning. 北海道大学[離散構造処理系プロジェクト](https://www-erato.ist.hokudai.ac.jp/index.php)
 
 ## 略歴
 - 2017年6月~ Ph.D. program, Department of Computer Science, Brown University

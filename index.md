@@ -15,7 +15,7 @@
 
 ## Research Interests
 
-Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic Search, Parallel Search
+Artificial Intelligence, Reinforcement Learning, Deep Learning, Classical Planning, Heuristic Search, Parallel Search
 
 ## Publications
 
@@ -77,6 +77,8 @@ I was a teaching assistant (TA) for first year seminar for science student at th
 I was a teaching assistant (TA) for information engineering at the University of Tokyo.
 
 ## Seminars
+
+- Jan. 2018. Automated Deep Learning by Neural Architecture Search. NICT.
 
 - Feb. 2017. Graph search algorithms for classical planning. Discrete Structure Manipulation System Project. Hokkaido University.
 
