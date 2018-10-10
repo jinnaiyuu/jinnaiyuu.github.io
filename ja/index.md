@@ -79,7 +79,7 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 日本語版の書籍そのものはCC BYライセンスではありませんが、[原稿テキストおよび原稿のPDFをGithubでCC BYで公開しています](https://github.com/spinute/ods)  (レイアウト・スタイルは書籍版と異なります)。  
 [BOOK](../pdf/ods-cpp.pdf)
 
-- [ヒューリスティック探索 (書き途中)](../pdf/textbook.pdf)  
+- ヒューリスティック探索 (書き途中)  
 私の研究分野であるヒューリスティック探索は日本で扱っている人が少ないため、日本語のドキュメントが非常に少ないです。
 おそらく唯一となる日本語のヒューリスティック探索の教科書を目指して書いております。
 
