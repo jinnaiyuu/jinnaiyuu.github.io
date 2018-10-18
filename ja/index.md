@@ -40,8 +40,8 @@
 
 ## プリプリント
 
-- (Preprint) Jinnai Y, Abel D, Littman M, Konidaris G. 2018. Finding Option that Minimizes Planning Time. arXiv 1810.07311.  
-[PAPER](https://arxiv.org/abs/1810.07311)
+- Jinnai Y, Abel D, Littman M, Konidaris G. 2018. Finding Option that Minimizes Planning Time. arXiv 1810.07311.  
+[PAPER](https://arxiv.org/abs/1810.07311) [SLIDES](../pdf/slides/arXiv-options slides.pdf)
 
 - Wang L\*, Zhao Y\*, Jinnai Y\*. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. (Preprint) arXiv 1805.07440. \*These authors contributed equally to this work.  
 [PAPER](https://arxiv.org/abs/1805.07440)
