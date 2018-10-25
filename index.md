@@ -21,13 +21,13 @@ Artificial Intelligence, Reinforcement Learning, Deep Learning, Classical Planni
 
 ### 2018
 
-- (Preprint) Jinnai Y, Abel D, Littman M, Konidaris G. 2018. Finding Option that Minimizes Planning Time. arXiv 1810.07311.  
+- (Preprint) Jinnai Y, Abel D, Littman M, Konidaris G. 2018. Finding Options that Minimize Planning Time. arXiv 1810.07311.  
 [PAPER](https://arxiv.org/abs/1810.07311) [SLIDES](../pdf/slides/arXiv-options slides.pdf)
 
 - (Preprint) Wang L\*, Zhao Y\*, Jinnai Y\*. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. arXiv 1805.07440. \*These authors contributed equally to this work.  
 [PAPER](https://arxiv.org/abs/1805.07440)
 
-- Abel D\*, Jinnai Y\*, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. To appear. \*These authors contributed equally to this work.  
+- Abel D\*, Jinnai Y\*, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. \*These authors contributed equally to this work.  
 [PAPER](../pdf/papers/ICML-18.pdf) [POSTER](../pdf/posters/NEML-18 poster.pdf) [CODE](https://github.com/david-abel/transfer_rl_icml_2018) [TALK by D. Abel](https://youtu.be/x98LGXidIYA?t=46m32s)
 
 - Fukunaga A, Botea A, Jinnai Y, Kishimoto A. 2018. Parallel A* for State-Space Search. Handbook of Parallel Constraint Reasoning, Youssef Hamadi, Lakhdar Sais (eds.), Springer. ISBN 978-3-319-63515-6.  
