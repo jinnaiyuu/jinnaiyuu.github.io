@@ -19,6 +19,10 @@ Artificial Intelligence, Reinforcement Learning, Deep Learning, Classical Planni
 
 ## Publications
 
+### 2019
+
+- David Abel, Dilip Arumugam, Kavosh Asadi, Yuu Jinnai, Michael L. Littman, Lawson L.S. Wong. 2019. State Abstraction as Compression in Apprenticeship Learning. Proc. 33rd AAAI Conference on Artificial Intelligence (AAAI-19). To appear.
+
 ### 2018
 
 - (Preprint) Jinnai Y, Abel D, Littman M, Konidaris G. 2018. Finding Options that Minimize Planning Time. arXiv 1810.07311.  

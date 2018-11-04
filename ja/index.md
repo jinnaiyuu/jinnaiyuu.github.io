@@ -21,6 +21,9 @@
 [PAPER](https://arxiv.org/abs/1706.03254)
 
 ## 国際会議論文
+
+- Abel D, Arumugam D, Asadi K, Jinnai Y, Littman M, Wong L, 2019. State Abstraction as Compression in Apprenticeship Learning. Proc. 33rd AAAI Conference on Artificial Intelligence (AAAI-19). To appear.
+
 - Abel D\*, Jinnai Y\*, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. \*These authors contributed equally to this work.  
 [PAPER](../pdf/papers/ICML-18.pdf) [POSTER](../pdf/posters/NEML-18 poster.pdf)  [CODE](https://github.com/david-abel/transfer_rl_icml_2018)
 
