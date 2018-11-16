@@ -7,7 +7,7 @@
 {% seo %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=2">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -32,18 +32,18 @@
             <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
             <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
           </ul>
+          {% endif %}
+	  <br>
+	  <br>
+        {% if site.github.is_project_page %}
+        <p>This page is maintained by <a href="{{ site.github.owner_url }}">Yuu Jinnai</a></p>
         {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>	  
       </header>
       <section>
       {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This page is maintained by <a href="{{ site.github.owner_url }}">Yuu Jinnai</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
