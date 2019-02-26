@@ -23,7 +23,7 @@ Artificial Intelligence, Reinforcement Learning, Deep Learning, Classical Planni
 | ---:      | :--- |
 | <img src="../images/papers/AAAI-19.png" alt="aaai-19" width="700" />  | Abel D, Arumugam D, Asadi K, Jinnai Y, Littman M, Wong L. S. 2019. State Abstraction as Compression in Apprenticeship Learning. Proc. 33rd AAAI Conference on Artificial Intelligence (AAAI-19). [PAPER](../pdf/papers/AAAI-19.pdf) |
 | <img src="../images/papers/options.png" alt="options" width="700" />  | (Preprint) Jinnai Y, Abel D, Hershkowitz E, Littman M, Konidaris G. 2018. Finding Options that Minimize Planning Time. arXiv 1810.07311. [PAPER](https://arxiv.org/abs/1810.07311) [SLIDES](../pdf/slides/arXiv-options slides.pdf) |
-| <img src="../images/papers/alphaX.png" alt="alphaX" width="700" />  | (Preprint) Wang L\*, Zhao Y\*, Jinnai Y\*. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. arXiv 1805.07440. \*These authors contributed equally to this work. [PAPER](https://arxiv.org/abs/1805.07440) |
+| <img src="../images/papers/alphaX.png" alt="alphaX" width="700" />  | (Preprint) Wang L\*, Zhao Y\*, Jinnai Y, Fonseca R. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. arXiv 1805.07440. \*These authors contributed equally to this work. [PAPER](https://arxiv.org/abs/1805.07440) |
 | <img src="../images/papers/ICML-18.png" alt="icml-18" width="700" />  | Abel D\*, Jinnai Y\*, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. \*These authors contributed equally to this work. [PAPER](../pdf/papers/ICML-18.pdf) [POSTER](../pdf/posters/NEML-18 poster.pdf) [CODE](https://github.com/david-abel/transfer_rl_icml_2018) [TALK by D. Abel](https://youtu.be/x98LGXidIYA?t=46m32s) |
 | <img src="../images/papers/parallel-book.png" alt="book" width="100" />  | Fukunaga A, Botea A, Jinnai Y, Kishimoto A. 2018. Parallel A* for State-Space Search. Handbook of Parallel Constraint Reasoning, Youssef Hamadi, Lakhdar Sais (eds.), Springer. ISBN 978-3-319-63515-6. [BOOK](https://www.springer.com/us/book/9783319635156) |
 | <img src="../images/papers/HSDIP-17.png" alt="hsdip" width="700" />  | Jinnai Y, Fukunaga A. 2017. A Graph-Partitioning Based Approach for Parallel Best-First Search. ICAPS 2017 Workshop on Heuristic and Search for Domain-Independent Planning (HSDIP). [PAPER](../pdf/papers/HSDIP-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [POSTER](../pdf/posters/ICAPS-17 poster.pdf) [CODE](https://github.com/jinnaiyuu/distributed-fast-downward) |
@@ -58,9 +58,9 @@ I was a teaching assistant (TA) for information engineering at the University of
 
 ## Seminars
 
-- Jan. 2018. Automated Deep Learning by Neural Architecture Search. NICT.
+- Jan. 2018. Automated Deep Learning by Neural Architecture Search. National Institute of Information and Communications Technology, Japan.
 
-- Feb. 2017. Graph search algorithms for classical planning. Discrete Structure Manipulation System Project. Hokkaido University.
+- Feb. 2017. Graph search algorithms for classical planning. Discrete Structure Manipulation System Project. Hokkaido University, Japan.
 
 ## Thesis
 
@@ -70,7 +70,7 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 
 ## Others
 
-- Reviewer, Journal of Artificial Intelligence Research
+- Reviewer, Journal of Artificial Intelligence Research.
 - 2017 Ichiko Memorial Award (ja), Graduate School of Arts and Sciences, University of Tokyo (2017) (summa cum laude)
 - Sep. 2013~Aug. 2016 Resident assistant for international students at Univeristy of Tokyo International lodge, Komaba lodge
 
