@@ -43,16 +43,16 @@ Artificial Intelligence, Reinforcement Learning, Deep Learning, Classical Planni
 
 ## Teaching
 
-- 2016 Winter Semester  
+- 2016 Winter Semester (University of Tokyo)  
 Teaching assistant for *Terakoya* program, which is a program to walk through introductory level math and computer science for undergraduates at the University of Tokyo.
 
-- 2016 Summer Semester  
+- 2016 Summer Semester (University of Tokyo)  
 I was working as a teaching assistant (TA) for information engineering at the University of Tokyo.
 
-- 2015 Winter Semester  
+- 2015 Winter Semester (University of Tokyo)  
 I was teaching introductory graph theory with flip-teaching style for Terakoya program at the University of Tokyo.
 
-- 2015 Summer Semester  
+- 2015 Summer Semester (University of Tokyo)  
 I was a teaching assistant (TA) for first year seminar for science student at the University of Tokyo.
 I was a teaching assistant (TA) for information engineering at the University of Tokyo.
 
