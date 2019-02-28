@@ -123,6 +123,7 @@ TA: 情報工学実験
 - ~2011年3月 筑波大学附属駒場高等学校
 
 ## その他
+- Reviewer of International Conference of Machine Learning (2019).
 - Reviewer, Journal of Artificial Intelligence Research
 - 2013年9月~2016年8月             Resident assistant for international students at University of Tokyo International lodge, Komaba lodge
 
