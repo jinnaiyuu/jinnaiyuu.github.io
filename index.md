@@ -21,7 +21,7 @@ Artificial Intelligence, Reinforcement Learning, Deep Learning, Classical Planni
 
 
 | ---:      | :--- |
-| <img src="../images/papers/covering-optinos.png" alt="aaai-19" width="700" />  | (Preprint) Jinnai Y. Park JW, Abel D, Konidaris G. 2019. Discovering Options for Exploration by Minimizing Cover Time. arXiv 1903.00606. [PAPER](https://arxiv.org/abs/1903.00606) |
+| <img src="../images/papers/covering-options.png" alt="aaai-19" width="700" />  | (Preprint) Jinnai Y. Park JW, Abel D, Konidaris G. 2019. Discovering Options for Exploration by Minimizing Cover Time. arXiv 1903.00606. [PAPER](https://arxiv.org/abs/1903.00606) |
 | <img src="../images/papers/AAAI-19.png" alt="aaai-19" width="700" />  | Abel D, Arumugam D, Asadi K, Jinnai Y, Littman M, Wong L. S. 2019. State Abstraction as Compression in Apprenticeship Learning. Proc. 33rd AAAI Conference on Artificial Intelligence (AAAI-19). [PAPER](../pdf/papers/AAAI-19.pdf) |
 | <img src="../images/papers/options.png" alt="options" width="700" />  | (Preprint) Jinnai Y, Abel D, Hershkowitz E, Littman M, Konidaris G. 2018. Finding Options that Minimize Planning Time. arXiv 1810.07311. [PAPER](https://arxiv.org/abs/1810.07311) [SLIDES](../pdf/slides/arXiv-options slides.pdf) |
 | <img src="../images/papers/alphaX.png" alt="alphaX" width="700" />  | (Preprint) Wang L\*, Zhao Y\*, Jinnai Y, Fonseca R. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. arXiv 1805.07440. \*These authors contributed equally to this work. [PAPER](https://arxiv.org/abs/1805.07440) |
