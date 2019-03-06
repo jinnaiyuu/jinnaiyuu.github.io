@@ -44,6 +44,9 @@
 
 ## プリプリント
 
+- Jinnai Y. Park JW, Abel D, Konidaris G. 2019. Discovering Options for Exploration by Minimizing Cover Time. arXiv 1903.00606.  
+[PAPER](https://arxiv.org/abs/1903.00606)
+
 - Jinnai Y, Abel D, Hershkowitz E, Littman M, Konidaris G. 2018. Finding Options that Minimize Planning Time. arXiv 1810.07311.  
 [PAPER](https://arxiv.org/abs/1810.07311) [SLIDES](../pdf/slides/arXiv-options slides.pdf)
 
