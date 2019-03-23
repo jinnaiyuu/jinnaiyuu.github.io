@@ -10,7 +10,7 @@
 
 - Jun. 2017- Ph.D. student at the Department of Computer Science at Brown University.
 - Mar. 2017-May. 2017 Technical staff at RIKEN Center for Advanced Intelligence Project (AIP)
-- Mar. 2017 M.A. from Graduate School of Arts and Sciences, the University of Tokyo. Adviser: Dr. Alex Fukunaga
+- Mar. 2017 M.A. from Graduate School of Arts and Sciences, the University of Tokyo. Advised by [Alex Fukunaga](http://metahack.org/index.html)
 - Mar. 2015 B.S. degree from the University of Tokyo
 
 ## Research Interests
@@ -21,9 +21,9 @@ Artificial Intelligence, Reinforcement Learning, Deep Learning, Classical Planni
 
 
 | ---:      | :--- |
-| <img src="../images/papers/covering-options.png" alt="aaai-19" width="700" />  | (Preprint) **Jinnai Y**. Park JW, Abel D, Konidaris G. 2019. Discovering Options for Exploration by Minimizing Cover Time. arXiv 1903.00606. [PAPER](https://arxiv.org/abs/1903.00606) |
+| <img src="../images/papers/covering-option.png" alt="options-for-RL" width="350" /> | (Preprint) **Jinnai Y**. Park JW, Abel D, Konidaris G. 2019. Discovering Options for Exploration by Minimizing Cover Time. arXiv 1903.00606. [PAPER](https://arxiv.org/abs/1903.00606) |
 | <img src="../images/papers/AAAI-19.png" alt="aaai-19" width="700" />  | Abel D, Arumugam D, Asadi K, **Jinnai Y**, Littman M, Wong L. S. 2019. State Abstraction as Compression in Apprenticeship Learning. Proc. 33rd AAAI Conference on Artificial Intelligence (AAAI-19). [PAPER](../pdf/papers/AAAI-19.pdf) [CODE](https://github.com/david-abel/rl_info_theory) |
-| <img src="../images/papers/options.png" alt="options" width="700" />  | (Preprint) **Jinnai Y**, Abel D, Hershkowitz E, Littman M, Konidaris G. 2018. Finding Options that Minimize Planning Time. arXiv 1810.07311. [PAPER](https://arxiv.org/abs/1810.07311) [SLIDES](../pdf/slides/arXiv-options slides.pdf) |
+| <img src="../images/papers/options.png" alt="options-for-planning" width="700" />  | (Preprint) **Jinnai Y**, Abel D, Hershkowitz E, Littman M, Konidaris G. 2018. Finding Options that Minimize Planning Time. arXiv 1810.07311. [PAPER](https://arxiv.org/abs/1810.07311) [SLIDES](../pdf/slides/arXiv-options slides.pdf) |
 | <img src="../images/papers/alphaX.png" alt="alphaX" width="700" />  | (Preprint) Wang L\*, Zhao Y\*, **Jinnai Y**, Fonseca R. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. arXiv 1805.07440. \*These authors contributed equally to this work. [PAPER](https://arxiv.org/abs/1805.07440) [CODE](https://drive.google.com/file/d/13Y6zAgW8wiXvJI49lgGIoW4ZDIXZnQKM/view) |
 | <img src="../images/papers/ICML-18.png" alt="icml-18" width="700" />  | Abel D\*, **Jinnai Y\***, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. \*These authors contributed equally to this work. [PAPER](../pdf/papers/ICML-18.pdf) [POSTER](../pdf/posters/NEML-18 poster.pdf) [CODE](https://github.com/david-abel/transfer_rl_icml_2018) [TALK by D. Abel](https://youtu.be/x98LGXidIYA?t=46m32s) |
 | <img src="../images/papers/parallel-book.png" alt="book" width="100" /> | Fukunaga A, Botea A, **Jinnai Y**, Kishimoto A. 2018. Parallel A\* for State-Space Search. Handbook of Parallel Constraint Reasoning, Youssef Hamadi, Lakhdar Sais (eds.), Springer. ISBN 978-3-319-63515-6. [BOOK](https://www.springer.com/us/book/9783319635156) |

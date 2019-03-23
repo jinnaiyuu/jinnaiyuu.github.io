@@ -81,7 +81,7 @@
 Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Thesis Advisor: Alex Fukunaga. University of Tokyo. [PAPER](../pdf/papers/MasterThesis.pdf)
 
 - 学士  
-陣内 佑, マルチコアマシンにおける並列A*探索の探索オーバーヘッドの解析とアルゴリズムの再評価 (2014) (指導教官: 福永Alex)
+陣内 佑, マルチコアマシンにおける並列A*探索の探索オーバーヘッドの解析とアルゴリズムの再評価 (2014) (指導教官: [福永 Alex](http://metahack.org/index.html))
 
 
 ## ティーチング
@@ -92,7 +92,7 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 
 - ヒューリスティック探索 (書き途中)  
 私の研究分野であるヒューリスティック探索は日本で扱っている人が少ないため、日本語のドキュメントが非常に少ないです。
-おそらく唯一となる日本語のヒューリスティック探索の教科書を目指して書いております。
+日本語のヒューリスティック探索の教科書を目指して書いております。
 
 - 2016年度冬学期 (東京大学)  
 TA: 寺子屋 (学際科学科に進学する文科出身の２年生の数学のフォローアップをするプログラム)
