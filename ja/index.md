@@ -39,7 +39,7 @@
 
 ## 国際会議ワークショップ論文
 
-- Jinnai Y, Abel D, Park JW, Hershkowitz DE, Littman M, Konidaris G. 2019. Skill Discovery with Well-Defined Objectives. ICLR Worshop on Structure and Priors in Reinforcement Learning.
+- Jinnai Y, Abel D, Park JW, Hershkowitz DE, Littman M, Konidaris G. 2019. Skill Discovery with Well-Defined Objectives. ICLR Worshop on Structure and Priors in Reinforcement Learning.  
 [PAPER](../pdf/papers/SPiRL-19.pdf) [APPENDIX](../pdf/papers/SPiRL-19 Appendix.pdf)
 
 - Jinnai Y, Fukunaga A. 2017. A Graph-Partitioning Based Approach for Parallel Best-First Search. ICAPS 2017 Workshop on Heuristic and Search for Domain-Independent Planning (HSDIP). This paper summarizes work which will appear in a JAIR article.  
