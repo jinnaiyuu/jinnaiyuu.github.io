@@ -39,6 +39,9 @@
 
 ## 国際会議ワークショップ論文
 
+- Jinnai Y, Abel D, Park JW, Hershkowitz DE, Littman M, Konidaris G. 2019. Skill Discovery with Well-Defined Objectives. ICLR Worshop on Structure and Priors in Reinforcement Learning.
+[PAPER](../pdf/papers/SPiRL-19.pdf) [APPENDIX](../pdf/papers/SPiRL-19 Appendix.pdf)
+
 - Jinnai Y, Fukunaga A. 2017. A Graph-Partitioning Based Approach for Parallel Best-First Search. ICAPS 2017 Workshop on Heuristic and Search for Domain-Independent Planning (HSDIP). This paper summarizes work which will appear in a JAIR article.  
 [PAPER](../pdf/papers/HSDIP-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [POSTER](../pdf/posters/ICAPS-17 poster.pdf)
 
@@ -99,6 +102,9 @@ TA: 寺子屋 (学際科学科に進学する文科出身の２年生の数学�
 
 - 2016年度夏学期 (東京大学)  
 TA: 情報工学実験
+
+- 2015年度 (東京都立多摩科学技術高校)
+東京都立多摩科学技術高校にて非常勤講師。スーパーサイエンスハイスクール (SSH)事業の一環として海外での科学技術シンボジウム(Global Science Link)での研究発表を行う高校生に研究発表の準備のためのポスター作成、口頭発表方法を教えました。
 
 - 2015年度冬学期 (東京大学)  
 TA: 寺子屋 (学際科学科に進学する文科出身の２年生の数学のフォローアップをするプログラム)
