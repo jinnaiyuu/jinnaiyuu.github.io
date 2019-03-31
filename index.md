@@ -1,4 +1,4 @@
-1# Yuu Jinnai 
+# Yuu Jinnai 
 ![my photo](../images/me.jpeg)
 
 ## Affiliation
