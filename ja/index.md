@@ -3,6 +3,7 @@
 
 ## 所属
 
+- 2019年夏はMSR Cambridge, UKに行きます。
 - 2017年6月~ Brown University Ph.D. program. 指導教官は[George Konidaris](http://cs.brown.edu/people/gdk/).
 - Email: yuu_jinnai [at] brown [dot] edu
 

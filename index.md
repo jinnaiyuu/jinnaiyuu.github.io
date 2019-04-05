@@ -8,6 +8,7 @@
 
 ## Biography
 
+- Summer 2019 I will be at MSR Cambridge, UK. 
 - Jun. 2017- Ph.D. student at the Department of Computer Science at Brown University.
 - Mar. 2017-May. 2017 Technical staff at RIKEN Center for Advanced Intelligence Project (AIP)
 - Mar. 2017 M.A. from Graduate School of Arts and Sciences, the University of Tokyo. Advised by [Alex Fukunaga](http://metahack.org/index.html)
