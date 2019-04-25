@@ -54,8 +54,8 @@
 
 ## プリプリント
 
-- Wang L\*, Zhao Y\*, Jinnai Y, Fonseca R. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. (Preprint) arXiv 1805.07440. \*These authors contributed equally to this work.  
-[PAPER](https://arxiv.org/abs/1805.07440)
+- Wang L\*, Zhao Y\*, Jinnai Y, Tian Y, Fonseca R. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. (Preprint) arXiv 1805.07440. \*These authors contributed equally to this work.  
+[PAPER](https://arxiv.org/abs/1903.11059)
 
 - Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
 [PAPER](https://arxiv.org/abs/1708.05296)
