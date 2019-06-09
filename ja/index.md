@@ -24,10 +24,10 @@
 ## 国際会議論文
 
 - Jinnai Y. Park JW, Abel D, Konidaris G. 2019. Discovering Options for Exploration by Minimizing Cover Time. Proc. 36th International Conference on Machine Learning. (ICML-19) To appear.  
-[PAPER](../pdf/papers/ICML-19-rl.pdf)
+[PAPER](../pdf/papers/ICML-19-rl.pdf) [CODE](https://github.com/jinnaiyuu/Optimal-Options-ICML-2019)
 
 - Jinnai Y, Abel D, Hershkowitz E, Littman M, Konidaris G. 2018. Finding Options that Minimize Planning Time. Proc. 36th International Conference on Machine Learning. (ICML-19) To appear.  
-[PAPER](../pdf/papers/ICML-19-plan.pdf) [SLIDES](../pdf/slides/arXiv-options slides.pdf)
+[PAPER](../pdf/papers/ICML-19-plan.pdf) [CODE](https://github.com/jinnaiyuu/Optimal-Options-ICML-2019)
 
 - Abel D, Arumugam D, Asadi K, Jinnai Y, Littman M, Wong L, 2019. State Abstraction as Compression in Apprenticeship Learning. Proc. 33rd AAAI Conference on Artificial Intelligence (AAAI-19).  
 [PAPER](../pdf/papers/AAAI-19.pdf)
