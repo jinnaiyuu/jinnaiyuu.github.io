@@ -124,17 +124,18 @@ TA: 情報工学実験
 - 2018年7月 Automated Deep Learning by Neural Architecture Search. NICT.
 - 2017年2月 Graph search algorithms for classical planning. 北海道大学[離散構造処理系プロジェクト](https://www-erato.ist.hokudai.ac.jp/index.php)
 
+## その他
+
+- Reviewer of International Conference of Machine Learning (2019), Neural Information Processing Systems (2019), AAAI Conference on Artificial Intelligence (2020).
+- Reviewer of Journal of Machine Learning Research.
+- Reviewer of Journal of Artificial Intelligence Research.
+- 2013年9月~2016年8月             Resident assistant for international students at University of Tokyo International lodge, Komaba lodge
+
 ## 略歴
+
 - 2017年6月~ Ph.D. program, Department of Computer Science, Brown University
 - 2017年3月~2017年5月 テクニカルスタッフ、理化学研究所革新知能統合研究センター
 - 2015年4月~2017年3月 東京大学大学院総合文化研究科広域科学専攻修士課程
 - 2011年4月~2015年3月 東京大学教養学部学際科学科地球システム・エネルギーコース
 - 2013年8月~2013年12月 The University of British Columbiaへ交換留学 ([先頭の報告書が私のものです](http://www.u-tokyo.ac.jp/content/400007080.pdf))
 - ~2011年3月 筑波大学附属駒場高等学校
-
-## その他
-- Reviewer of International Conference of Machine Learning (2019).
-- Reviewer, Journal of Artificial Intelligence Research
-- 2013年9月~2016年8月             Resident assistant for international students at University of Tokyo International lodge, Komaba lodge
-
-
