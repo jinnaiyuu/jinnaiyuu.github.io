@@ -3,8 +3,8 @@
 
 ## 所属
 
-- 2019年夏はMSR Cambridge, UKに行きます。
-- 2017年6月~ Brown University Ph.D. program. 指導教官は[George Konidaris](http://cs.brown.edu/people/gdk/).
+- 2019年6月～9月 MSR Cambridge, UK.
+- 2017年6月～ Brown University Ph.D. program. 指導教官は[George Konidaris](http://cs.brown.edu/people/gdk/).
 - Email: yuu_jinnai [at] brown [dot] edu
 
 ## 研究分野
@@ -22,6 +22,10 @@
 [PAPER](https://arxiv.org/abs/1706.03254)
 
 ## 国際会議論文
+
+
+- Wang L\*, Zhao Y\*, Jinnai Y, Tian Y, Fonseca R. 2020. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. Proc. 34th AAAI conference on Artificial Intelligence (AAAI-20) \*These authors contributed equally to this work.  
+[PAPER](https://arxiv.org/abs/1903.11059) [CODE](https://github.com/linnanwang/AlphaX-NASBench101)
 
 - Jinnai Y. Park JW, Abel D, Konidaris G. 2019. Discovering Options for Exploration by Minimizing Cover Time. Proc. 36th International Conference on Machine Learning. (ICML-19) To appear.  
 [PAPER](../pdf/papers/ICML-19-rl.pdf) [CODE](https://github.com/jinnaiyuu/Optimal-Options-ICML-2019)
@@ -53,9 +57,6 @@
 [PAPER](../pdf/papers/HSDIP-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [POSTER](../pdf/posters/ICAPS-17 poster.pdf)
 
 ## プリプリント
-
-- Wang L\*, Zhao Y\*, Jinnai Y, Tian Y, Fonseca R. 2018. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. (Preprint) arXiv 1805.07440. \*These authors contributed equally to this work.  
-[PAPER](https://arxiv.org/abs/1903.11059)
 
 - Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
 [PAPER](https://arxiv.org/abs/1708.05296)
@@ -93,10 +94,6 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 みんなのデータ構造はPat Morin教授が執筆しオープンソース(CC BY)で公開されているデータ構造の入門教科書[Open Data Structures](http://opendatastructures.org/)を日本語に翻訳したものです。
 日本語版の書籍そのものはCC BYライセンスではありませんが、[原稿テキストおよび原稿のPDFをGithubでCC BYで公開しています](https://github.com/spinute/ods)  (レイアウト・スタイルは書籍版と異なります)。  
 [BOOK](../pdf/ods-cpp.pdf)
-
-- ヒューリスティック探索 (書き途中)  
-私の研究分野であるヒューリスティック探索は日本で扱っている人が少ないため、日本語のドキュメントが非常に少ないです。
-日本語のヒューリスティック探索の教科書を目指して書いております。
 
 - 2016年度冬学期 (東京大学)  
 TA: 寺子屋 (学際科学科に進学する文科出身の２年生の数学のフォローアップをするプログラム)
