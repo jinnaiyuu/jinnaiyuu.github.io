@@ -89,6 +89,10 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 
 
 ## ティーチング
+- [ヒューリスティック探索](../pdf/textbook.pdf)
+
+ヒューリスティック探索の日本語の文献がないので入門書を日本語で書いています。
+
 - [みんなのデータ構造](https://www.lambdanote.com/products/opendatastructures)  
 みんなのデータ構造はPat Morin教授が執筆しオープンソース(CC BY)で公開されているデータ構造の入門教科書[Open Data Structures](http://opendatastructures.org/)を日本語に翻訳したものです。
 日本語版の書籍そのものはCC BYライセンスではありませんが、[原稿テキストおよび原稿のPDFをGithubでCC BYで公開しています](https://github.com/spinute/ods)  (レイアウト・スタイルは書籍版と異なります)。  
