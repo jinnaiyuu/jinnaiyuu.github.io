@@ -23,6 +23,9 @@
 
 ## 国際会議論文
 
+- Y. Jinnai, J. Park, M.C. Machado, and G.D. Konidaris. Exploration in Reinforcement Learning with Deep Covering Options. Accepted, Proceedings of the Eighth International Conference on Learning Representations. (ICLR-20)  
+[PAPER](../pdf/papers/ICLR-20.pdf)
+
 - Wang L\*, Zhao Y\*, Jinnai Y, Tian Y, Fonseca R. 2020. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. Proc. 34th AAAI conference on Artificial Intelligence (AAAI-20) \*These authors contributed equally to this work.  
 [PAPER](https://arxiv.org/abs/1903.11059) [CODE](https://github.com/linnanwang/AlphaX-NASBench101)
 
