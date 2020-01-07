@@ -3,7 +3,6 @@
 
 ## 所属
 
-- 2019年6月～9月 MSR Cambridge, UK.
 - 2017年6月～ Brown University Ph.D. program. 指導教官は[George Konidaris](http://cs.brown.edu/people/gdk/).
 - Email: yuu_jinnai [at] brown [dot] edu
 
@@ -92,8 +91,7 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 
 
 ## ティーチング
-- [ヒューリスティック探索](../pdf/textbook.pdf)
-
+- [ヒューリスティック探索](../pdf/textbook.pdf)  
 ヒューリスティック探索の日本語の文献がないので入門書を日本語で書いています。
 
 - [みんなのデータ構造](https://www.lambdanote.com/products/opendatastructures)  
@@ -107,7 +105,7 @@ TA: 寺子屋 (学際科学科に進学する文科出身の２年生の数学�
 - 2016年度夏学期 (東京大学)  
 TA: 情報工学実験
 
-- 2015年度 (東京都立多摩科学技術高校)
+- 2015年度 (東京都立多摩科学技術高校)  
 東京都立多摩科学技術高校にて非常勤講師。スーパーサイエンスハイスクール (SSH)事業の一環として海外での科学技術シンボジウム(Global Science Link)での研究発表を行う高校生に研究発表の準備のためのポスター作成、口頭発表方法を教えました。
 
 - 2015年度冬学期 (東京大学)  
@@ -137,6 +135,7 @@ TA: 情報工学実験
 ## 略歴
 
 - 2017年6月~ Ph.D. program, Department of Computer Science, Brown University
+- 2019年6月～9月 MSR Cambridge, UK.
 - 2017年3月~2017年5月 テクニカルスタッフ、理化学研究所革新知能統合研究センター
 - 2015年4月~2017年3月 東京大学大学院総合文化研究科広域科学専攻修士課程
 - 2011年4月~2015年3月 東京大学教養学部学際科学科地球システム・エネルギーコース
