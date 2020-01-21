@@ -59,6 +59,9 @@
 
 ## プリプリント
 
+Lecarpentier E, Abel D, Asadi K, Jinnai Y, Rachelson E, Littman Michael L. 2020. Lipschitz Lifelong Reinforcement Learning. arXiv 2001.05411
+[arXiv](https://arxiv.org/abs/2001.05411)
+
 - Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
 [PAPER](https://arxiv.org/abs/1708.05296)
 
