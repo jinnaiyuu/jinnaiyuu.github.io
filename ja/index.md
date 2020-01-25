@@ -141,8 +141,7 @@ Experienced: C, C#, Objective-C, Rust, Java, Ruby, Javascript, Common Lisp, Sche
 
 - サーバー構築  
 Ubuntuのインストールからはじめてハブを買ってノードをつなげ、NFSを入れたりjob schedulerを設定してしたりしました。  
-このサーバーは卒業論文の実験に使いました。  
-当時学部生の私にこの機会をくださった福永先生に感謝します。  
+このサーバーは卒業論文の実験に使いました。当時学部生の私にこの機会をくださった福永先生に感謝します。  
 <img src="../images/my-cluster.jpg" alt="server" width="400"/>
 
 - [Atcoderで緑です](https://atcoder.jp/users/ddyuudd)
