@@ -4,7 +4,7 @@
 ## Affiliation
 
 - Ph.D. student at the Department of Computer Science at Brown University, advised by [George Konidaris](http://cs.brown.edu/people/gdk/).
-- Email: yuu_jinnai [at] brown [dot] edu, ddyuudd [at] gmail [dot] com
+- Email: ddyuudd [at] gmail [dot] com
 
 ## Biography
 
