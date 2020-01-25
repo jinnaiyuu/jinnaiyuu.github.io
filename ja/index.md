@@ -136,8 +136,8 @@ TA: 情報工学実験
 - 2013年9月~2016年8月             Resident assistant for international students at University of Tokyo International lodge, Komaba lodge
 
 - プログラミング言語  
-... Proficient:  C++, Python  
-... Experienced: C, C#, Objective-C, Rust, Java, Ruby, Javascript, Common Lisp, Scheme, Haskell, Racket, Prolog, R, bash, gawk, MATLAB, Processing
+Proficient:  C++, Python  
+Experienced: C, C#, Objective-C, Rust, Java, Ruby, Javascript, Common Lisp, Scheme, Haskell, Racket, Prolog, R, bash, gawk, MATLAB, Processing
 
 - サーバー構築  
 Ubuntuのインストールからはじめてハブを買ってノードをつなげ、NFSを入れたりjob schedulerを設定してしたりしました。  
