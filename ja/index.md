@@ -143,7 +143,7 @@ TA: 情報工学実験
 Ubuntuのインストールからはじめてハブを買ってノードをつなげ、NFSを入れたりjob schedulerを設定してしたりしました。  
 このサーバーは卒業論文の実験に使いました。  
 当時学部生の私にこの機会をくださった福永先生に感謝します。  
-![server](../images/my-cluster.jpg)
+<img src="../images/my-cluster.jpg" alt="server" width="400"/>
 
 - [Atcoderで緑です](https://atcoder.jp/users/ddyuudd)
 
