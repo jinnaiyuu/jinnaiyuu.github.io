@@ -60,7 +60,7 @@
 ## プリプリント
 
 - Lecarpentier E, Abel D, Asadi K, Jinnai Y, Rachelson E, Littman Michael L. 2020. Lipschitz Lifelong Reinforcement Learning. arXiv 2001.05411  
-[arXiv](https://arxiv.org/abs/2001.05411)
+[PAPER](https://arxiv.org/abs/2001.05411)
 
 - Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
 [PAPER](https://arxiv.org/abs/1708.05296)
@@ -135,10 +135,22 @@ TA: 情報工学実験
 - Reviewer of Journal of Artificial Intelligence Research.
 - 2013年9月~2016年8月             Resident assistant for international students at University of Tokyo International lodge, Komaba lodge
 
+- プログラミング言語  
+... Proficient:  C++, Python  
+... Experienced: C, C#, Objective-C, Rust, Java, Ruby, Javascript, Common Lisp, Scheme, Haskell, Racket, Prolog, R, bash, gawk, MATLAB, Processing
+
+- サーバー構築  
+Ubuntuのインストールからはじめてハブを買ってノードをつなげ、NFSを入れたりjob schedulerを設定してしたりしました。  
+このサーバーは卒業論文の実験に使いました。  
+当時学部生の私にこの機会をくださった福永先生に感謝します。  
+![server](../images/my-cluster.jpg)
+
+- [Atcoderで緑です](https://atcoder.jp/users/ddyuudd)
+
 ## 略歴
 
 - 2017年6月~ Ph.D. program, Department of Computer Science, Brown University
-- 2019年6月～9月 MSR Cambridge, UK.
+- 2019年6月~2019年9月 MSR Cambridge, UK.
 - 2017年3月~2017年5月 テクニカルスタッフ、理化学研究所革新知能統合研究センター
 - 2015年4月~2017年3月 東京大学大学院総合文化研究科広域科学専攻修士課程
 - 2011年4月~2015年3月 東京大学教養学部学際科学科地球システム・エネルギーコース
