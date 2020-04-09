@@ -3,7 +3,7 @@
 
 ## 所属
 
-- 現在は東京でCOVIDの収束を待っています.
+- 今は東京にいます.
 - 2017年6月～ Brown University Ph.D. program. 指導教官は[George Konidaris](http://cs.brown.edu/people/gdk/).
 - Email: ddyuudd [at] gmail [dot] com
 
