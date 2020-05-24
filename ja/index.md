@@ -3,7 +3,7 @@
 
 ## 所属
 
-- 今は東京にいます.
+- Lily MedTech社でリサーチエンジニアをやっています. 興味があればご連絡ください.
 - 2017年6月～ Brown University Ph.D. program. 指導教官は[George Konidaris](http://cs.brown.edu/people/gdk/).
 - Email: ddyuudd [at] gmail [dot] com
 
