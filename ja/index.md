@@ -4,7 +4,6 @@
 ## 所属
 
 - Lily MedTech社でリサーチエンジニアをやっています. 興味があればご連絡ください.
-- 2017年6月～ Brown University Ph.D. program. 指導教官は[George Konidaris](http://cs.brown.edu/people/gdk/).
 - Email: ddyuudd [at] gmail [dot] com
 
 ## 研究分野
@@ -149,8 +148,8 @@ Ubuntuのインストールからはじめてハブを買ってノードをつ�
 
 ## 略歴
 
-- 2017年6月~ Ph.D. program, Department of Computer Science, Brown University
-- 2019年6月~2019年9月 MSR Cambridge, UK.
+- 2017年6月~2020年8月 Ph.D. program, Department of Computer Science, Brown University
+- 2019年6月~2019年9月 インターン、Microsoft Research Cambridge, UK
 - 2017年3月~2017年5月 テクニカルスタッフ、理化学研究所革新知能統合研究センター
 - 2015年4月~2017年3月 東京大学大学院総合文化研究科広域科学専攻修士課程
 - 2011年4月~2015年3月 東京大学教養学部学際科学科地球システム・エネルギーコース
