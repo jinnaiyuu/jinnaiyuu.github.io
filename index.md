@@ -3,13 +3,13 @@
 
 ## Affiliation
 
-- Ph.D. student at the Department of Computer Science at Brown University, advised by [George Konidaris](http://cs.brown.edu/people/gdk/).
-- Email: yuu_jinnai [at] brown [dot] edu
+- Engineer at Lily MedTech Inc.
+- Email: ddyuudd [at] gmail [dot] com
 
 ## Biography
 
 - Summer 2019 I was at MSR Cambridge, UK. 
-- Jun. 2017- Ph.D. student at the Department of Computer Science at Brown University.
+- Jun. 2017-Jul. 2020 Ph.D. student at the Department of Computer Science at Brown University.
 - Mar. 2017-May. 2017 Technical staff at RIKEN Center for Advanced Intelligence Project (AIP)
 - Mar. 2017 M.A. from Graduate School of Arts and Sciences, the University of Tokyo. Advised by [Alex Fukunaga](http://metahack.org/index.html)
 - Mar. 2015 B.S. degree from the University of Tokyo
@@ -25,8 +25,8 @@ Artificial Intelligence, Reinforcement Learning, Deep Learning, Classical Planni
 | <img src="../images/papers/lipschitz.png" alt="lipschitz" width="700" />  | Lecarpentier E, Abel D, Asadi K, **Jinnai Y**, Rachelson E, Littman Michael L. 2020. Lipschitz Lifelong Reinforcement Learning. arXiv 2001.05411 [arXiv](https://arxiv.org/abs/2001.05411) |
 | <img src="../images/papers/ICLR-20.png" alt="iclr-20" width="550" />  | **Y. Jinnai**, J. Park, M.C. Machado, and G.D. Konidaris. Exploration in Reinforcement Learning with Deep Covering Options. Accepted, Proceedings of the Eighth International Conference on Learning Representations. (ICLR-20) [PAPER](../pdf/papers/ICLR-20.pdf) |
 | <img src="../images/papers/alphaX.png" alt="alphaX" width="700" />  | Wang L\*, Zhao Y\*, **Jinnai Y**, Tian Y, Fonseca R. 2020. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. Proc. 34th AAAI conference on Artificial Intelligence AAAI-20) \*These authors contributed equally to this work. [PAPER](https://arxiv.org/abs/1903.11059) [CODE](https://github.com/linnanwang/AlphaX-NASBench101) |
-| <img src="../images/papers/covering-option.png" alt="options-for-RL" width="350" /> | **Jinnai Y**. Park JW, Abel D, Konidaris G. 2019. Discovering Options for Exploration by Minimizing Cover Time. Proc. 36th International Conference on Machine Learning. [PAPER](../pdf/papers/ICML-19-rl.pdf) [CODE](https://github.com/jinnaiyuu/Optimal-Options-ICML-2019) |
-| <img src="../images/papers/options.png" alt="options-for-planning" width="700" />  | **Jinnai Y**, Abel D, Hershkowitz E, Littman M, Konidaris G. 2019. Finding Options that Minimize Planning Time. Proc. 36th International Conference on Machine Learning. [PAPER](../pdf/papers/ICML-19-plan.pdf) [CODE](https://github.com/jinnaiyuu/Optimal-Options-ICML-2019) |
+| <img src="../images/papers/covering-option.png" alt="options-for-RL" width="350" /> | **Jinnai Y**. Park JW, Abel D, Konidaris G. 2019. Discovering Options for Exploration by Minimizing Cover Time. Proc. 36th International Conference on Machine Learning. [PAPER](../pdf/papers/ICML-19-rl.pdf) [CODE](https://github.com/jinnaiyuu/Optimal-Options-ICML-2019) [TALK](https://slideslive.com/38917406/reinforcement-learning-theory) |
+| <img src="../images/papers/options.png" alt="options-for-planning" width="700" />  | **Jinnai Y**, Abel D, Hershkowitz E, Littman M, Konidaris G. 2019. Finding Options that Minimize Planning Time. Proc. 36th International Conference on Machine Learning. [PAPER](../pdf/papers/ICML-19-plan.pdf) [CODE](https://github.com/jinnaiyuu/Optimal-Options-ICML-2019) [TALK](https://slideslive.com/38917406/reinforcement-learning-theory)|
 | <img src="../images/papers/SPiRL-19.png" alt="options-for-RL" width="350" /> | **Jinnai Y**, Abel D, Park JW, Hershkowitz E, Littman M, Konidaris G. 2019. Skill Discovery with Well-Defined Objectives. ICLR Worshop on Structure and Priors in Reinforcement Learning. [PAPER](../pdf/papers/SPiRL-19.pdf) |
 | <img src="../images/papers/AAAI-19.png" alt="aaai-19" width="700" />  | Abel D, Arumugam D, Asadi K, **Jinnai Y**, Littman M, Wong L. S. 2019. State Abstraction as Compression in Apprenticeship Learning. Proc. 33rd AAAI Conference on Artificial Intelligence (AAAI-19). [PAPER](../pdf/papers/AAAI-19.pdf) [CODE](https://github.com/david-abel/rl_info_theory) |
 | <img src="../images/papers/ICML-18.png" alt="icml-18" width="700" />  | Abel D\*, **Jinnai Y\***, Guo Y, Konidaris G, Littman M. 2018. Policy and Value Transfer for Lifelong Reinforcement Learning. Proc. 35th International Conference on Machine Learning. \*These authors contributed equally to this work. [PAPER](../pdf/papers/ICML-18.pdf) [POSTER](../pdf/posters/NEML-18 poster.pdf) [CODE](https://github.com/david-abel/transfer_rl_icml_2018) [TALK by D. Abel](https://youtu.be/x98LGXidIYA?t=46m32s) |

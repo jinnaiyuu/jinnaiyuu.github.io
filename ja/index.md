@@ -3,7 +3,7 @@
 
 ## 所属
 
-- Lily MedTech社でリサーチエンジニアをやっています. 興味があればご連絡ください.
+- Lily MedTech社で医用画像処理の研究をしています. 興味があればご連絡ください.
 - Email: ddyuudd [at] gmail [dot] com
 
 ## 研究分野
