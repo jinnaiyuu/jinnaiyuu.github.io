@@ -22,6 +22,9 @@
 
 ## 国際会議論文
 
+- Lecarpentier E, Abel D, Asadi K, Jinnai Y, Rachelson E, Littman Michael L. 2021. Lipschitz Lifelong Reinforcement Learning. Proc. 35th AAAI conference on Artificial Intelligence (AAAI-21)  
+[PAPER](https://arxiv.org/abs/2001.05411) [POSTER](../pdf/posters/AAAI-2021 poster.pdf)
+
 - Y. Jinnai, J. Park, M.C. Machado, and G.D. Konidaris. Exploration in Reinforcement Learning with Deep Covering Options. Accepted, Proceedings of the Eighth International Conference on Learning Representations. (ICLR-20)  
 [PAPER](../pdf/papers/ICLR-20.pdf)
 
@@ -58,9 +61,6 @@
 [PAPER](../pdf/papers/HSDIP-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [POSTER](../pdf/posters/ICAPS-17 poster.pdf)
 
 ## プリプリント
-
-- Lecarpentier E, Abel D, Asadi K, Jinnai Y, Rachelson E, Littman Michael L. 2020. Lipschitz Lifelong Reinforcement Learning. arXiv 2001.05411  
-[PAPER](https://arxiv.org/abs/2001.05411)
 
 - Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
 [PAPER](https://arxiv.org/abs/1708.05296)
@@ -148,7 +148,7 @@ Ubuntuのインストールからはじめてハブを買ってノードをつ�
 
 ## 略歴
 
-- 2017年6月~2020年8月 Ph.D. program, Department of Computer Science, Brown University
+- 2017年6月~2020年7月 Ph.D. student, Department of Computer Science, Brown University
 - 2019年6月~2019年9月 インターン、Microsoft Research Cambridge, UK
 - 2017年3月~2017年5月 テクニカルスタッフ、理化学研究所革新知能統合研究センター
 - 2015年4月~2017年3月 東京大学大学院総合文化研究科広域科学専攻修士課程
