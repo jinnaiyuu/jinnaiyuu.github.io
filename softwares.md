@@ -20,3 +20,4 @@ Email: ddyuudd [at] gmail [dot] com
 
 - Transfer in Lifelong Reinforcement Learning
     - Q-learning, RMax, Delayed Q-learning with transfer in Lifelong Reinforcement Learning  [CODE](https://github.com/david-abel/transfer_rl_icml_2018)
+    - Lipschitz Lifelong Reinforcement Learning [CODE](https://github.com/SuReLI/llrl)
