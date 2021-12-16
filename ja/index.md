@@ -8,7 +8,7 @@
 
 ## 研究分野
 
-人工知能、強化学習、プランニング、グラフ探索、並列探索アルゴリズム
+自動診断支援、医用画像処理、人工知能、強化学習、プランニング、グラフ探索、並列探索アルゴリズム
 
 ## ブックチャプター
 
@@ -133,6 +133,7 @@ TA: 情報工学実験
 - Reviewer of International Conference of Machine Learning (2019), Neural Information Processing Systems (2019), AAAI Conference on Artificial Intelligence (2020).
 - Reviewer of Journal of Machine Learning Research.
 - Reviewer of Journal of Artificial Intelligence Research.
+- Reviewer of Knowledge-based Systems
 - 2013年9月~2016年8月             Resident assistant for international students at University of Tokyo International lodge, Komaba lodge
 
 - プログラミング言語  

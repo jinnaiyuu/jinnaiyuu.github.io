@@ -16,7 +16,7 @@
 
 ## Research Interests
 
-Artificial Intelligence, Reinforcement Learning, Deep Learning, Classical Planning, Heuristic Search, Parallel Search
+Computer-Aided Diagnosis, Deep Learning, Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic Search, Parallel Search
 
 ## Publications
 
@@ -83,4 +83,5 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 - Reviewer of International Conference of Machine Learning (2019), Neural Information Processing Systems (2019), AAAI Conference on Artificial Intelligence (2020).
 - Reviewer of Journal of Machine Learning Research.
 - Reviewer of Journal of Artificial Intelligence Research.
+- Reviewer of [Knowledge-based Systems](https://www.journals.elsevier.com/knowledge-based-systems)
 
