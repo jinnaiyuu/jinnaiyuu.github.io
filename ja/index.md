@@ -65,8 +65,14 @@
 - Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
 [PAPER](https://arxiv.org/abs/1708.05296)
 
-## 国内研究発表(査読無し)
-
+## 研究発表
+- Deep learning-based model for tumor detection in ultrasound computed tomography
+K. Madhawa, Y. Jinnai, M. Suzuki, T. Azuma, S. Akashi-Tanaka, T. Doi, [Computer Assisted Radiology and Surgery Proceedings of the 36th International Congress and Exhibition](https://www.cars-int.org/) (2022/6)
+- Automated Breast Density Assessment using B-mode Ultrasound Computed Tomography
+S. Fukagawa, Y. Jinnai, K. Madhawa, T. Azuma, M. Suzuki, N. Tomii, S. Akashi-Tanaka, T. Doi, [Computer Assisted Radiology and Surgery Proceedings of the 36th International Congress and Exhibition](https://www.cars-int.org/) (2022/6)
+- Motion Artifact Correction for Ultrasound Computed Tomography Y. Tanaka, Y. Jinnai, T. Azuma, S. Akashi-Tanaka, T. Doi, [Computer Assisted Radiology and Surgery Proceedings of the 36th International Congress and Exhibition](https://www.cars-int.org/) (2022/6)
+- Automated Tumor Feature Classification Method for Ultrasound Computed Tomography
+T. Koike, Y. Jinnai, K. Madhawa, T. Azuma, M. Suzuki, N. Tomii, S. Akashi-Tanaka, T. Doi, [Computer Assisted Radiology and Surgery Proceedings of the 36th International Congress and Exhibition](https://www.cars-int.org/) (2022/6)
 - Jinnai Y., Fukunaga A.: Learning to Prune Dominated Action Sequences in Online Black-box Planning, 第102回人工知能基礎問題研究会, JR博多シティ (2017/12)
 - 陣内佑, 福永Alex: グラフ分割による並列探索の為の効率的な仕事分配手法, 第30回人工知能学会全国大会, 北九州国際会議場 (2016/6)
 - 陣内佑, 福永Alex: Structured Zobrist Hashによる効率的な並列最良優先探索, 第29回人工知能学会全国大会, 公立はこだて未来大学 (2015/6)
