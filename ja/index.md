@@ -134,6 +134,11 @@ TA: 情報工学実験
 - 2018年7月 Automated Deep Learning by Neural Architecture Search. NICT.
 - 2017年2月 Graph search algorithms for classical planning. 北海道大学[離散構造処理系プロジェクト](https://www-erato.ist.hokudai.ac.jp/index.php)
 
+## 特許
+
+- 超音波CTのための体動検出と補正 [Google Patents](https://patents.google.com/patent/WO2022114131A1/)
+- 信号分離による超音波CTの撮像高速化 [Google Patents](https://patents.google.com/patent/WO2022054848A1/)
+
 ## その他
 
 - [RadFan 2022年7月号](https://www.e-radfan.com/shop-radfan/93345/) 超音波CTのための自動診断支援AIの開発.

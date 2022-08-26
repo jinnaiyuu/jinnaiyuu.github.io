@@ -76,6 +76,10 @@ I was a teaching assistant (TA) for information engineering at the University of
 Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Thesis Advisor: Alex Fukunaga. University of Tokyo.  
 [PAPER](../pdf/papers/MasterThesis.pdf)
 
+## Patents
+- Motion artifact detection for Ultrasound computed tomography [Google Patents](https://patents.google.com/patent/WO2022114131A1/en)
+- Faster ultrasound computed tomography by ultrasound signal separation [Google Patents](https://patents.google.com/patent/WO2022054848A1/en)
+
 ## Others
 
 - 2017 Ichiko Memorial Award (ja), Graduate School of Arts and Sciences, University of Tokyo (2017) (summa cum laude)
