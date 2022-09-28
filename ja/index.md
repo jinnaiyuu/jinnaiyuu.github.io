@@ -85,7 +85,7 @@ T. Koike, Y. Jinnai, K. Madhawa, T. Azuma, M. Suzuki, N. Tomii, S. Akashi-Tanaka
 
 ## 研究助成
 
-- 2022年 [TSUBAME共同利用](https://www.gsic.titech.ac.jp/kyodou) (産業利用)
+- 2022年 東京工業大学学術国際情報センター[TSUBAME共同利用](https://www.gsic.titech.ac.jp/kyodou) (産業利用)
 - 2017年 広域科学専攻　国際研究集会出席者資金助成 (AAAI-17)
 - 2016年 東京大学情報基盤センタースーパーコンピューティング部門 若手・女性利用 (学際大規模共同利用・共同研究拠点（JHPCN） 萌芽型共同研究課題)  
 [成果レポート](../pdf/papers/supercomputing.pdf)
