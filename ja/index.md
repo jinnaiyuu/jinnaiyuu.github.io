@@ -85,12 +85,12 @@ T. Koike, Y. Jinnai, K. Madhawa, T. Azuma, M. Suzuki, N. Tomii, S. Akashi-Tanaka
 
 ## 研究助成
 
-- 2022年 東京工業大学学術国際情報センター[TSUBAME共同利用](https://www.gsic.titech.ac.jp/kyodou) (産業利用)
-- 2017年 広域科学専攻　国際研究集会出席者資金助成 (AAAI-17)
+- 2022年 東京工業大学学術国際情報センター[TSUBAME共同利用](https://www.gsic.titech.ac.jp/node/60#adoption_r04_s1) (産業利用)
+- 2017年 東京大学大学院総合文化研究科 [広域科学専攻　国際研究集会出席者資金助成](https://system.c.u-tokyo.ac.jp/p-graduate/wakate-report.html) [報告書](https://system.c.u-tokyo.ac.jp/p-graduate/wakate-reports/AAAI17-jinnai.pdf) (AAAI-17)
 - 2016年 東京大学情報基盤センタースーパーコンピューティング部門 若手・女性利用 (学際大規模共同利用・共同研究拠点（JHPCN） 萌芽型共同研究課題)  
 [成果レポート](../pdf/papers/supercomputing.pdf)
-- 2016年 財団法人 NEC C&C財団　国際会議論文発表者助成 (ICAPS-16)
-- 2016年 広域科学専攻　国際研究集会出席者資金助成 (AAAI-16)
+- 2016年 [財団法人 NEC C&C財団](https://www.candc.or.jp/index.html)　国際会議論文発表者助成 (ICAPS-16)
+- 2016年 東京大学大学院総合文化研究科 [広域科学専攻　国際研究集会出席者資金助成](https://system.c.u-tokyo.ac.jp/p-graduate/wakate-report.html) (AAAI-16)
 
 ## 学位論文
 
