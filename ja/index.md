@@ -68,6 +68,7 @@
 ## 研究発表
 
 - リングエコーにおける深層学習による腫瘍の自動検出. K. Madhawa, Y. Jinnai, M. Suzuki, T. Azuma, S. Akashi-Tanaka, T. Doi. [第32回日本乳癌検診学会学術総会](https://convention.jtbcom.co.jp/jabcs2022/) (2022/11)
+- リングエコーにおける深層学習を用いた乳腺比率測定. S. Fukagawa, Y. Jinnai, K. Madhawa, T. Azuma, M. Suzuki, N. Tomii, S. Akashi-Tanaka, T. Doi. [第32回日本乳癌検診学会学術総会](https://convention.jtbcom.co.jp/jabcs2022/) (2022/11)
 - Deep learning-based model for tumor detection in ultrasound computed tomography. K. Madhawa, Y. Jinnai, M. Suzuki, T. Azuma, S. Akashi-Tanaka, T. Doi. [Computer Assisted Radiology and Surgery Proceedings of the 36th International Congress and Exhibition](https://www.cars-int.org/) (2022/6)
 - Automated Breast Density Assessment using B-mode Ultrasound Computed Tomography. S. Fukagawa, Y. Jinnai, K. Madhawa, T. Azuma, M. Suzuki, N. Tomii, S. Akashi-Tanaka, T. Doi. [Computer Assisted Radiology and Surgery Proceedings of the 36th International Congress and Exhibition](https://www.cars-int.org/) (2022/6)
 - Motion Artifact Correction for Ultrasound Computed Tomography. Y. Tanaka, Y. Jinnai, T. Azuma, S. Akashi-Tanaka, T. Doi. [Computer Assisted Radiology and Surgery Proceedings of the 36th International Congress and Exhibition](https://www.cars-int.org/) (2022/6)
