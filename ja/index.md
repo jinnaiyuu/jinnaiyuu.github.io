@@ -151,19 +151,20 @@ TA: 情報工学実験
 
 ## その他
 
-- [RadFan 2022年7月号](https://www.e-radfan.com/shop-radfan/93345/) 超音波CTのための自動診断支援AIの開発.
+- [映像情報Medical 2022年11月号](https://www.eizojoho.co.jp/publications/1541) 乳房用リング型超音波画像診断装置「COCOLY（ココリー）」と自動診断支援AIの開発.  
+- [RadFan 2022年7月号](https://www.e-radfan.com/shop-radfan/93345/) 超音波CTのための自動診断支援AIの開発.  
 - Reviewer of International Conference of Machine Learning (2019), Neural Information Processing Systems (2019), AAAI Conference on Artificial Intelligence (2020).
 - Reviewer of Journal of Machine Learning Research.
 - Reviewer of Journal of Artificial Intelligence Research.
 - Reviewer of Knowledge-based Systems
-- 2013年9月~2016年8月             Resident assistant for international students at University of Tokyo International lodge, Komaba lodge
+- 2013年9月~2016年8月 Resident assistant for international students at University of Tokyo International lodge, Komaba lodge
 
 - プログラミング言語  
 Proficient:  C++, Python 3  
-Experienced: C, C#, Objective-C, Rust, Java, Ruby, Javascript, Common Lisp, Scheme, Haskell, Racket, Prolog, R, bash, gawk, MATLAB, Processing
+Experienced: C, C#, Objective-C, Rust, Java, Ruby, JavaScript, Common Lisp, Scheme, Haskell, Racket, Prolog, R, bash, gawk, MATLAB, Processing, Lua
 
 - Tools
-git, CircleCI, Emacs, Visual Studio Code, AWS, GCP, torque job scheduler  
+git, CircleCI, Emacs, Visual Studio Code, AWS, Azure, GCP, torque job scheduler  
 
 - サーバー構築  
 Ubuntuのインストールからはじめてハブを買ってノードをつなげ、NFSを入れたりjob schedulerを設定してしたりしました。  
@@ -174,7 +175,7 @@ Ubuntuのインストールからはじめてハブを買ってノードをつ�
 
 ## 略歴
 
-- 2022年9月~ Research Engineer, Team Leader, Lily MedTech
+- 2020年9月~ Research Engineer, Team Leader, Lily MedTech
 - 2017年6月~2020年7月 Ph.D. student, Department of Computer Science, Brown University
 - 2019年6月~2019年9月 インターン、Microsoft Research Cambridge, UK
 - 2017年3月~2017年5月 テクニカルスタッフ、理化学研究所革新知能統合研究センター
