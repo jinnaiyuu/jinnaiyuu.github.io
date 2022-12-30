@@ -3,7 +3,7 @@
 
 ## 所属
 
-- Lily MedTech社で医用画像処理の研究をしています. 興味があればご連絡ください.
+- Lily MedTech社Research Engineer, Project Manager, AI Team Leader
 - Email: ddyuudd [at] gmail [dot] com
 
 ## 研究分野
@@ -145,7 +145,6 @@ TA: 情報工学実験
 
 ## 特許
 
-- TBA
 - 超音波CTのための体動検出と補正 [Google Patents](https://patents.google.com/patent/WO2022114131A1/)
 - 信号分離による超音波CTの撮像高速化 [Google Patents](https://patents.google.com/patent/WO2022054848A1/)
 
@@ -164,7 +163,7 @@ Proficient:  C++, Python 3
 Experienced: C, C#, Objective-C, Rust, Java, Ruby, JavaScript, Common Lisp, Scheme, Haskell, Racket, Prolog, R, bash, gawk, MATLAB, Processing, Lua
 
 - Tools
-git, CircleCI, Emacs, Visual Studio Code, AWS, Azure, GCP, torque job scheduler  
+git, CircleCI, Emacs, Visual Studio Code, AWS, Azure DevOps, weights and biases, GCP, torque job scheduler  
 
 - サーバー構築  
 Ubuntuのインストールからはじめてハブを買ってノードをつなげ、NFSを入れたりjob schedulerを設定してしたりしました。  
@@ -175,8 +174,8 @@ Ubuntuのインストールからはじめてハブを買ってノードをつ�
 
 ## 略歴
 
-- 2020年9月~ Research Engineer, Team Leader, Lily MedTech
-- 2017年6月~2020年7月 Ph.D. student, Department of Computer Science, Brown University
+- 2020年4月~ Research Engineer, Team Leader, Lily MedTech
+- 2017年6月~2020年1月 Ph.D. student, Department of Computer Science, Brown University
 - 2019年6月~2019年9月 インターン、Microsoft Research Cambridge, UK
 - 2017年3月~2017年5月 テクニカルスタッフ、理化学研究所革新知能統合研究センター
 - 2015年4月~2017年3月 東京大学大学院総合文化研究科広域科学専攻修士課程
