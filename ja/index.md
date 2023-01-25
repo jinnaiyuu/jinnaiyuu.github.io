@@ -1,9 +1,6 @@
 # 陣内　佑 (Yuu Jinnai)
 ![my photo](../images/me.jpeg)
 
-## 所属
-
-- Lily MedTech社Research Engineer, Project Manager, AI Team Leader
 - Email: ddyuudd [at] gmail [dot] com
 
 ## 研究分野
@@ -174,7 +171,7 @@ Ubuntuのインストールからはじめてハブを買ってノードをつ�
 
 ## 略歴
 
-- 2020年4月~ Research Engineer, Team Leader, Lily MedTech
+- 2020年4月~2023年1月 Research Engineer, Team Leader, Project Manager, Lily MedTech
 - 2017年6月~2020年1月 Ph.D. student, Department of Computer Science, Brown University
 - 2019年6月~2019年9月 インターン、Microsoft Research Cambridge, UK
 - 2017年3月~2017年5月 テクニカルスタッフ、理化学研究所革新知能統合研究センター

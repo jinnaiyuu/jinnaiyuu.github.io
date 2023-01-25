@@ -1,14 +1,11 @@
 # Yuu Jinnai 
 ![my photo](../images/me.jpeg)
 
-## Affiliation
-
-- Research Engineer, Project Manager, AI Team Leader at Lily MedTech Inc.
 - Email: ddyuudd [at] gmail [dot] com
 
 ## Biography
 
-- Apr. 2020 Lily MedTech.
+- Apr. 2020-Jan. 2023 Lily MedTech.
 - Summer 2019 I was at MSR Cambridge, UK. 
 - Jun. 2017-Jul. 2020 Ph.D. student at the Department of Computer Science at Brown University.
 - Mar. 2017-May. 2017 Technical staff at RIKEN Center for Advanced Intelligence Project (AIP)
