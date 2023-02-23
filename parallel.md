@@ -10,7 +10,7 @@ We developed **Abstract Zobrist hashing**, a new work distribution method for pa
 
 ## Code
 
-[All codes we used for the experiments are available at my GitHub.](/software)
+[All codes we used for the experiments are available at my GitHub.](/softwares)
 
 - A classical planner [CODE](https://github.com/jinnaiyuu/distributed-fast-downward)
 - Domain-specific solvers (sliding-tile, grid-pathfinding, multiple sequence alignment) [CODE](https://github.com/jinnaiyuu/Parallel-Best-First-Searches)
