@@ -59,7 +59,7 @@
 
 ## プリプリント
 
-- Noda T, Jinnai Y, Tomii N, Azuma T. 2023. arXiv 2304.14424 [PAPER](https://arxiv.org/abs/2304.14424) 
+- Noda T, Jinnai Y, Tomii N, Azuma T. 2023. Blind Signal Separation for Fast Ultrasound Computed Tomography. arXiv 2304.14424 [PAPER](https://arxiv.org/abs/2304.14424) 
 - Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
 [PAPER](https://arxiv.org/abs/1708.05296)
 
