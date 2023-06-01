@@ -1,6 +1,8 @@
 # 陣内　佑 (Yuu Jinnai)
 ![my photo](../images/me.jpeg)
 
+Researcher, CyberAgent AI Lab  
+
 - Email: ddyuudd [at] gmail [dot] com
 
 ## 研究分野
@@ -84,7 +86,7 @@ T. Koike, Y. Jinnai, K. Madhawa, T. Azuma, M. Suzuki, N. Tomii, S. Akashi-Tanaka
 
 ## 研究助成
 
-- 2022年 東京工業大学学術国際情報センター[TSUBAME共同利用](https://www.gsic.titech.ac.jp/node/60#adoption_r04_s1) (産業利用)
+- 2022年 東京工業大学学術国際情報センターTSUBAME共同利用 産業利用（成果公開） [報告書](https://www.gsic.titech.ac.jp/node/1113)
 - 2017年 東京大学大学院総合文化研究科 [広域科学専攻　国際研究集会出席者資金助成](https://system.c.u-tokyo.ac.jp/p-graduate/wakate-report.html) [報告書](https://system.c.u-tokyo.ac.jp/p-graduate/wakate-reports/AAAI17-jinnai.pdf) (AAAI-17)
 - 2016年 東京大学情報基盤センタースーパーコンピューティング部門 若手・女性利用 (学際大規模共同利用・共同研究拠点（JHPCN） 萌芽型共同研究課題)  
 [成果レポート](../pdf/papers/supercomputing.pdf)
@@ -172,6 +174,7 @@ Ubuntuのインストールからはじめてハブを買ってノードをつ�
 
 ## 略歴
 
+- 2023年6月~ Researcher, CyberAgent AI Lab
 - 2020年4月~2023年1月 Research Engineer, Team Leader, Project Manager, Lily MedTech
 - 2017年6月~2020年1月 Ph.D. student, Department of Computer Science, Brown University
 - 2019年6月~2019年9月 インターン、Microsoft Research Cambridge, UK

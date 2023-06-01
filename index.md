@@ -1,10 +1,13 @@
 # Yuu Jinnai 
 ![my photo](../images/me.jpeg)
 
+Researcher, CyberAgent AI Lab
+
 - Email: ddyuudd [at] gmail [dot] com
 
 ## Biography
 
+- Jun. 2023- CyberAgent AI Lab.
 - Apr. 2020-Jan. 2023 Lily MedTech.
 - Summer 2019 I was at MSR Cambridge, UK. 
 - Jun. 2017-Jul. 2020 Ph.D. student at the Department of Computer Science at Brown University.
