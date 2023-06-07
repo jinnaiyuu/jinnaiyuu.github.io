@@ -1,5 +1,5 @@
 # 陣内　佑 (Yuu Jinnai)
-![my photo](../images/2.jpg)
+<img src="../images/2.jpg" width="400">
 
 Researcher, CyberAgent AI Lab  
 
