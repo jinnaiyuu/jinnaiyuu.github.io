@@ -17,7 +17,7 @@ Researcher, CyberAgent AI Lab
 
 ## Research Interests
 
-Computer-Aided Diagnosis, Deep Learning, Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic Search, Parallel Search
+Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic Search, Computer-Aided Diagnosis, 
 
 ## Publications
 
