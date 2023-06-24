@@ -79,7 +79,9 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 [PAPER](../pdf/papers/MasterThesis.pdf)
 
 ## Patents
-- Motion artifact detection for Ultrasound computed tomography [Google Patents](https://patents.google.com/patent/WO2022114131A1/en)
+- Tumor detection algorithm for ultrasound computed tomography [Google Patents](https://patents.google.com/patent/WO2023053755A1/en)
+- Spiculated mass detection algorithm for ultrasound computed tomography [Google Patents](https://patents.google.com/patent/WO2023032954A1/en)
+- Motion artifact detection for ultrasound computed tomography [Google Patents](https://patents.google.com/patent/WO2022114131A1/en)
 - Faster ultrasound computed tomography by ultrasound signal separation [Google Patents](https://patents.google.com/patent/WO2022054848A1/en)
 
 ## Others

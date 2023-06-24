@@ -145,11 +145,14 @@ TA: 情報工学実験
 
 ## 特許
 
-- 超音波CTのための体動検出と補正 [Google Patents](https://patents.google.com/patent/WO2022114131A1/)
-- 信号分離による超音波CTの撮像高速化 [Google Patents](https://patents.google.com/patent/WO2022054848A1/)
+- 超音波CTにおける腫瘍検出アルゴリズム[Google Patents](https://patents.google.com/patent/WO2023053755A1/)  
+- 超音波CTにおけるスピキュラ検出アルゴリズム[Google Patents](https://patents.google.com/patent/WO2023032954A1/)  
+- 超音波CTのための体動検出と補正 [Google Patents](https://patents.google.com/patent/WO2022114131A1/)  
+- 信号分離による超音波CTの撮像高速化 [Google Patents](https://patents.google.com/patent/WO2022054848A1/)  
 
 ## その他
 
+- [超音波techno](https://www.nikko-pb.co.jp/products/detail.php?product_id=5463) リングエコーにおける深層学習による腫瘤の自動検出.  
 - [映像情報Medical 2022年11月号](https://www.eizojoho.co.jp/publications/1541) 乳房用リング型超音波画像診断装置「COCOLY（ココリー）」と自動診断支援AIの開発.  
 - [RadFan 2022年7月号](https://www.e-radfan.com/shop-radfan/93345/) 超音波CTのための自動診断支援AIの開発.  
 - Reviewer of International Conference of Machine Learning (2019), Neural Information Processing Systems (2019), AAAI Conference on Artificial Intelligence (2020).
