@@ -79,6 +79,7 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 [PAPER](../pdf/papers/MasterThesis.pdf)
 
 ## Patents
+- Medical information provision device, ultrasonic ct imaging device, and medical information provision system [Google Patents](https://patents.google.com/patent/JP2023099261A/en)
 - Tumor detection algorithm for ultrasound computed tomography [Google Patents](https://patents.google.com/patent/WO2023053755A1/en)
 - Spiculated mass detection algorithm for ultrasound computed tomography [Google Patents](https://patents.google.com/patent/WO2023032954A1/en)
 - Motion artifact detection for ultrasound computed tomography [Google Patents](https://patents.google.com/patent/WO2022114131A1/en)

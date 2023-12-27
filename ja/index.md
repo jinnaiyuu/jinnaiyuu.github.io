@@ -147,6 +147,7 @@ TA: 情報工学実験
 
 ## 特許
 
+- 超音波CTのための医用情報提供装置[Google Patents](https://patents.google.com/patent/JP2023099261A/)  
 - 超音波CTにおける腫瘍検出アルゴリズム[Google Patents](https://patents.google.com/patent/WO2023053755A1/)  
 - 超音波CTにおけるスピキュラ検出アルゴリズム[Google Patents](https://patents.google.com/patent/WO2023032954A1/)  
 - 超音波CTのための体動検出と補正 [Google Patents](https://patents.google.com/patent/WO2022114131A1/)  
