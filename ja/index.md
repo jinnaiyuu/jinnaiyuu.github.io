@@ -7,7 +7,7 @@ Researcher, CyberAgent AI Lab
 
 ## 研究分野
 
-人工知能、強化学習、機械学習、プランニング、グラフ探索、医用画像処理
+人工知能、強化学習、自然言語生成、機械学習、プランニング、グラフ探索、医用画像処理
 
 ## ブックチャプター
 
@@ -67,6 +67,11 @@ Researcher, CyberAgent AI Lab
 - Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
 [PAPER](https://arxiv.org/abs/1708.05296)
 
+## コード・モデル
+
+- [calm2-7b-chat-dpo](https://huggingface.co/cyberagent/calm2-7b-chat-dpo-experimental): Direct Preference Optimizationによる日本語LLMのチューニング  
+- [Chatbot Arena JA](https://huggingface.co/datasets/cyberagent/chatbot-arena-ja-calm2-7b-chat-experimental): RLHF用日本語Instruction/Preferenceデータセット
+
 ## 研究発表
 
 - リングエコーにおける深層学習による腫瘍の自動検出. K. Madhawa, Y. Jinnai, M. Suzuki, T. Azuma, S. Akashi-Tanaka, T. Doi. [第32回日本乳癌検診学会学術総会](https://convention.jtbcom.co.jp/jabcs2022/) (2022/11)
@@ -102,7 +107,6 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 
 - 学士  
 陣内 佑, マルチコアマシンにおける並列A*探索の探索オーバーヘッドの解析とアルゴリズムの再評価 (2014) (指導教官: [福永 Alex](http://metahack.org/index.html))
-
 
 ## ティーチング
 
