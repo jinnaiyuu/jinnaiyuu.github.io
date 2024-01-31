@@ -1,5 +1,5 @@
 # Yuu Jinnai 
-<img src="../images/5.jpg" width="250">
+<img src="./images/5.jpg" width="250">
 
 Researcher, CyberAgent AI Lab
 
