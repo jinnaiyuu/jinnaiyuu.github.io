@@ -151,11 +151,13 @@ TA: 情報工学実験
 
 ## 特許
 
-- 超音波CTのための医用情報提供装置[Google Patents](https://patents.google.com/patent/JP2023099261A/)  
-- 超音波CTにおける腫瘍検出アルゴリズム[Google Patents](https://patents.google.com/patent/WO2023053755A1/)  
-- 超音波CTにおけるスピキュラ検出アルゴリズム[Google Patents](https://patents.google.com/patent/WO2023032954A1/)  
-- 超音波CTのための体動検出と補正 [Google Patents](https://patents.google.com/patent/WO2022114131A1/)  
-- 信号分離による超音波CTの撮像高速化 [Google Patents](https://patents.google.com/patent/WO2022054848A1/)  
+- [特開2023-178874](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303013583838120) 医用情報提供装置
+- [特開2023-178791](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303012151739621) 画像診断支援装置、画像診断支援方法、及び画像診断支援プログラム
+- [特開2023-099261](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303016988714142) 医用情報提供装置、超音波CT撮像装置及び医用情報提供システム
+- [WO/2023/053755](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023053755) IMAGE DIAGNOSIS SUPPORTING DEVICE, IMAGE DIAGNOSIS SUPPORTING METHOD, AND IMAGE DIAGNOSIS SUPPORTING PROGRAM
+- [WO/2023/032954](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023032954) INFORMATION PROCESSING METHOD, PROGRAM AND IMAGE DIAGNOSIS DEVICE
+- [特許第7233792号](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303012670896360) 画像診断装置、画像診断方法、プログラム及び機械学習用訓練データの生成方法
+- [特許第7187735号](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202203006451857157) 撮像装置及びプログラム  
 
 ## その他
 
