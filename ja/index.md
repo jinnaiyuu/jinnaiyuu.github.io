@@ -70,7 +70,7 @@ Researcher, CyberAgent AI Lab
 ## コード・モデル
 
 - [calm2-7b-chat-dpo](https://huggingface.co/cyberagent/calm2-7b-chat-dpo-experimental): Direct Preference Optimizationによる日本語LLMのチューニング  
-- [Chatbot Arena JA](https://huggingface.co/datasets/cyberagent/chatbot-arena-ja-calm2-7b-chat-experimental): RLHF用日本語Instruction/Preferenceデータセット
+- [Chatbot Arena JA Preferenceデータセット](https://huggingface.co/datasets/cyberagent/chatbot-arena-ja-calm2-7b-chat-experimental): RLHF用日本語Instruction/Preferenceデータセット
 
 ## 研究発表
 
