@@ -103,10 +103,10 @@ T. Koike, Y. Jinnai, K. Madhawa, T. Azuma, M. Suzuki, N. Tomii, S. Akashi-Tanaka
 ## 学位論文
 
 - 修士  
-Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Thesis Advisor: Alex Fukunaga. University of Tokyo. [PAPER](../pdf/papers/MasterThesis.pdf)
+Jinnai Y., 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Thesis Advisor: [Alex Fukunaga]((http://metahack.org/index.html)). University of Tokyo. [PAPER](../pdf/papers/MasterThesis.pdf)
 
 - 学士  
-陣内 佑, マルチコアマシンにおける並列A*探索の探索オーバーヘッドの解析とアルゴリズムの再評価 (2014) (指導教官: [福永 Alex](http://metahack.org/index.html))
+陣内 佑, 2015. マルチコアマシンにおける並列A*探索の探索オーバーヘッドの解析とアルゴリズムの再評価. (指導教官: [福永 Alex](http://metahack.org/index.html)). 東京大学. [PAPER](../pdf/papers/BachelorThesis.pdf)
 
 ## ティーチング
 
@@ -115,7 +115,7 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 強化学習を専門として学ぶ方は原著も読むと良いと思っています。
 
 - [ヒューリスティック探索](../pdf/textbook.pdf)  
-ヒューリスティック探索の日本語の文献がないので入門書を日本語で書いています。
+ヒューリスティック探索の入門書を日本語で書いています。
 
 - [みんなのデータ構造](https://www.lambdanote.com/products/opendatastructures)  
 みんなのデータ構造はPat Morin教授が執筆しオープンソース(CC BY)で公開されているデータ構造の入門教科書[Open Data Structures](http://opendatastructures.org/)を日本語に翻訳したものです。
