@@ -21,7 +21,19 @@ Researcher, CyberAgent AI Lab
 
 ## 国際会議論文
 
-- Lecarpentier E, Abel D, Asadi K, Jinnai Y, Rachelson E, Littman Michael L. 2021. Lipschitz Lifelong Reinforcement Learning. Proc. 35th AAAI conference on Artificial Intelligence (AAAI-21)  
+- Jinnai Y, Ariu K. Hyperparameter-Free Approach for Faster Minimum Bayes Risk Decoding. In Findings of the Association for Computational Linguistics. (ACL-24)  
+[PAPER](https://arxiv.org/abs/2401.02749) [CODE](https://github.com/CyberAgentAILab/adaptive-mbr)
+
+- Jinnai Y, Honda U, Morimura T, Zhang P. Generating Diverse and High-Quality Texts by Minimum Bayes Risk Decoding. In Findings of the Association for Computational Linguistics. (ACL-24)  
+[PAPER](https://arxiv.org/abs/2401.05054) [CODE](https://github.com/CyberAgentAILab/diverse-mbr)
+
+- Jinnai Y, Morimura T, Honda U, Ariu K, Abe K. Model-based minimum bayes risk decoding. Proc. 41st International Conference on Machine Learning. (ICML-24)  
+[PAPER](https://arxiv.org/abs/2311.05263) [CODE](https://github.com/CyberAgentAILab/model-based-mbr)
+
+- Ohashi A, Honda U, Morimura T, Jinnai Y. 2024. On the True Distribution Approximation of Minimum Bayes-Risk Decoding. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics. (NAACL-24)  
+[PAPER](https://arxiv.org/abs/2404.00752) [CODE](https://github.com/CyberAgentAILab/mbr-anomaly)
+
+- Lecarpentier E, Abel D, Asadi K, Jinnai Y, Rachelson E, Littman Michael L. 2021. Lipschitz Lifelong Reinforcement Learning. Proc. 35th AAAI conference on Artificial Intelligence. (AAAI-21)  
 [PAPER](https://arxiv.org/abs/2001.05411) [POSTER](../pdf/posters/AAAI-2021 poster.pdf) [CODE](https://github.com/SuReLI/llrl)
 
 - Y. Jinnai, J. Park, M.C. Machado, and G.D. Konidaris. Exploration in Reinforcement Learning with Deep Covering Options. Accepted, Proceedings of the Eighth International Conference on Learning Representations. (ICLR-20)  
@@ -61,9 +73,14 @@ Researcher, CyberAgent AI Lab
 
 ## プリプリント
 
+- Morimura T, Sakamoto M, Jinnai Y, Abe K, Air K. Filtered Direct Preference Optimization. arXiv preprint arXiv:2404.13846.  
+[PAPER](https://arxiv.org/abs/2404.13846) [CODE](https://github.com/CyberAgentAILab/filtered-dpo)
+- Jinnai Y, Morimura T, Ariu K, Abe K. Regularized Best-of-N Sampling to Mitigate Reward Hacking for Language Model Alignment. arXiv preprint arXiv:2404.01054.  
+[PAPER](https://arxiv.org/abs/2404.01054) [CODE](https://github.com/CyberAgentAILab/regularized-bon)
 - Jinnai Y., Morimura T., Honda U. On the Depth between Beam Search and Exhaustive Search for Text Generation. arXiv 2308.13696  
 [PAPER](https://arxiv.org/abs/2308.13696)
-- Noda T, Jinnai Y, Tomii N, Azuma T. 2023. Blind Signal Separation for Fast Ultrasound Computed Tomography. arXiv 2304.14424 [PAPER](https://arxiv.org/abs/2304.14424) 
+- Noda T, Jinnai Y, Tomii N, Azuma T. 2023. Blind Signal Separation for Fast Ultrasound Computed Tomography. arXiv 2304.14424  
+[PAPER](https://arxiv.org/abs/2304.14424) 
 - Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
 [PAPER](https://arxiv.org/abs/1708.05296)
 
@@ -171,18 +188,17 @@ TA: 情報工学実験
 - 2013年9月~2016年8月 Resident assistant for international students at University of Tokyo International lodge, Komaba lodge
 
 - プログラミング言語  
-Proficient:  C++, Python 3  
+Proficient:  C++11, Python 3  
 Experienced: C, C#, Objective-C, Rust, Java, Ruby, JavaScript, Common Lisp, Scheme, Haskell, Racket, Prolog, R, bash, gawk, MATLAB, Processing, Lua
 
-- Tools
-git, CircleCI, Emacs, Visual Studio Code, AWS, Azure DevOps, weights and biases, GCP, torque job scheduler  
+- Tools  
+git, CircleCI, Emacs, Visual Studio Code, Docker, AWS, Azure DevOps, weights and biases, GCP, torque job scheduler  
 
 - サーバー構築  
 Ubuntuのインストールからはじめてハブを買ってノードをつなげ、NFSを入れたりjob schedulerを設定してしたりしました。  
 このサーバーは卒業論文の実験に使いました。当時学部生の私にこの機会をくださった福永先生に感謝します。  
 <img src="../images/my-cluster.jpg" alt="server" width="400"/>
 
-- [Atcoderで緑です](https://atcoder.jp/users/ddyuudd)
 
 ## 略歴
 
