@@ -17,13 +17,15 @@ Researcher, CyberAgent AI Lab
 
 ## Research Interests
 
-Artificial Intelligence, Reinforcement Learning, Classical Planning, Heuristic Search, Computer-Aided Diagnosis, 
+Artificial Intelligence, Reinforcement Learning, Language Model Alignment, Classical Planning, Heuristic Search
 
 ## Publications
 
-
 | ---:      | :--- |
-| <img src="../images/papers/arxiv2023.png" alt="fastusct" width="700" />  | Noda T, **Jinnai Y**, Tomii N, Azuma T. 2023. Blind Signal Separation for Fast Ultrasound Computed Tomography. arXiv 2304.14424 [arXiv](https://arxiv.org/abs/2304.14424)  |
+| <img src="../images/papers/icml2024.png" alt="icml2024" width="700" />  |  Jinnai Y, Morimura T, Honda U, Ariu K, Abe K. Model-based minimum bayes risk decoding. Proc. 41st International Conference on Machine Learning. (ICML-24) [Paper](https://arxiv.org/abs/2311.05263) [Code](https://github.com/CyberAgentAILab/model-based-mbr) |
+| <img src="../images/papers/acl2024hyperparameter.png" alt="acl2024hyperparameter" width="700" />  |  Jinnai Y, Ariu K. Hyperparameter-Free Approach for Faster Minimum Bayes Risk Decoding. In Findings of the Association for Computational Linguistics. (ACL-24) [Paper](https://arxiv.org/abs/2401.02749) [Code](https://github.com/CyberAgentAILab/adaptive-mbr) |
+| <img src="../images/papers/acl2024diverse.png" alt="acl2024diverse" width="700" />  |  Generating Diverse and High-Quality Texts by Minimum Bayes Risk Decoding. In Findings of the Association for Computational Linguistics. (ACL-24) [Paper](https://arxiv.org/abs/2401.05054) [Code](https://github.com/CyberAgentAILab/diverse-mbr) |
+| <img src="../images/papers/naacl.png" alt="naacl2024" width="700" />  | Ohashi A, Honda U, Morimura T, **Jinnai Y**. 2024. On the True Distribution Approximation of Minimum Bayes-Risk Decoding. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics. (NAACL-24) [Paper](https://arxiv.org/abs/2404.00752) [Code](https://github.com/CyberAgentAILab/mbr-anomaly) |
 | <img src="../images/papers/lipschitz.png" alt="lipschitz" width="700" />  | Lecarpentier E, Abel D, Asadi K, **Jinnai Y**, Rachelson E, Littman Michael L. 2021. Lipschitz Lifelong Reinforcement Learning. Proc. 35th AAAI conference on Artificial Intelligence (AAAI-21) [arXiv](https://arxiv.org/abs/2001.05411) [Poster](../pdf/posters/AAAI-2021 poster.pdf) [Code](https://github.com/SuReLI/llrl) |
 | <img src="../images/papers/ICLR-20.png" alt="iclr-20" width="550" />  | **Y. Jinnai**, J. Park, M.C. Machado, and G.D. Konidaris. Exploration in Reinforcement Learning with Deep Covering Options. Accepted, Proceedings of the Eighth International Conference on Learning Representations. (ICLR-20) [PAPER](../pdf/papers/ICLR-20.pdf) |
 | <img src="../images/papers/alphaX.png" alt="alphaX" width="700" />  | Wang L\*, Zhao Y\*, **Jinnai Y**, Tian Y, Fonseca R. 2020. AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search. Proc. 34th AAAI conference on Artificial Intelligence (AAAI-20) \*These authors contributed equally to this work. [PAPER](https://arxiv.org/abs/1903.11059) [CODE](https://github.com/linnanwang/AlphaX-NASBench101) |
