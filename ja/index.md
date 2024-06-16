@@ -31,7 +31,7 @@ Researcher, CyberAgent AI Lab
 [PAPER](https://arxiv.org/abs/2311.05263) [CODE](https://github.com/CyberAgentAILab/model-based-mbr)
 
 - Ohashi A, Honda U, Morimura T, Jinnai Y. 2024. On the True Distribution Approximation of Minimum Bayes-Risk Decoding. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics. (NAACL-24)  
-[PAPER](https://arxiv.org/abs/2404.00752) [CODE](https://github.com/CyberAgentAILab/mbr-anomaly)
+[PAPER](https://aclanthology.org/2024.naacl-short.38.pdf) [CODE](https://github.com/CyberAgentAILab/mbr-anomaly) [TALK](https://drive.google.com/file/d/1Cf7woqG96NYxQpTU81iRt1Ek8NyCORBP/view?usp=drive_link)
 
 - Lecarpentier E, Abel D, Asadi K, Jinnai Y, Rachelson E, Littman Michael L. 2021. Lipschitz Lifelong Reinforcement Learning. Proc. 35th AAAI conference on Artificial Intelligence. (AAAI-21)  
 [PAPER](https://arxiv.org/abs/2001.05411) [POSTER](../pdf/posters/AAAI-2021 poster.pdf) [CODE](https://github.com/SuReLI/llrl)
