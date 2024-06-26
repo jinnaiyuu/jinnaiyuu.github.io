@@ -65,6 +65,9 @@ Researcher, CyberAgent AI Lab
 
 ## 国際会議ワークショップ論文
 
+- Jinnai Y. 2024. Does Cross-Cultural Alignment Change the Commonsense Morality of Language Models? The 2nd Workshop on Cross-Cultural Considerations in NLP (C3NLP) at ACL 2024.  
+[PAPER](https://arxiv.org/abs/2406.16316)
+
 - Jinnai Y, Abel D, Park JW, Hershkowitz DE, Littman M, Konidaris G. 2019. Skill Discovery with Well-Defined Objectives. ICLR Worshop on Structure and Priors in Reinforcement Learning.  
 [PAPER](../pdf/papers/SPiRL-19.pdf)
 
@@ -73,11 +76,13 @@ Researcher, CyberAgent AI Lab
 
 ## プリプリント
 
-- Morimura T, Sakamoto M, Jinnai Y, Abe K, Air K. Filtered Direct Preference Optimization. arXiv preprint arXiv:2404.13846.  
+- Jinnai Y, Honda U. 2024. Annotation-Efficient Preference Optimization for Language Model Alignment arXiv preprint arXiv:2405.13541.  
+[PAPER](https://arxiv.org/abs/2405.13541)
+- Morimura T, Sakamoto M, Jinnai Y, Abe K, Ariu K. 2024. Filtered Direct Preference Optimization. arXiv preprint arXiv:2404.13846.  
 [PAPER](https://arxiv.org/abs/2404.13846) [CODE](https://github.com/CyberAgentAILab/filtered-dpo)
-- Jinnai Y, Morimura T, Ariu K, Abe K. Regularized Best-of-N Sampling to Mitigate Reward Hacking for Language Model Alignment. arXiv preprint arXiv:2404.01054.  
+- Jinnai Y, Morimura T, Ariu K, Abe K. 2024. Regularized Best-of-N Sampling to Mitigate Reward Hacking for Language Model Alignment. arXiv preprint arXiv:2404.01054.  
 [PAPER](https://arxiv.org/abs/2404.01054) [CODE](https://github.com/CyberAgentAILab/regularized-bon)
-- Jinnai Y., Morimura T., Honda U. On the Depth between Beam Search and Exhaustive Search for Text Generation. arXiv 2308.13696  
+- Jinnai Y., Morimura T., Honda U. 2023. On the Depth between Beam Search and Exhaustive Search for Text Generation. arXiv 2308.13696  
 [PAPER](https://arxiv.org/abs/2308.13696)
 - Noda T, Jinnai Y, Tomii N, Azuma T. 2023. Blind Signal Separation for Fast Ultrasound Computed Tomography. arXiv 2304.14424  
 [PAPER](https://arxiv.org/abs/2304.14424) 
