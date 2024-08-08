@@ -22,13 +22,13 @@ Researcher, CyberAgent AI Lab
 ## 国際会議論文
 
 - Jinnai Y, Ariu K. Hyperparameter-Free Approach for Faster Minimum Bayes Risk Decoding. In Findings of the Association for Computational Linguistics. (ACL-24)  
-[PAPER](https://arxiv.org/abs/2401.02749) [CODE](https://github.com/CyberAgentAILab/adaptive-mbr)
-
+[PAPER](https://arxiv.org/abs/2401.02749) [CODE](https://github.com/CyberAgentAILab/adaptive-mbr) [TALK](https://www.youtube.com/watch?v=iJAGPIMtxC0)
+ 
 - Jinnai Y, Honda U, Morimura T, Zhang P. Generating Diverse and High-Quality Texts by Minimum Bayes Risk Decoding. In Findings of the Association for Computational Linguistics. (ACL-24)  
-[PAPER](https://arxiv.org/abs/2401.05054) [CODE](https://github.com/CyberAgentAILab/diverse-mbr)
+[PAPER](https://arxiv.org/abs/2401.05054) [CODE](https://github.com/CyberAgentAILab/diverse-mbr) [TALK](https://www.youtube.com/watch?v=dU7LzgPwANo)
 
 - Jinnai Y, Morimura T, Honda U, Ariu K, Abe K. Model-based minimum bayes risk decoding. Proc. 41st International Conference on Machine Learning. (ICML-24)  
-[PAPER](https://arxiv.org/abs/2311.05263) [CODE](https://github.com/CyberAgentAILab/model-based-mbr)
+[PAPER](https://arxiv.org/abs/2311.05263) [CODE](https://github.com/CyberAgentAILab/model-based-mbr) [TALK](https://www.youtube.com/watch?v=w8_rLLPkE5A)
 
 - Ohashi A, Honda U, Morimura T, Jinnai Y. 2024. On the True Distribution Approximation of Minimum Bayes-Risk Decoding. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics. (NAACL-24)  
 [PAPER](https://aclanthology.org/2024.naacl-short.38.pdf) [CODE](https://github.com/CyberAgentAILab/mbr-anomaly) [TALK](https://drive.google.com/file/d/1Cf7woqG96NYxQpTU81iRt1Ek8NyCORBP/view?usp=drive_link)
