@@ -65,7 +65,8 @@ Researcher, CyberAgent AI Lab
 
 ## 国際会議ワークショップ論文
 
-- Jinnai Y. 2024. Does Cross-Cultural Alignment Change the Commonsense Morality of Language Models? The 2nd Workshop on Cross-Cultural Considerations in NLP (C3NLP Workshop at ACL 2024). (**Best Paper Award**) [PAPER](https://aclanthology.org/2024.c3nlp-1.5.pdf) [TALK](https://www.youtube.com/watch?v=TjFDn3L65s0) [MODEL](https://huggingface.co/cyberagent/calm2-7b-chat-dpo-experimental) [DATASET](https://huggingface.co/datasets/cyberagent/chatbot-arena-ja-calm2-7b-chat-experimental)
+- Jinnai Y. 2024. Does Cross-Cultural Alignment Change the Commonsense Morality of Language Models? The 2nd Workshop on Cross-Cultural Considerations in NLP (C3NLP Workshop at ACL 2024). **Best Paper Award**.  
+[PAPER](https://aclanthology.org/2024.c3nlp-1.5.pdf) [TALK](https://www.youtube.com/watch?v=TjFDn3L65s0) [MODEL](https://huggingface.co/cyberagent/calm2-7b-chat-dpo-experimental) [DATASET](https://huggingface.co/datasets/cyberagent/chatbot-arena-ja-calm2-7b-chat-experimental)
 
 - Jinnai Y, Abel D, Park JW, Hershkowitz DE, Littman M, Konidaris G. 2019. Skill Discovery with Well-Defined Objectives. ICLR Worshop on Structure and Priors in Reinforcement Learning.  
 [PAPER](../pdf/papers/SPiRL-19.pdf)
