@@ -21,10 +21,13 @@ Researcher, CyberAgent AI Lab
 
 ## 国際会議論文
 
-- Jinnai Y, Ariu K. Hyperparameter-Free Approach for Faster Minimum Bayes Risk Decoding. In Findings of the Association for Computational Linguistics. (ACL-24)  
+- Morimura, T., Sakamoto, M., Jinnai, Y., Abe, K., & Air, K. (2024). Filtered Direct Preference Optimization. The 2024 Conference on Empirical Methods in Natural Language Processing. (EMNLP-24)  
+[PAPER](https://arxiv.org/abs/2404.13846) [CODE](https://github.com/CyberAgentAILab/filtered-dpo)
+
+- Jinnai Y, Ariu K. Hyperparameter-Free Approach for Faster Minimum Bayes Risk Decoding. In Findings of the Association for Computational Linguistics. (ACL-24 Findings)  
 [PAPER](https://arxiv.org/abs/2401.02749) [CODE](https://github.com/CyberAgentAILab/adaptive-mbr) [TALK](https://www.youtube.com/watch?v=iJAGPIMtxC0)
  
-- Jinnai Y, Honda U, Morimura T, Zhang P. Generating Diverse and High-Quality Texts by Minimum Bayes Risk Decoding. In Findings of the Association for Computational Linguistics. (ACL-24)  
+- Jinnai Y, Honda U, Morimura T, Zhang P. Generating Diverse and High-Quality Texts by Minimum Bayes Risk Decoding. In Findings of the Association for Computational Linguistics. (ACL-24 Findings)  
 [PAPER](https://arxiv.org/abs/2401.05054) [CODE](https://github.com/CyberAgentAILab/diverse-mbr) [TALK](https://www.youtube.com/watch?v=dU7LzgPwANo)
 
 - Jinnai Y, Morimura T, Honda U, Ariu K, Abe K. Model-based minimum bayes risk decoding. Proc. 41st International Conference on Machine Learning. (ICML-24)  
