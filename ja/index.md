@@ -21,7 +21,7 @@ Researcher, CyberAgent AI Lab
 
 ## 国際会議論文
 
-- Morimura, T., Sakamoto, M., Jinnai, Y., Abe, K., & Air, K. (2024). Filtered Direct Preference Optimization. The 2024 Conference on Empirical Methods in Natural Language Processing. (EMNLP-24)  
+- Morimura, T., Sakamoto, M., Jinnai, Y., Abe, K., & Ariu, K. (2024). Filtered Direct Preference Optimization. The 2024 Conference on Empirical Methods in Natural Language Processing. (EMNLP-24)  
 [PAPER](https://arxiv.org/abs/2404.13846) [CODE](https://github.com/CyberAgentAILab/filtered-dpo)
 
 - Jinnai Y, Ariu K. Hyperparameter-Free Approach for Faster Minimum Bayes Risk Decoding. In Findings of the Association for Computational Linguistics. (ACL-24 Findings)  
