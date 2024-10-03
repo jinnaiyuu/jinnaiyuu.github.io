@@ -92,7 +92,7 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 
 - 2017 Ichiko Memorial Award (ja), Graduate School of Arts and Sciences, University of Tokyo (2017) (summa cum laude)
 - Sep. 2013~Aug. 2016 Resident assistant for international students at Univeristy of Tokyo International lodge, Komaba lodge
-- Reviewer of International Conference of Machine Learning (2019), Neural Information Processing Systems (2019), AAAI Conference on Artificial Intelligence (2020).
+- Reviewer of International Conference of Machine Learning (ICML), Neural Information Processing Systems (NeurIPS), AAAI Conference on Artificial Intelligence (AAAI), International Conference on Learning Representations (ICLR).
 - Reviewer of Journal of Machine Learning Research.
 - Reviewer of Journal of Artificial Intelligence Research.
 - Reviewer of Knowledge-based Systems.
