@@ -80,8 +80,8 @@ Researcher, CyberAgent AI Lab
 - Jinnai Y, Abel D, Park JW, Hershkowitz DE, Littman M, Konidaris G. 2019. Skill Discovery with Well-Defined Objectives. ICLR Worshop on Structure and Priors in Reinforcement Learning.  
 [PAPER](../pdf/papers/SPiRL-19.pdf)
 
-- Jinnai Y, Fukunaga A. 2017. A Graph-Partitioning Based Approach for Parallel Best-First Search. ICAPS 2017 Workshop on Heuristic and Search for Domain-Independent Planning (HSDIP). This paper summarizes work which will appear in a JAIR article.  
-[PAPER](../pdf/papers/HSDIP-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/AAAI-17 slides.pdf) [POSTER](../pdf/posters/ICAPS-17 poster.pdf)
+- Jinnai Y, Fukunaga A. 2017. A Graph-Partitioning Based Approach for Parallel Best-First Search. ICAPS 2017 Workshop on Heuristic and Search for Domain-Independent Planning (HSDIP).  
+[PAPER](../pdf/papers/HSDIP-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/HSDIP-17 slides.pdf)  
 
 ## プリプリント
 
@@ -192,6 +192,7 @@ TA: 情報工学実験
 - [映像情報Medical 2022年11月号](https://www.eizojoho.co.jp/publications/1541) 乳房用リング型超音波画像診断装置「COCOLY（ココリー）」と自動診断支援AIの開発.  
 - [RadFan 2022年7月号](https://www.e-radfan.com/shop-radfan/93345/) 超音波CTのための自動診断支援AIの開発.  
 - Reviewer of International Conference of Machine Learning (2019), Neural Information Processing Systems (2019), AAAI Conference on Artificial Intelligence (2020).
+- Reviewer of ACL (Association for Computational Linguistics) Rolling Review.
 - Reviewer of Journal of Machine Learning Research.
 - Reviewer of Journal of Artificial Intelligence Research.
 - Reviewer of Knowledge-based Systems
