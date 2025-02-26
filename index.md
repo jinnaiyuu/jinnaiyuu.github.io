@@ -7,12 +7,12 @@ Researcher, CyberAgent AI Lab
 
 ## Biography
 
-- Jun. 2023- CyberAgent AI Lab.
-- Apr. 2020-Jan. 2023 Lily MedTech.
-- Summer 2019 I was at MSR Cambridge, UK. 
-- Jun. 2017-Jul. 2020 Ph.D. student at the Department of Computer Science at Brown University.
-- Mar. 2017-May. 2017 Technical staff at RIKEN Center for Advanced Intelligence Project (AIP)
-- Mar. 2017 M.A. from Graduate School of Arts and Sciences, the University of Tokyo. Advised by [Alex Fukunaga](http://metahack.org/index.html)
+- Jun. 2023- Researcher, CyberAgent AI Lab.
+- Apr. 2020-Jan. 2023 Engineer, Lily MedTech Inc.
+- Summer 2019 Intern, MSR Cambridge, UK. 
+- Jun. 2017-Jul. 2020 Ph.D. student, the Department of Computer Science at Brown University.
+- Mar. 2017-May. 2017 Technical staff, RIKEN Center for Advanced Intelligence Project (AIP)
+- Mar. 2017 M.A. degree from Graduate School of Arts and Sciences, the University of Tokyo. Advised by [Alex Fukunaga](http://metahack.org/index.html)
 - Mar. 2015 B.S. degree from the University of Tokyo
 
 ## Research Interests

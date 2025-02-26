@@ -16,10 +16,16 @@ Researcher, CyberAgent AI Lab
 
 ## ジャーナル論文
 
+- Yuki Ichihara, Yuu Jinnai, Tetsuro Morimura, Kenshi Abe, Kaito Ariu, Mitsuki Sakamoto, Eiji Uchibe. 2025. Evaluation of Best-of-N Sampling Strategies for Language Model Alignment. Transactions on Machine Learning Research (TMLR).  
+[PAPER](https://openreview.net/pdf?id=H4S4ETc8c9) [CODE](https://github.com/CyberAgentAILab/srbon) [TALK](https://www.youtube.com/watch?v=2HC6Bqvrdk4)
+
 - Jinnai Y, Fukunaga A. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Journal of Artificial Intelligence Research (JAIR).  
 [PAPER](https://arxiv.org/abs/1706.03254)
 
 ## 国際会議論文
+
+- Yuu Jinnai, Tetsuro Morimura, Kaito Ariu, Kenshi Abe. 2025. Regularized Best-of-N Sampling with Minimum Bayes Risk Objective for Language Model Alignment. North American Chapter of the Association for Computational Linguistics (NAACL).  
+[PAPER](https://arxiv.org/abs/2404.01054) [CODE](https://github.com/CyberAgentAILab/regularized-bon)
 
 - Morimura, T., Sakamoto, M., Jinnai, Y., Abe, K., & Ariu, K. (2024). Filtered Direct Preference Optimization. The 2024 Conference on Empirical Methods in Natural Language Processing. (EMNLP-24)  
 [PAPER](https://arxiv.org/abs/2404.13846) [CODE](https://github.com/CyberAgentAILab/filtered-dpo)
@@ -101,6 +107,14 @@ Researcher, CyberAgent AI Lab
 
 ## 研究発表
 
+- 市原有生希, 陣内佑, 蟻生開人, 森村哲郎, 内部英治. テキスト生成における最小ベイズリスク復号の理論的な理解に向けて. 言語処理学会第31回年次大会(NLP2025) (2025/3)
+- 堤歩斗, 陣内佑. LLM は日本の民話を知っているか？ 妖怪知識評価データセットの構築へ向けて. 言語処理学会第31回年次大会(NLP2025) (2025/3)
+- 坂本充生, 陣内佑, 森村哲郎, 阿部拳之, 蟻生開人. 大規模言語モデルのためのアライメントデータ合成手法の実験的評価. 言語処理学会第31回年次大会(NLP2025) (2025/3)
+- 森村哲郎, 坂本充生, 陣内佑, 阿部拳之, 蟻生開人. ベイズリスク選好最適化：報酬モデル不要のオンライン選好最適化手法. 第27回情報論的学習理論ワークショップ (IBIS2024) (2024/11)
+- 市原有生希, 陣内佑, 森村哲郎, 阿部拳之, 蟻生開人, 坂本充生, 内部英治. Evaluation of Best-of-N Sampling Strategies for Language Model Alignment. 第27回情報論的学習理論ワークショップ (IBIS2024) (2024/11)
+- 坂本充生, 森村哲郎, 陣内佑, 阿部拳之, 蟻生開人. Filtered Direct Preference Optimization: 選好データセットの質に基づくフィルタリング手法の提案. 第19回言語処理若手シンポジウム（YANS）(2024/5)
+- 陣内佑. 英語データセットを使ったRLHFは日本語LLMの常識道徳にどのような影響を与えるか？ 第19回言語処理若手シンポジウム（YANS）(2024/5)
+- 陣内佑, 森村哲郎, 本多右京. Decoding with Semi-Local Constraint on Information Density.  第18回言語処理若手シンポジウム（YANS）(2023/6)
 - リングエコーにおける深層学習による腫瘍の自動検出. K. Madhawa, Y. Jinnai, M. Suzuki, T. Azuma, S. Akashi-Tanaka, T. Doi. [第32回日本乳癌検診学会学術総会](https://convention.jtbcom.co.jp/jabcs2022/) (2022/11)
 - リングエコーにおける深層学習を用いた乳腺比率測定. S. Fukagawa, Y. Jinnai, K. Madhawa, T. Azuma, M. Suzuki, N. Tomii, S. Akashi-Tanaka, T. Doi. [第32回日本乳癌検診学会学術総会](https://convention.jtbcom.co.jp/jabcs2022/) (2022/11)
 - Deep learning-based model for tumor detection in ultrasound computed tomography. K. Madhawa, Y. Jinnai, M. Suzuki, T. Azuma, S. Akashi-Tanaka, T. Doi. [Computer Assisted Radiology and Surgery Proceedings of the 36th International Congress and Exhibition](https://www.cars-int.org/) (2022/6)
@@ -199,7 +213,7 @@ TA: 情報工学実験
 - 2013年9月~2016年8月 Resident assistant for international students at University of Tokyo International lodge, Komaba lodge
 
 - プログラミング言語  
-Proficient:  C++11, Python 3  
+Proficient:  Python 3, C++
 Experienced: C, C#, Objective-C, Rust, Java, Ruby, JavaScript, Common Lisp, Scheme, Haskell, Racket, Prolog, R, bash, gawk, MATLAB, Processing, Lua
 
 - Tools  
