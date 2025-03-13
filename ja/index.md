@@ -20,7 +20,7 @@ Researcher, CyberAgent AI Lab
 [PAPER](https://openreview.net/pdf?id=H4S4ETc8c9) [CODE](https://github.com/CyberAgentAILab/srbon) [TALK](https://www.youtube.com/watch?v=2HC6Bqvrdk4)
 
 - Jinnai Y, Fukunaga A. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Journal of Artificial Intelligence Research (JAIR).  
-[PAPER](https://arxiv.org/abs/1706.03254)
+[PAPER](https://www.jair.org/index.php/jair/article/view/11090) [CODE](https://github.com/jinnaiyuu/distributed-fast-downward)
 
 ## 国際会議論文
 
@@ -107,7 +107,7 @@ Researcher, CyberAgent AI Lab
 
 ## 研究発表
 
-- 市原有生希, 陣内佑, 蟻生開人, 森村哲郎, 内部英治. テキスト生成における最小ベイズリスク復号の理論的な理解に向けて. 言語処理学会第31回年次大会(NLP2025) (2025/3)
+- 市原有生希, 陣内佑, 蟻生開人, 森村哲郎, 内部英治. テキスト生成における最小ベイズリスク復号の理論的な理解に向けて. 言語処理学会第31回年次大会(NLP2025) (2025/3) [**優秀賞**](https://anlp.jp/nlp2025/award.html)
 - 堤歩斗, 陣内佑. LLM は日本の民話を知っているか？ 妖怪知識評価データセットの構築へ向けて. 言語処理学会第31回年次大会(NLP2025) (2025/3)
 - 坂本充生, 陣内佑, 森村哲郎, 阿部拳之, 蟻生開人. 大規模言語モデルのためのアライメントデータ合成手法の実験的評価. 言語処理学会第31回年次大会(NLP2025) (2025/3)
 - 森村哲郎, 坂本充生, 陣内佑, 阿部拳之, 蟻生開人. ベイズリスク選好最適化：報酬モデル不要のオンライン選好最適化手法. 第27回情報論的学習理論ワークショップ (IBIS2024) (2024/11)
@@ -151,12 +151,13 @@ Jinnai Y., 2017. On Hash-Based Work Distribution Methods for Parallel Best-First
 
 ## ティーチング
 
+- [ヒューリスティック探索 合理的なAIをつくるためのアルゴリズム](https://www.amazon.co.jp/dp/4065392187)  
+ヒューリスティック探索の教科書です。日本語で書かれたヒューリスティック探索の書籍がなかったので上梓しました。  
+主に大学生・大学院生を想定して書いています。基礎的な理論に加え疑似コードとPython 3実装を載せており、実践的な内容になっております。
+
 - [強化学習 (第2版)](https://www.morikita.co.jp/books/mid/082662)  
 強化学習 (第2版)を共訳しました。なお、[英語の原著は無料で公開されています](http://incompleteideas.net/book/the-book-2nd.html)。
 強化学習を専門として学ぶ方は原著も読むと良いと思っています。
-
-- [ヒューリスティック探索](../pdf/textbook.pdf)  
-ヒューリスティック探索の入門書を日本語で書いています。
 
 - [みんなのデータ構造](https://www.lambdanote.com/products/opendatastructures)  
 みんなのデータ構造はPat Morin教授が執筆しオープンソース(CC BY)で公開されているデータ構造の入門教科書[Open Data Structures](http://opendatastructures.org/)を日本語に翻訳したものです。
