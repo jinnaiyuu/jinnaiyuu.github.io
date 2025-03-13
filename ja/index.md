@@ -127,11 +127,6 @@ T. Koike, Y. Jinnai, K. Madhawa, T. Azuma, M. Suzuki, N. Tomii, S. Akashi-Tanaka
 - 陣内佑, 福永Alex: グラフ分割による並列探索の為の効率的な仕事分配手法, 第30回人工知能学会全国大会, 北九州国際会議場 (2016/6)
 - 陣内佑, 福永Alex: Structured Zobrist Hashによる効率的な並列最良優先探索, 第29回人工知能学会全国大会, 公立はこだて未来大学 (2015/6)
 
-## 学会活動 
-
-- 2017年度　第31回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2017/student/)
-- 2016年度　第30回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2016/student/)
-
 ## 研究助成
 
 - 2022年 東京工業大学学術国際情報センターTSUBAME共同利用 産業利用（成果公開） [報告書](https://www.gsic.titech.ac.jp/node/1113)
@@ -180,16 +175,19 @@ TA: 寺子屋 (学際科学科に進学する文科出身の２年生の数学�
 TA: 理科生のための初年次ゼミナール  
 TA: 情報工学実験
 
-
 ## 受賞など
 
 - 2017年3月 [東京大学大学院総合文化研究科 一高記念賞](https://ja.wikipedia.org/wiki/%E4%B8%80%E9%AB%98%E8%A8%98%E5%BF%B5%E8%B3%9E)
 
-## セミナー
+## 学会活動 
 
-- 2022年2月 [NVIDIA Partner Solution Connect](https://events.nvidia.com/nvidiapartnersolutionconnect1). 新しい画像診断機器のための自動診断支援AIの開発. NVIDIA Japan.
-- 2018年7月 Automated Deep Learning by Neural Architecture Search. NICT.
-- 2017年2月 Graph search algorithms for classical planning. 北海道大学[離散構造処理系プロジェクト](https://www-erato.ist.hokudai.ac.jp/index.php)
+- Reviewer of ICML, NeurIPS, AAAI, ICAPS.
+- Reviewer of ACL (Association for Computational Linguistics) Rolling Review.
+- Reviewer of Journal of Machine Learning Research.
+- Reviewer of Journal of Artificial Intelligence Research.
+- Reviewer of Knowledge-based Systems
+- 2017年度　第31回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2017/student/)
+- 2016年度　第30回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2016/student/)
 
 ## 特許
 
@@ -201,16 +199,17 @@ TA: 情報工学実験
 - [特許第7233792号](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303012670896360) 画像診断装置、画像診断方法、プログラム及び機械学習用訓練データの生成方法
 - [特許第7187735号](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202203006451857157) 撮像装置及びプログラム  
 
+## セミナー
+
+- 2022年2月 [NVIDIA Partner Solution Connect](https://events.nvidia.com/nvidiapartnersolutionconnect1). 新しい画像診断機器のための自動診断支援AIの開発. NVIDIA Japan.
+- 2018年7月 Automated Deep Learning by Neural Architecture Search. NICT.
+- 2017年2月 Graph search algorithms for classical planning. 北海道大学[離散構造処理系プロジェクト](https://www-erato.ist.hokudai.ac.jp/index.php)
+
 ## その他
 
 - [超音波techno](https://www.nikko-pb.co.jp/products/detail.php?product_id=5463) リングエコーにおける深層学習による腫瘤の自動検出.  
 - [映像情報Medical 2022年11月号](https://www.eizojoho.co.jp/publications/1541) 乳房用リング型超音波画像診断装置「COCOLY（ココリー）」と自動診断支援AIの開発.  
 - [RadFan 2022年7月号](https://www.e-radfan.com/shop-radfan/93345/) 超音波CTのための自動診断支援AIの開発.  
-- Reviewer of International Conference of Machine Learning (2019), Neural Information Processing Systems (2019), AAAI Conference on Artificial Intelligence (2020).
-- Reviewer of ACL (Association for Computational Linguistics) Rolling Review.
-- Reviewer of Journal of Machine Learning Research.
-- Reviewer of Journal of Artificial Intelligence Research.
-- Reviewer of Knowledge-based Systems
 - 2013年9月~2016年8月 Resident assistant for international students at University of Tokyo International lodge, Komaba lodge
 
 - プログラミング言語  
