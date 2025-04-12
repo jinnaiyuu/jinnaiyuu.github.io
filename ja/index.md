@@ -100,10 +100,9 @@ Researcher, CyberAgent AI Lab
 - Fukunaga A., Botea A, Jinnai Y., Kishimoto A. 2017. A Survey of Parallel A*. arXiv 1708.05296  
 [PAPER](https://arxiv.org/abs/1708.05296)
 
-## コード・モデル
+## ソフトウェア
 
-- [calm2-7b-chat-dpo](https://huggingface.co/cyberagent/calm2-7b-chat-dpo-experimental): Direct Preference Optimizationによる日本語LLMのチューニング  
-- [Chatbot Arena JA Preferenceデータセット](https://huggingface.co/datasets/cyberagent/chatbot-arena-ja-calm2-7b-chat-experimental): RLHF用日本語Instruction/Preferenceデータセット
+- [calm2-7b-chat-dpo](https://huggingface.co/cyberagent/calm2-7b-chat-dpo-experimental): Direct Preference Optimizationによってチューニングを行った日本語LLM  
 
 ## 研究発表
 
@@ -144,7 +143,7 @@ Jinnai Y., 2017. On Hash-Based Work Distribution Methods for Parallel Best-First
 - 学士  
 陣内 佑, 2015. マルチコアマシンにおける並列A*探索の探索オーバーヘッドの解析とアルゴリズムの再評価. (指導教官: [福永 Alex](http://metahack.org/index.html)). 東京大学. [PAPER](../pdf/papers/BachelorThesis.pdf)
 
-## ティーチング
+## 書籍  
 
 - [ヒューリスティック探索 合理的なAIをつくるためのアルゴリズム](https://www.amazon.co.jp/dp/4065392187)  
 ヒューリスティック探索の教科書です。日本語で書かれたヒューリスティック探索の書籍がなかったので上梓しました。  
@@ -159,6 +158,9 @@ Jinnai Y., 2017. On Hash-Based Work Distribution Methods for Parallel Best-First
 日本語版の書籍そのものはCC BYライセンスではありませんが、[原稿テキストおよび原稿のPDFをGithubでCC BYで公開しています](https://github.com/spinute/ods)  (レイアウト・スタイルは書籍版と異なります)。  
 [BOOK](../pdf/ods-cpp.pdf)
 
+
+## ティーチング  
+
 - 2016年度冬学期 (東京大学)  
 TA: 寺子屋 (学際科学科に進学する文科出身の２年生の数学のフォローアップをするプログラム)
 
@@ -166,7 +168,7 @@ TA: 寺子屋 (学際科学科に進学する文科出身の２年生の数学�
 TA: 情報工学実験
 
 - 2015年度 (東京都立多摩科学技術高校)  
-東京都立多摩科学技術高校にて非常勤講師。スーパーサイエンスハイスクール (SSH)事業の一環として海外での科学技術シンボジウム(Global Science Link)での研究発表を行う高校生に研究発表の準備のためのポスター作成、口頭発表方法を教えました。
+東京都立多摩科学技術高校にて非常勤講師。スーパーサイエンスハイスクール (SSH) 事業の一環として海外での科学技術シンボジウム (Global Science Link) での研究発表を行う高校生に研究発表の準備のためのポスター作成、口頭発表方法を教えました。
 
 - 2015年度冬学期 (東京大学)  
 TA: 寺子屋 (学際科学科に進学する文科出身の２年生の数学のフォローアップをするプログラム)
@@ -217,7 +219,8 @@ Proficient:  Python 3, C++
 Experienced: C, C#, Objective-C, Rust, Java, Ruby, JavaScript, Common Lisp, Scheme, Haskell, Racket, Prolog, R, bash, gawk, MATLAB, Processing, Lua
 
 - Tools  
-git, CircleCI, Emacs, Visual Studio Code, Docker, AWS, Azure DevOps, weights and biases, GCP, torque job scheduler  
+ML: PyTorch, TensorFlow, Huggingface's Transformers, mlflow, weights and biases  
+Others: git, Cline, Visual Studio Code, Emacs, Docker, AWS, Azure DevOps, GCP, torque job scheduler  
 
 - サーバー構築  
 Ubuntuのインストールからはじめてハブを買ってノードをつなげ、NFSを入れたりjob schedulerを設定してしたりしました。  
