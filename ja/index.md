@@ -9,11 +9,6 @@ Researcher, CyberAgent AI Lab
 
 人工知能、強化学習、自然言語生成、機械学習、プランニング、グラフ探索、医用画像処理
 
-## ブックチャプター
-
-- Fukunaga A, Botea A, Jinnai Y, Kishimoto A. 2018. Parallel A* for State-Space Search. Handbook of Parallel Constraint Reasoning, Youssef Hamadi, Lakhdar Sais (eds.), Springer. ISBN 978-3-319-63515-6.  
-[BOOK](https://www.springer.com/us/book/9783319635156).
-
 ## ジャーナル論文
 
 - Yuki Ichihara, Yuu Jinnai, Tetsuro Morimura, Kenshi Abe, Kaito Ariu, Mitsuki Sakamoto, Eiji Uchibe. 2025. Evaluation of Best-of-N Sampling Strategies for Language Model Alignment. Transactions on Machine Learning Research (TMLR).  
@@ -89,6 +84,11 @@ Researcher, CyberAgent AI Lab
 - Jinnai Y, Fukunaga A. 2017. A Graph-Partitioning Based Approach for Parallel Best-First Search. ICAPS 2017 Workshop on Heuristic and Search for Domain-Independent Planning (HSDIP).  
 [PAPER](../pdf/papers/HSDIP-17 Jinnai-Fukunaga.pdf) [SLIDES](../pdf/slides/HSDIP-17 slides.pdf)  
 
+## ブックチャプター
+
+- Fukunaga A, Botea A, Jinnai Y, Kishimoto A. 2018. Parallel A* for State-Space Search. Handbook of Parallel Constraint Reasoning, Youssef Hamadi, Lakhdar Sais (eds.), Springer. ISBN 978-3-319-63515-6.  
+[BOOK](https://www.springer.com/us/book/9783319635156).
+
 ## プリプリント
 
 - Jinnai Y, Honda U. 2024. Annotation-Efficient Preference Optimization for Language Model Alignment arXiv preprint arXiv:2405.13541.  
@@ -126,7 +126,7 @@ T. Koike, Y. Jinnai, K. Madhawa, T. Azuma, M. Suzuki, N. Tomii, S. Akashi-Tanaka
 - 陣内佑, 福永Alex: グラフ分割による並列探索の為の効率的な仕事分配手法, 第30回人工知能学会全国大会, 北九州国際会議場 (2016/6)
 - 陣内佑, 福永Alex: Structured Zobrist Hashによる効率的な並列最良優先探索, 第29回人工知能学会全国大会, 公立はこだて未来大学 (2015/6)
 
-## 研究助成
+## 研究助成・奨学金
 
 - 2022年 東京工業大学学術国際情報センターTSUBAME共同利用 産業利用（成果公開） [報告書](https://www.gsic.titech.ac.jp/node/1113)
 - 2017年 東京大学大学院総合文化研究科 [広域科学専攻　国際研究集会出席者資金助成](https://system.c.u-tokyo.ac.jp/p-graduate/wakate-report.html) [報告書](https://system.c.u-tokyo.ac.jp/p-graduate/wakate-reports/AAAI17-jinnai.pdf) (AAAI-17)
@@ -135,18 +135,10 @@ T. Koike, Y. Jinnai, K. Madhawa, T. Azuma, M. Suzuki, N. Tomii, S. Akashi-Tanaka
 - 2016年 [財団法人 NEC C&C財団](https://www.candc.or.jp/index.html)　国際会議論文発表者助成 (ICAPS-16)
 - 2016年 東京大学大学院総合文化研究科 [広域科学専攻　国際研究集会出席者資金助成](https://system.c.u-tokyo.ac.jp/p-graduate/wakate-report.html) (AAAI-16)
 
-## 学位論文
-
-- 修士  
-Jinnai Y., 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Thesis Advisor: [Alex Fukunaga]((http://metahack.org/index.html)). University of Tokyo. [PAPER](../pdf/papers/MasterThesis.pdf)
-
-- 学士  
-陣内 佑, 2015. マルチコアマシンにおける並列A*探索の探索オーバーヘッドの解析とアルゴリズムの再評価. (指導教官: [福永 Alex](http://metahack.org/index.html)). 東京大学. [PAPER](../pdf/papers/BachelorThesis.pdf)
-
 ## 書籍  
 
 - [ヒューリスティック探索 合理的なAIをつくるためのアルゴリズム](https://www.amazon.co.jp/dp/4065392187)  
-ヒューリスティック探索の教科書です。日本語で書かれたヒューリスティック探索の書籍がなかったので上梓しました。  
+ヒューリスティック探索の教科書です。日本語で書かれたヒューリスティック探索の書籍がなかったので書きました。  
 主に大学生・大学院生を想定して書いています。基礎的な理論に加え疑似コードとPython 3実装を載せており、実践的な内容になっております。
 
 - [強化学習 (第2版)](https://www.morikita.co.jp/books/mid/082662)  
@@ -179,17 +171,9 @@ TA: 情報工学実験
 
 ## 受賞など
 
+- 2025年3月 言語処理学会第31回年次大会 [優秀賞](https://anlp.jp/nlp2025/award.html). 市原有生希, 陣内佑, 蟻生開人, 森村哲郎, 内部英治. テキスト生成における最小ベイズリスク復号の理論的な理解に向けて. 
+- 2024年8月 The 2nd Workshop on Cross-Cultural Considerations in NLP. Best Paper Award. Jinnai Y. Does Cross-Cultural Alignment Change the Commonsense Morality of Language Models?
 - 2017年3月 [東京大学大学院総合文化研究科 一高記念賞](https://ja.wikipedia.org/wiki/%E4%B8%80%E9%AB%98%E8%A8%98%E5%BF%B5%E8%B3%9E)
-
-## 学会活動 
-
-- Reviewer of ICML, NeurIPS, AAAI, ICAPS.
-- Reviewer of ACL (Association for Computational Linguistics) Rolling Review.
-- Reviewer of Journal of Machine Learning Research.
-- Reviewer of Journal of Artificial Intelligence Research.
-- Reviewer of Knowledge-based Systems
-- 2017年度　第31回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2017/student/)
-- 2016年度　第30回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2016/student/)
 
 ## 特許
 
@@ -201,11 +185,31 @@ TA: 情報工学実験
 - [特許第7233792号](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303012670896360) 画像診断装置、画像診断方法、プログラム及び機械学習用訓練データの生成方法
 - [特許第7187735号](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202203006451857157) 撮像装置及びプログラム  
 
+## 学会活動 
+
+- Reviewer of International Conference of Machine Learning (ICML), Neural Information Processing Systems (NeurIPS), AAAI Conference on Artificial Intelligence (AAAI), International Conference on Learning Representations (ICLR).
+- Reviewer of ACL (Association for Computational Linguistics) Rolling Review.
+- Reviewer of Journal of Machine Learning Research.
+- Reviewer of Journal of Artificial Intelligence Research.
+- Reviewer of Knowledge-based Systems.
+- Program Committee of 3rd Workshop on Cross-Cultural Considerations in NLP (C3NLP).
+- Program Committee of UncertaiNLP: 2nd Workshop on Uncertainty-Aware NLP.
+- 2017年度　第31回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2017/student/)
+- 2016年度　第30回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2016/student/)
+
 ## セミナー
 
 - 2022年2月 [NVIDIA Partner Solution Connect](https://events.nvidia.com/nvidiapartnersolutionconnect1). 新しい画像診断機器のための自動診断支援AIの開発. NVIDIA Japan.
 - 2018年7月 Automated Deep Learning by Neural Architecture Search. NICT.
 - 2017年2月 Graph search algorithms for classical planning. 北海道大学[離散構造処理系プロジェクト](https://www-erato.ist.hokudai.ac.jp/index.php)
+
+## 学位論文
+
+- 修士  
+Jinnai Y., 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Advisor: [Alex Fukunaga](http://metahack.org/index.html). University of Tokyo. [PAPER](../pdf/papers/MasterThesis.pdf)
+
+- 学士  
+陣内 佑, 2015. マルチコアマシンにおける並列A*探索の探索オーバーヘッドの解析とアルゴリズムの再評価. 指導教官: [福永 Alex](http://metahack.org/index.html). 東京大学. [PAPER](../pdf/papers/BachelorThesis.pdf)
 
 ## その他
 
@@ -222,17 +226,11 @@ Experienced: C, C#, Objective-C, Rust, Java, Ruby, JavaScript, Common Lisp, Sche
 ML: PyTorch, TensorFlow, Huggingface's Transformers, mlflow, weights and biases  
 Others: git, Cline, Visual Studio Code, Emacs, Docker, AWS, Azure DevOps, GCP, torque job scheduler  
 
-- サーバー構築  
-Ubuntuのインストールからはじめてハブを買ってノードをつなげ、NFSを入れたりjob schedulerを設定してしたりしました。  
-このサーバーは卒業論文の実験に使いました。当時学部生の私にこの機会をくださった福永先生に感謝します。  
-<img src="../images/my-cluster.jpg" alt="server" width="400"/>
-
-
 ## 略歴
 
 - 2023年6月~ Researcher, CyberAgent AI Lab
 - 2020年4月~2023年1月 Research Engineer, Team Leader, Project Manager, Lily MedTech
-- 2017年6月~2020年1月 Ph.D. student, Department of Computer Science, Brown University
+- 2017年6月~2020年1月 (Incomplete) Ph.D. student, Department of Computer Science, Brown University
 - 2019年6月~2019年9月 インターン、Microsoft Research Cambridge, UK
 - 2017年3月~2017年5月 テクニカルスタッフ、理化学研究所革新知能統合研究センター
 - 2015年4月~2017年3月 東京大学大学院総合文化研究科広域科学専攻修士課程

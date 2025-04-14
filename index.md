@@ -10,10 +10,10 @@ Researcher, CyberAgent AI Lab
 - Jun. 2023- Researcher, CyberAgent AI Lab.
 - Apr. 2020-Jan. 2023 Engineer, Lily MedTech Inc.
 - Summer 2019 Intern, MSR Cambridge, UK. 
-- Jun. 2017-Jul. 2020 Ph.D. student, the Department of Computer Science at Brown University.
-- Mar. 2017-May. 2017 Technical staff, RIKEN Center for Advanced Intelligence Project (AIP)
-- Mar. 2017 M.A. degree from Graduate School of Arts and Sciences, the University of Tokyo. Advised by [Alex Fukunaga](http://metahack.org/index.html)
-- Mar. 2015 B.S. degree from the University of Tokyo
+- Jun. 2017-Jul. 2020 (Incomplete) Ph.D. student, the Department of Computer Science at Brown University. Advised by [George Konidaris](https://cs.brown.edu/people/gdk/).
+- Mar. 2017-May. 2017 Technical staff, RIKEN Center for Advanced Intelligence Project (AIP).
+- Mar. 2017 M.A. degree from Graduate School of Arts and Sciences, the University of Tokyo. Advised by [Alex Fukunaga](http://metahack.org/index.html).
+- Mar. 2015 B.S. degree from the University of Tokyo. Advised by [Alex Fukunaga](http://metahack.org/index.html).
 
 ## Research Interests
 
@@ -72,18 +72,6 @@ I was teaching introductory graph theory with flip-teaching style for Terakoya p
 I was a teaching assistant (TA) for first year seminar for science student at the University of Tokyo.
 I was a teaching assistant (TA) for information engineering at the University of Tokyo.
 
-## Seminars
-
-- Jan. 2018. Automated Deep Learning by Neural Architecture Search. National Institute of Information and Communications Technology, Japan.
-
-- Feb. 2017. Graph search algorithms for classical planning. Discrete Structure Manipulation System Project. Hokkaido University, Japan.
-
-## Thesis
-
-- Master Thesis  
-Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Thesis Advisor: Alex Fukunaga. University of Tokyo.  
-[PAPER](../pdf/papers/MasterThesis.pdf)
-
 ## Patents
 - Medical information provision device, ultrasonic ct imaging device, and medical information provision system [Google Patents](https://patents.google.com/patent/JP2023099261A/en)
 - Tumor detection algorithm for ultrasound computed tomography [Google Patents](https://patents.google.com/patent/WO2023053755A1/en)
@@ -91,14 +79,27 @@ Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First 
 - Motion artifact detection for ultrasound computed tomography [Google Patents](https://patents.google.com/patent/WO2022114131A1/en)
 - Faster ultrasound computed tomography by ultrasound signal separation [Google Patents](https://patents.google.com/patent/WO2022054848A1/en)
 
-## Others
 
-- 2017 Ichiko Memorial Award (ja), Graduate School of Arts and Sciences, University of Tokyo (2017) (summa cum laude)
-- Sep. 2013~Aug. 2016 Resident assistant for international students at Univeristy of Tokyo International lodge, Komaba lodge
+## Seminars
+- Jan. 2018. Automated Deep Learning by Neural Architecture Search. National Institute of Information and Communications Technology, Japan.
+- Feb. 2017. Graph search algorithms for classical planning. Discrete Structure Manipulation System Project. Hokkaido University, Japan.
+
+## Thesis
+- Master Thesis  
+Jinnai Y. 2017. On Hash-Based Work Distribution Methods for Parallel Best-First Search. Advisor: [Alex Fukunaga](https://metahack.org/). University of Tokyo.  
+[PAPER](../pdf/papers/MasterThesis.pdf)
+
+## Awards and honors
+- Best Paper Award. 2024. Jinnai Y. Does Cross-Cultural Alignment Change the Commonsense Morality of Language Models? Proceedings of the 2nd Workshop on Cross-Cultural Considerations in NLP (C3NLP Workshop at ACL 2024)
+- Graduated summa cum laude. 2017. Ichiko Memorial Award, Graduate School of Arts and Sciences, University of Tokyo.
+
+## Services
 - Reviewer of International Conference of Machine Learning (ICML), Neural Information Processing Systems (NeurIPS), AAAI Conference on Artificial Intelligence (AAAI), International Conference on Learning Representations (ICLR).
 - Reviewer of ACL (Association for Computational Linguistics) Rolling Review.
 - Reviewer of Journal of Machine Learning Research.
 - Reviewer of Journal of Artificial Intelligence Research.
 - Reviewer of Knowledge-based Systems.
+- Program Committee of 3rd Workshop on Cross-Cultural Considerations in NLP (C3NLP).
+- Program Committee of UncertaiNLP: 2nd Workshop on Uncertainty-Aware NLP.
 
 
