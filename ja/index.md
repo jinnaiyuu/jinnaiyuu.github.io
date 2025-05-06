@@ -20,7 +20,7 @@ Researcher, CyberAgent AI Lab
 ## 国際会議論文
 
 - Yuu Jinnai, Tetsuro Morimura, Kaito Ariu, Kenshi Abe. 2025. Regularized Best-of-N Sampling with Minimum Bayes Risk Objective for Language Model Alignment. North American Chapter of the Association for Computational Linguistics (NAACL).  
-[PAPER](https://arxiv.org/abs/2404.01054) [CODE](https://github.com/CyberAgentAILab/regularized-bon)
+[PAPER](https://arxiv.org/abs/2404.01054) [CODE](https://github.com/CyberAgentAILab/regularized-bon) [TALK](https://www.youtube.com/watch?v=W7tBJK4n0H8)
 
 - Morimura, T., Sakamoto, M., Jinnai, Y., Abe, K., & Ariu, K. (2024). Filtered Direct Preference Optimization. The 2024 Conference on Empirical Methods in Natural Language Processing. (EMNLP-24)  
 [PAPER](https://arxiv.org/abs/2404.13846) [CODE](https://github.com/CyberAgentAILab/filtered-dpo)
