@@ -19,7 +19,16 @@ Researcher, CyberAgent AI Lab
 
 ## 国際会議論文
 
-- Yuu Jinnai, Tetsuro Morimura, Kaito Ariu, Kenshi Abe. 2025. Regularized Best-of-N Sampling with Minimum Bayes Risk Objective for Language Model Alignment. North American Chapter of the Association for Computational Linguistics (NAACL).  
+- Yuki Ichihara, Yuu Jinnai, Kaito Ariu, Tetsuro Morimura, Eiji Uchibe. 2025. Theoretical Guarantees for Minimum Bayes Risk Decoding. Annual Meeting of the Association for Computational Linguistics (ACL-25).  
+[PAPER](https://arxiv.org/abs/2502.12685)
+
+- Ayuto Tsutsumi, Yuu Jinnai. 2025. Do Large Language Models Know Folktales? A Case Study of Yokai in Japanese Folktales. In Findings of the Association for Computational Linguistics (ACL-25 Findings).  
+[CODE](https://github.com/CyberAgentAILab/YokaiEval) [Dataset](https://huggingface.co/datasets/cyberagent/YokaiEval)
+
+- Yuu Jinnai. 2025. Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport. Annual Meeting of the Association for Computational Linguistics (ACL-25).  
+TBA
+
+- Yuu Jinnai, Tetsuro Morimura, Kaito Ariu, Kenshi Abe. 2025. Regularized Best-of-N Sampling with Minimum Bayes Risk Objective for Language Model Alignment. North American Chapter of the Association for Computational Linguistics (NAACL-25).  
 [PAPER](https://arxiv.org/abs/2404.01054) [CODE](https://github.com/CyberAgentAILab/regularized-bon) [TALK](https://www.youtube.com/watch?v=W7tBJK4n0H8)
 
 - Morimura, T., Sakamoto, M., Jinnai, Y., Abe, K., & Ariu, K. (2024). Filtered Direct Preference Optimization. The 2024 Conference on Empirical Methods in Natural Language Processing. (EMNLP-24)  
