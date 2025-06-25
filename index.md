@@ -84,6 +84,8 @@ I was a teaching assistant (TA) for information engineering at the University of
 
 
 ## Seminars
+- Jun. 2025. Introduction to Minimum Bayes Risk Decoding. [NLP Colloquium](https://nlp-colloquium-jp.github.io/).  
+[SLIDES](../pdf/slides/Intro-MBR-decoding.pdf)
 - Jan. 2018. Automated Deep Learning by Neural Architecture Search. National Institute of Information and Communications Technology, Japan.
 - Feb. 2017. Graph search algorithms for classical planning. Discrete Structure Manipulation System Project. Hokkaido University, Japan.
 

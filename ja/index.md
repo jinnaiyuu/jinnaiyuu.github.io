@@ -208,6 +208,8 @@ TA: 情報工学実験
 
 ## セミナー
 
+- 2025年6月 Introduction to Minimum Bayes Risk Decoding. [NLPコロキウム](https://nlp-colloquium-jp.github.io/).  
+[SLIDES](../pdf/slides/Intro-MBR-decoding.pdf)
 - 2022年2月 [NVIDIA Partner Solution Connect](https://events.nvidia.com/nvidiapartnersolutionconnect1). 新しい画像診断機器のための自動診断支援AIの開発. NVIDIA Japan.
 - 2018年7月 Automated Deep Learning by Neural Architecture Search. NICT.
 - 2017年2月 Graph search algorithms for classical planning. 北海道大学[離散構造処理系プロジェクト](https://www-erato.ist.hokudai.ac.jp/index.php)
