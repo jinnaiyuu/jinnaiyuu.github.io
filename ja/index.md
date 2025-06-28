@@ -9,6 +9,13 @@ Researcher, CyberAgent AI Lab
 
 人工知能、強化学習、自然言語生成、機械学習、プランニング、グラフ探索、医用画像処理
 
+## News
+
+- 人工知能学会の[人工知能セミナー(7/11)](https://www.ai-gakkai.or.jp/event/ai-seminar/no98_jsai_seminar/)にて『大規模言語モデルのための強化学習』をお話します。事前申し込みが必要です。オンラインイベントです。
+- [名古屋地区NLPセミナー (7/17)](https://sites.google.com/site/nagoyanlpseminar/)にて『言語モデルの推論時に何が出来るか 』をお話します。申し込み不要、オフラインのイベントです。
+- [ACL 2025 (7/27-8/1)](https://2025.aclweb.org/)に参加します。
+
+
 ## ジャーナル論文
 
 - Yuki Ichihara, Yuu Jinnai, Tetsuro Morimura, Kenshi Abe, Kaito Ariu, Mitsuki Sakamoto, Eiji Uchibe. 2025. Evaluation of Best-of-N Sampling Strategies for Language Model Alignment. Transactions on Machine Learning Research (TMLR).  
@@ -206,7 +213,7 @@ TA: 情報工学実験
 - 2017年度　第31回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2017/student/)
 - 2016年度　第30回人工知能学会全国大会 [学生プログラム委員](http://www.ai-gakkai.or.jp/jsai2016/student/)
 
-## セミナー
+## セミナー・トーク
 
 - 2025年6月 Introduction to Minimum Bayes Risk Decoding. [NLPコロキウム](https://nlp-colloquium-jp.github.io/).  
 [SLIDES](../pdf/slides/Intro-MBR-decoding.pdf)
