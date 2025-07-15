@@ -216,7 +216,7 @@ TA: 情報工学実験
 ## セミナー・トーク
 
 - 2025年7月 大規模言語モデルのための強化学習. [人工知能学会第98回人工知能セミナー](https://www.ai-gakkai.or.jp/event/ai-seminar/no98_jsai_seminar/)  
-[SLIDES 1](../pdf/slides/jsai-seminar-1-20250711.pdf) [SLIDES 2](../pdf/slides/jsai-seminar-2-20250711.pdf)
+[SLIDES 1](../pdf/slides/ja/jsai-seminar-1-20250711.pdf) [SLIDES 2](../pdf/slides/ja/jsai-seminar-2-20250711.pdf)
 - 2025年6月 Introduction to Minimum Bayes Risk Decoding. [NLPコロキウム](https://nlp-colloquium-jp.github.io/).  
 [SLIDES](../pdf/slides/Intro-MBR-decoding.pdf)
 - 2022年2月 新しい画像診断機器のための自動診断支援AIの開発. [NVIDIA Partner Solution Connect](https://events.nvidia.com/nvidiapartnersolutionconnect1). NVIDIA Japan.
