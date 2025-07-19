@@ -11,8 +11,7 @@ Researcher, CyberAgent AI Lab
 
 ## News
 
-- [名古屋地区NLPセミナー (7/17)](https://sites.google.com/site/nagoyanlpseminar/)にて『言語モデルの推論時に何が出来るか 』をお話します。申し込み不要、オフラインのイベントです。
-- [ACL 2025 (7/27-8/1)](https://2025.aclweb.org/) にて[Theoretical Guarantees for Minimum Bayes Risk Decoding]((https://arxiv.org/abs/2502.12685)), [Do Large Language Models Know Folktales? A Case Study of Yokai in Japanese Folktales]((https://arxiv.org/abs/2506.03619)), [Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport]((https://arxiv.org/abs/2505.23078))を発表します。
+- [ACL 2025 (7/27-8/1)](https://2025.aclweb.org/) にて[Theoretical Guarantees for Minimum Bayes Risk Decoding](https://arxiv.org/abs/2502.12685), [Do Large Language Models Know Folktales? A Case Study of Yokai in Japanese Folktales](https://arxiv.org/abs/2506.03619), [Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport](https://arxiv.org/abs/2505.23078)を発表します。
 - [第20回言語処理若手シンポジウム (YANS2025)](https://yans.anlp.jp/entry/yans2025) にて『強化学習は言われた指標を最大化する』をお話します。
 
 
@@ -215,13 +214,17 @@ TA: 情報工学実験
 
 ## セミナー・トーク
 
+- 2025年7月 言語モデルの推論時に何が出来るか. [名古屋地区NLPセミナー](https://sites.google.com/site/nagoyanlpseminar/)  
+[SLIDES](../pdf/slides/ja/nagoya-25.pdf)
 - 2025年7月 大規模言語モデルのための強化学習. [人工知能学会第98回人工知能セミナー](https://www.ai-gakkai.or.jp/event/ai-seminar/no98_jsai_seminar/)  
 [SLIDES 1](../pdf/slides/ja/jsai-seminar-1-20250711.pdf) [SLIDES 2](../pdf/slides/ja/jsai-seminar-2-20250711.pdf)
 - 2025年6月 Introduction to Minimum Bayes Risk Decoding. [NLPコロキウム](https://nlp-colloquium-jp.github.io/).  
-[SLIDES](../pdf/slides/Intro-MBR-decoding.pdf)
+[TALK](https://www.youtube.com/watch?v=lpjw1AgemWY) [SLIDES](../pdf/slides/Intro-MBR-decoding.pdf)
 - 2022年2月 新しい画像診断機器のための自動診断支援AIの開発. [NVIDIA Partner Solution Connect](https://events.nvidia.com/nvidiapartnersolutionconnect1). NVIDIA Japan.
-- 2018年7月 Automated Deep Learning by Neural Architecture Search. NICT.
-- 2017年2月 Graph search algorithms for classical planning. 北海道大学[離散構造処理系プロジェクト](https://www-erato.ist.hokudai.ac.jp/index.php)
+- 2018年7月 Automated Deep Learning by Neural Architecture Search. NICT.  
+[SLIDES](../pdf/slides/ja/nict-alphax-18.pdf)
+- 2017年2月 Graph search algorithms for classical planning. 北海道大学[離散構造処理系プロジェクト](https://www-erato.ist.hokudai.ac.jp/index.php)  
+[SLIDES](../pdf/slides/ja/hokudai.pdf)
 
 ## 学位論文
 
