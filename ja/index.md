@@ -25,14 +25,17 @@ Researcher, CyberAgent AI Lab
 
 ## 国際会議論文
 
+- Jinnai Y, Honda U. 2025. Annotation-Efficient Preference Optimization for Language Model Alignment. In Findings of the Association for Computational Linguistics (EMNLP-25 Findings).  
+[PAPER](https://arxiv.org/abs/2405.13541) [CODE](https://github.com/CyberAgentAILab/annotation-efficient-po)
+
 - Yuki Ichihara, Yuu Jinnai, Kaito Ariu, Tetsuro Morimura, Eiji Uchibe. 2025. Theoretical Guarantees for Minimum Bayes Risk Decoding. Annual Meeting of the Association for Computational Linguistics (ACL-25).  
-[PAPER](https://arxiv.org/abs/2502.12685)
+[PAPER](https://arxiv.org/abs/2502.12685) 
 
 - Ayuto Tsutsumi, Yuu Jinnai. 2025. Do Large Language Models Know Folktales? A Case Study of Yokai in Japanese Folktales. In Findings of the Association for Computational Linguistics (ACL-25 Findings).  
 [PAPER](https://arxiv.org/abs/2506.03619) [CODE](https://github.com/CyberAgentAILab/YokaiEval) [DATASET](https://huggingface.co/datasets/cyberagent/YokaiEval)
 
 - Yuu Jinnai. 2025. Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport. Annual Meeting of the Association for Computational Linguistics (ACL-25).  
-[PAPER](https://arxiv.org/abs/2505.23078) [CODE](https://github.com/jinnaiyuu/mbr-optimal-transport)
+[PAPER](https://arxiv.org/abs/2505.23078) [CODE](https://github.com/jinnaiyuu/mbr-optimal-transport) [TALK](https://www.youtube.com/watch?v=98o31k8YuHE)
 
 - Yuu Jinnai, Tetsuro Morimura, Kaito Ariu, Kenshi Abe. 2025. Regularized Best-of-N Sampling with Minimum Bayes Risk Objective for Language Model Alignment. North American Chapter of the Association for Computational Linguistics (NAACL-25).  
 [PAPER](https://arxiv.org/abs/2404.01054) [CODE](https://github.com/CyberAgentAILab/regularized-bon) [TALK](https://www.youtube.com/watch?v=W7tBJK4n0H8)
@@ -106,8 +109,6 @@ Researcher, CyberAgent AI Lab
 
 ## プリプリント
 
-- Jinnai Y, Honda U. 2024. Annotation-Efficient Preference Optimization for Language Model Alignment arXiv preprint arXiv:2405.13541.  
-[PAPER](https://arxiv.org/abs/2405.13541)
 - Jinnai Y., Morimura T., Honda U. 2023. On the Depth between Beam Search and Exhaustive Search for Text Generation. arXiv 2308.13696  
 [PAPER](https://arxiv.org/abs/2308.13696)
 - Noda T, Jinnai Y, Tomii N, Azuma T. 2023. Blind Signal Separation for Fast Ultrasound Computed Tomography. arXiv 2304.14424  
