@@ -11,9 +11,11 @@ Researcher, CyberAgent AI Lab
 
 ## News
 
-- [ACL 2025 (7/27-8/1)](https://2025.aclweb.org/) にて[Theoretical Guarantees for Minimum Bayes Risk Decoding](https://arxiv.org/abs/2502.12685), [Do Large Language Models Know Folktales? A Case Study of Yokai in Japanese Folktales](https://arxiv.org/abs/2506.03619), [Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport](https://arxiv.org/abs/2505.23078)を発表します。
-- [第20回言語処理若手シンポジウム (YANS2025)](https://yans.anlp.jp/entry/yans2025) にて『強化学習は言われた指標を最大化する』をお話します。
-
+- [第20回言語処理若手シンポジウム (YANS2025)](https://yans.anlp.jp/entry/yans2025) にて弊チームに来ていただいているインターンの方々の発表があります。
+  - [S1-P13] 多目的問題でのGRPOにおける報酬ハッキングの緩和について 市原 有生希 (NAIST), 陣内 佑 (サイバーエージェント), 森村 哲郎 (サイバーエージェント), 坂本 充生 (サイバーエージェント), 三橋 亮太 (サイバーエージェント), 内部 英治 (ATR)
+  - [S2-P37] 作品の魅力を伝えるためのあらすじの自動生成と評価に向けて 凌 志棟 (一橋大), 陣内 佑 (サイバーエージェント)
+  - [S3-P40] 多様性と一貫性の両立を目指したLLM×事後最適化によるキャラクター対話生成 堤 歩斗 (都立大), 陣内 佑 (サイバーエージェント)
+- [EMNLP2025](https://2025.emnlp.org/) にて[Annotation-Efficient Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.13541)の発表をします。
 
 ## ジャーナル論文
 
