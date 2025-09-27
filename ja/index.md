@@ -27,7 +27,9 @@ Researcher, CyberAgent AI Lab
 
 ## 国際会議論文
 
-- Jinnai Y, Honda U. 2025. Annotation-Efficient Preference Optimization for Language Model Alignment. In Findings of the Association for Computational Linguistics (EMNLP-25 Findings).  
+- Yuki Ichihara, Yuu Jinnai. 2025. Auto-Weighted Group Relative Preference Optimization for Multi-Objective Text Generation Tasks. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track (EMNLP-25 Industry).
+
+- Yuu Jinnai, Ukyo Honda. 2025. Annotation-Efficient Preference Optimization for Language Model Alignment. In Findings of the Association for Computational Linguistics (EMNLP-25 Findings).  
 [PAPER](https://arxiv.org/abs/2405.13541) [CODE](https://github.com/CyberAgentAILab/annotation-efficient-po)
 
 - Yuki Ichihara, Yuu Jinnai, Kaito Ariu, Tetsuro Morimura, Eiji Uchibe. 2025. Theoretical Guarantees for Minimum Bayes Risk Decoding. Annual Meeting of the Association for Computational Linguistics (ACL-25).  
@@ -89,7 +91,9 @@ Researcher, CyberAgent AI Lab
 
 ## 国際会議ワークショップ論文
 
-- Jinnai Y. 2024. Does Cross-Cultural Alignment Change the Commonsense Morality of Language Models? The 2nd Workshop on Cross-Cultural Considerations in NLP (C3NLP Workshop at ACL 2024). **Best Paper Award**.  
+- Zhidong Ling, Yuu Jinnai. 2025. In Proceedings of the 5rd Wordplay: When Language Meets Games Workshop (Wordplay 2025 at EMNLP 2025).
+
+- Yuu Jinnai. 2024. Does Cross-Cultural Alignment Change the Commonsense Morality of Language Models? The 2nd Workshop on Cross-Cultural Considerations in NLP (C3NLP Workshop at ACL 2024). **Best Paper Award**.  
 [PAPER](https://aclanthology.org/2024.c3nlp-1.5.pdf) [TALK](https://www.youtube.com/watch?v=TjFDn3L65s0) [MODEL](https://huggingface.co/cyberagent/calm2-7b-chat-dpo-experimental) [DATASET](https://huggingface.co/datasets/cyberagent/chatbot-arena-ja-calm2-7b-chat-experimental)
 
 - Morimura T, Sakamoto M, Jinnai Y, Abe K, Ariu K. 2024. Filtered Direct Preference Optimization. ICML 2024 Workshop on Models of Human Feedback for AI Alignment.  
