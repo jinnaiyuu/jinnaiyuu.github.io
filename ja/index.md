@@ -11,11 +11,10 @@ Researcher, CyberAgent AI Lab
 
 ## News
 
-- [第20回言語処理若手シンポジウム (YANS2025)](https://yans.anlp.jp/entry/yans2025) にて弊チームに来ていただいているインターンの方々の発表があります。
-  - [S1-P13] 多目的問題でのGRPOにおける報酬ハッキングの緩和について 市原 有生希 (NAIST), 陣内 佑 (サイバーエージェント), 森村 哲郎 (サイバーエージェント), 坂本 充生 (サイバーエージェント), 三橋 亮太 (サイバーエージェント), 内部 英治 (ATR)
-  - [S2-P37] 作品の魅力を伝えるためのあらすじの自動生成と評価に向けて 凌 志棟 (一橋大), 陣内 佑 (サイバーエージェント)
-  - [S3-P40] 多様性と一貫性の両立を目指したLLM×事後最適化によるキャラクター対話生成 堤 歩斗 (都立大), 陣内 佑 (サイバーエージェント)
-- [EMNLP2025](https://2025.emnlp.org/) にて[Annotation-Efficient Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.13541)の発表をします。
+- [EMNLP2025](https://2025.emnlp.org/) にて以下３件の発表を行います．
+  - Auto-Weighted Group Relative Preference Optimization for Multi-Objective Text Generation Tasks, Yuki Ichihara, Yuu Jinnai. 2025. (EMNLP Industry)
+  - On Generating Consistent and Attractive Promotional Introduction Text for Narrative Media Arts. Zhidong Ling, Yuu Jinnai. 2025. (Wordplay 2025)
+  - [Annotation-Efficient Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.13541) Yuu Jinnai, Ukyo Honda. 2025. (EMNLP Findings)
 
 ## ジャーナル論文
 
@@ -33,25 +32,25 @@ Researcher, CyberAgent AI Lab
 [PAPER](https://arxiv.org/abs/2405.13541) [CODE](https://github.com/CyberAgentAILab/annotation-efficient-po)
 
 - Yuki Ichihara, Yuu Jinnai, Kaito Ariu, Tetsuro Morimura, Eiji Uchibe. 2025. Theoretical Guarantees for Minimum Bayes Risk Decoding. Annual Meeting of the Association for Computational Linguistics (ACL-25).  
-[PAPER](https://arxiv.org/abs/2502.12685) 
+[PAPER](https://aclanthology.org/2025.acl-long.793/) 
 
 - Ayuto Tsutsumi, Yuu Jinnai. 2025. Do Large Language Models Know Folktales? A Case Study of Yokai in Japanese Folktales. In Findings of the Association for Computational Linguistics (ACL-25 Findings).  
-[PAPER](https://arxiv.org/abs/2506.03619) [CODE](https://github.com/CyberAgentAILab/YokaiEval) [DATASET](https://huggingface.co/datasets/cyberagent/YokaiEval)
+[PAPER](https://aclanthology.org/2025.findings-acl.829/) [CODE](https://github.com/CyberAgentAILab/YokaiEval) [DATASET](https://huggingface.co/datasets/cyberagent/YokaiEval)
 
 - Yuu Jinnai. 2025. Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport. Annual Meeting of the Association for Computational Linguistics (ACL-25).  
-[PAPER](https://arxiv.org/abs/2505.23078) [CODE](https://github.com/jinnaiyuu/mbr-optimal-transport) [TALK](https://www.youtube.com/watch?v=98o31k8YuHE)
+[PAPER](https://aclanthology.org/2025.acl-long.1370/) [CODE](https://github.com/jinnaiyuu/mbr-optimal-transport) [TALK](https://www.youtube.com/watch?v=98o31k8YuHE)
 
 - Yuu Jinnai, Tetsuro Morimura, Kaito Ariu, Kenshi Abe. 2025. Regularized Best-of-N Sampling with Minimum Bayes Risk Objective for Language Model Alignment. North American Chapter of the Association for Computational Linguistics (NAACL-25).  
-[PAPER](https://arxiv.org/abs/2404.01054) [CODE](https://github.com/CyberAgentAILab/regularized-bon) [TALK](https://www.youtube.com/watch?v=W7tBJK4n0H8)
+[PAPER](https://aclanthology.org/2025.naacl-long.472/) [CODE](https://github.com/CyberAgentAILab/regularized-bon) [TALK](https://www.youtube.com/watch?v=W7tBJK4n0H8)
 
 - Morimura, T., Sakamoto, M., Jinnai, Y., Abe, K., & Ariu, K. (2024). Filtered Direct Preference Optimization. The 2024 Conference on Empirical Methods in Natural Language Processing. (EMNLP-24)  
-[PAPER](https://arxiv.org/abs/2404.13846) [CODE](https://github.com/CyberAgentAILab/filtered-dpo)
+[PAPER](https://aclanthology.org/2024.emnlp-main.1266/) [CODE](https://github.com/CyberAgentAILab/filtered-dpo)
 
 - Jinnai Y, Ariu K. Hyperparameter-Free Approach for Faster Minimum Bayes Risk Decoding. In Findings of the Association for Computational Linguistics. (ACL-24 Findings)  
-[PAPER](https://arxiv.org/abs/2401.02749) [CODE](https://github.com/CyberAgentAILab/adaptive-mbr) [TALK](https://www.youtube.com/watch?v=iJAGPIMtxC0)
+[PAPER](https://aclanthology.org/2024.findings-acl.505/) [CODE](https://github.com/CyberAgentAILab/adaptive-mbr) [TALK](https://www.youtube.com/watch?v=iJAGPIMtxC0)
  
 - Jinnai Y, Honda U, Morimura T, Zhang P. Generating Diverse and High-Quality Texts by Minimum Bayes Risk Decoding. In Findings of the Association for Computational Linguistics. (ACL-24 Findings)  
-[PAPER](https://arxiv.org/abs/2401.05054) [CODE](https://github.com/CyberAgentAILab/diverse-mbr) [TALK](https://www.youtube.com/watch?v=dU7LzgPwANo)
+[PAPER](https://aclanthology.org/2024.findings-acl.503/) [CODE](https://github.com/CyberAgentAILab/diverse-mbr) [TALK](https://www.youtube.com/watch?v=dU7LzgPwANo)
 
 - Jinnai Y, Morimura T, Honda U, Ariu K, Abe K. Model-based minimum bayes risk decoding. Proc. 41st International Conference on Machine Learning. (ICML-24)  
 [PAPER](https://arxiv.org/abs/2311.05263) [CODE](https://github.com/CyberAgentAILab/model-based-mbr) [TALK](https://www.youtube.com/watch?v=w8_rLLPkE5A)
@@ -91,7 +90,7 @@ Researcher, CyberAgent AI Lab
 
 ## 国際会議ワークショップ論文
 
-- Zhidong Ling, Yuu Jinnai. 2025. In Proceedings of the 5rd Wordplay: When Language Meets Games Workshop (Wordplay 2025 at EMNLP 2025).
+- Zhidong Ling, Yuu Jinnai. 2025. On Generating Consistent and Attractive Promotional Introduction Text for Narrative Media Arts. In Proceedings of the 5rd Wordplay: When Language Meets Games Workshop (Wordplay 2025 at EMNLP 2025).
 
 - Yuu Jinnai. 2024. Does Cross-Cultural Alignment Change the Commonsense Morality of Language Models? The 2nd Workshop on Cross-Cultural Considerations in NLP (C3NLP Workshop at ACL 2024). **Best Paper Award**.  
 [PAPER](https://aclanthology.org/2024.c3nlp-1.5.pdf) [TALK](https://www.youtube.com/watch?v=TjFDn3L65s0) [MODEL](https://huggingface.co/cyberagent/calm2-7b-chat-dpo-experimental) [DATASET](https://huggingface.co/datasets/cyberagent/chatbot-arena-ja-calm2-7b-chat-experimental)
@@ -221,6 +220,7 @@ TA: 情報工学実験
 
 ## セミナー・トーク
 
+- 2025年9月 強化学習は与えられた指標を最大化する. [第20回言語処理若手シンポジウム (YANS2025)](https://yans.anlp.jp/entry/yans2025)  
 - 2025年7月 言語モデルの推論時に何が出来るか. [名古屋地区NLPセミナー](https://sites.google.com/site/nagoyanlpseminar/)  
 [SLIDES](../pdf/slides/ja/nagoya-25.pdf)
 - 2025年7月 大規模言語モデルのための強化学習. [人工知能学会第98回人工知能セミナー](https://www.ai-gakkai.or.jp/event/ai-seminar/no98_jsai_seminar/)  
